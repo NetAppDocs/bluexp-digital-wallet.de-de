@@ -1,0 +1,113 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, enhancements, fixes' 
+summary: Informieren Sie sich über die Neuerungen beim Digital Wallet von BlueXP. 
+---
+= Was ist neu
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Informieren Sie sich über die Neuerungen beim Digital Wallet von BlueXP.
+
+
+
+== Bis 3. April 2023
+
+
+
+=== E-Mail-Benachrichtigungen
+
+E-Mail-Benachrichtigungen werden jetzt mit Digital Wallet unterstützt.
+
+Wenn Sie Ihre Benachrichtigungseinstellungen konfigurieren, können Sie E-Mail-Benachrichtigungen erhalten, wenn Ihre BYOL-Lizenzen ablaufen (eine „Warnung“) oder wenn sie bereits abgelaufen sind (eine „Fehler“-Benachrichtigung).
+
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-monitor-cm-operations.html["Hier erfahren Sie, wie Sie E-Mail-Benachrichtigungen einrichten"^]
+
+
+
+=== Lizenzierte Kapazität für Marketplace-Abonnements
+
+Bei der Anzeige der kapazitätsbasierten Lizenzierung für Cloud Volumes ONTAP zeigt das Digital Wallet jetzt die lizenzierte Kapazität an, die Sie mit den privaten Marketplace-Angeboten erworben haben.
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["Erfahren Sie, wie Sie die verbrauchte Kapazität in Ihrem Konto anzeigen"].
+
+
+
+== 6. November 2022
+
+
+
+=== Abonnements und Jahresverträge
+
+Ihre PAYGO-Abonnements und Jahresverträge für BlueXP sind jetzt für die Anzeige und Verwaltung über das Digital Wallet verfügbar.
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-subscriptions.html["Hier erfahren Sie, wie Sie Ihre Abonnements verwalten"].
+
+
+
+== 18. September 2022
+
+
+
+=== Optimierte I/O- und WORM-Kapazität
+
+Das Digital Wallet zeigt jetzt eine Zusammenfassung des optimierten I/O-Lizenzpakets und der bereitgestellten WORM-Kapazität für Cloud Volumes ONTAP-Systeme auf Ihrem Konto an.
+
+Mit diesen Angaben können Sie besser verstehen, wie abgerechnet wird und ob Sie zusätzliche Kapazität erwerben müssen.
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["Erfahren Sie, wie Sie die verbrauchte Kapazität in Ihrem Konto anzeigen"].
+
+
+
+== 31 Juli 2022
+
+
+
+=== Lademethode ändern
+
+Sie können nun die Gebührenmethode für ein Cloud Volumes ONTAP System ändern, das kapazitätsbasierte Lizenzierung nutzt. Wenn Sie beispielsweise ein Cloud Volumes ONTAP-System mit dem Essentials-Paket bereitgestellt haben, können Sie es in das Professional-Paket ändern, wenn sich Ihre Geschäftsanforderungen ändern.
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["Erfahren Sie, wie Sie Lademethoden ändern können"].
+
+
+
+== 3 Juli 2022
+
+
+
+=== Verbrauchte Kapazität
+
+Auf der Digital Wallet werden jetzt die verbrauchte Gesamtkapazität Ihres Kontos und die verbrauchte Kapazität nach Lizenzpaket angezeigt. Dadurch können Sie nachvollziehen, wie Sie belastet sind und ob Sie zusätzliche Kapazität erwerben müssen.
+
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-digital-wallet-summary.png["Ein Screenshot, der die Seite „Digital Wallet“ für kapazitätsbasierte Lizenzen anzeigt. Die Seite bietet einen Überblick über die verbrauchte Kapazität in Ihrem Account und setzt dann die verbrauchte Kapazität nach Lizenzpaket auf."]
+
+
+
+== 27 Februar 2022
+
+
+
+=== Lizenzen für lokale ONTAP Cluster
+
+Sie können jetzt einen Bestand Ihrer On-Premises-ONTAP-Cluster sowie die zugehörigen Ablaufdaten von Hardware- und Serviceverträgen anzeigen. Weitere Details zu den Clustern sind ebenfalls verfügbar.
+
+https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-on-prem-clusters.html["Managen Sie Lizenzen für On-Premises-ONTAP-Cluster"].
+
+
+
+== Januar 2022
+
+
+
+=== Lizenzbedingungen werden automatisch aktualisiert
+
+Wenn Sie die Kapazität oder Laufzeit Ihrer Lizenzen ändern, werden die Lizenzbedingungen jetzt automatisch in Digital Wallet aktualisiert. Sie müssen die Lizenz nicht manuell aktualisieren.
+
+Das automatische Lizenzupdate funktioniert mit allen Arten von Cloud Volumes ONTAP-Lizenzen und allen Lizenzen für Datendienste.

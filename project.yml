@@ -1,0 +1,70 @@
+---
+settings:
+  name: BlueXP digital wallet
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: de-de,us-en,ja-jp,ko-kr,zh-cn,zh-tw,es-es,fr-fr
+sidebar:
+  entries:
+  - title: BlueXP Digital-Wallet-Dokumente
+    url: "/index.html"
+  - title: Versionshinweise
+    url: "/whats-new.html"
+  - title: Los geht's
+    entries:
+    - title: Erfahren Sie mehr über das Digital Wallet von BlueXP
+      url: "/concept-digital-wallet.html"
+  - title: Nutzen Sie das Digital Wallet von BlueXP
+    entries:
+    - title: Lizenzen für Cloud Volumes ONTAP verwalten
+      entries:
+      - title: Kapazitätsbasierte Lizenzen
+        url: "/task-manage-capacity-licenses.html"
+      - title: Node-basierte Lizenzen
+        url: "/task-manage-node-based-licenses.html"
+    - title: Managen Sie Lizenzen für BlueXP Datenservices
+      url: "/task-manage-data-services-licenses.html"
+    - title: PAYGO-Abonnements und -Verträge verwalten
+      url: "/task-manage-subscriptions.html"
+    - title: Management von Keystone Flex Abonnements
+      url: "/task-manage-keystone.html"
+    - title: Management von Lizenzen für On-Premises-ONTAP-Cluster
+      url: "/task-manage-on-prem-clusters.html"
+  - title: Wissen und Support
+    entries:
+    - title: Für den Support anmelden
+      url: "/task-support-registration.html"
+    - title: Holen Sie sich Hilfe
+      url: "/task-get-help.html"
+  - title: Rechtliche Hinweise
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: Los geht's
+    links:
+    - title: Erfahren Sie mehr über das Digital Wallet von BlueXP
+      url: concept-digital-wallet.html
+  - title: Verwalten Sie Ihre Lizenzen
+    links:
+    - title: Management kapazitätsbasierter Lizenzen für Cloud Volumes ONTAP
+      url: task-manage-capacity-licenses.html
+    - title: Managen Sie Lizenzen für BlueXP Datenservices
+      url: task-manage-data-services-licenses.html
+    - title: PAYGO-Abonnements und -Verträge verwalten
+      url: task-manage-subscriptions.html
+  - title: Blogs und Community
+    links:
+    - title: NetApp Community
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP-Blog
+      url: https://bluexp.netapp.com/blog
+    - title: Cloud-Webinare
+      url: https://bluexp.netapp.com/events
+product-family:
+  name: BlueXP
+  repo: cloud-manager-family
+  sidebar_label: Alle BlueXP-Dokumentationen
