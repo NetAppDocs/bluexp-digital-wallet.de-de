@@ -5,7 +5,7 @@ permalink: index.html
 lead: The BlueXP digital wallet provides centralized management and monitoring of your licenses and subscriptions. 
 summary: Die Digital Wallet von BlueXP ermöglicht ein zentralisiertes Management und Monitoring Ihrer Lizenzen und Abonnements. 
 ---
-= Das Digital Wallet von BlueXP
+= BlueXP Digital Wallet – Dokumentation
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

@@ -85,7 +85,6 @@
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="list-text">Cloud Volumes ONTAP</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="list-text">ONTAP-Cluster vor Ort</block>
   <block id="a4f0f752cbc0651ce6551bad053b1ae6" category="summary">Die Digital Wallet von BlueXP ermöglicht ein zentralisiertes Management und Monitoring Ihrer Lizenzen und Abonnements.</block>
-  <block id="7b432de78427e2c7ffdddf3f0a09ce52" category="doc">Das Digital Wallet von BlueXP</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">Bevor Sie einen Support-Fall beim technischen Support von NetApp eröffnen können, müssen Sie BlueXP ein NetApp Support Site Konto hinzufügen und sich dann für den Support registrieren.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Für den Support anmelden</block>
   <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">Bevor Sie einen Support-Fall beim technischen Support von NetApp eröffnen können, müssen Sie BlueXP einen NetApp Support Site Account (NSS) hinzufügen und sich dann für den Support registrieren.</block>
@@ -549,4 +548,5 @@
   <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP-Blog</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Cloud-Webinare</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Alle BlueXP-Dokumentationen</block>
+  <block id="49f326995814ee311b340478f99f992f" category="doc">BlueXP Digital Wallet – Dokumentation</block>
 </blocks>
