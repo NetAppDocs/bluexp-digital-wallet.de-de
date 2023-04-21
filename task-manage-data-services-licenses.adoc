@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-manage-data-services-licenses.html 
 keywords: data services, byol, cloud backup, cloud tiering, data sense, cloud data sense, obtain license file, nlf, add license, update license 
-summary: 'Das Digital Wallet von BlueXP ermöglicht das Managen von Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, um sie mit Cloud Backup, Cloud Data Sense und Cloud Tiering zu nutzen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.' 
+summary: 'Das Digital Wallet von BlueXP ermöglicht das Management von Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, um sie für Backup und Recovery, Klassifizierung und Tiering von BlueXP zu nutzen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.' 
 ---
 = Managen Sie Lizenzen für BlueXP Datenservices
 :hardbreaks:
@@ -14,13 +14,13 @@ summary: 'Das Digital Wallet von BlueXP ermöglicht das Managen von Lizenzen, di
 
 
 [role="lead"]
-Das Digital Wallet von BlueXP ermöglicht das Managen von Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, um sie mit Cloud Backup, Cloud Data Sense und Cloud Tiering zu nutzen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.
+Das Digital Wallet von BlueXP ermöglicht das Management von Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, um sie für Backup und Recovery, Klassifizierung und Tiering von BlueXP zu nutzen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.
 
 Die Anweisungen auf dieser Seite enthalten Informationen, die für jeden Service gelten. Weitere Informationen zur Lizenzierung für diese Services finden Sie auf den folgenden Seiten:
 
-* https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-licensing-cloud-backup.html["Lizenzierung für Cloud Backup einrichten"^]
-* https://docs.netapp.com/us-en/cloud-manager-data-sense/task-licensing-datasense.html["Lizenzierung für Cloud Data Sense einrichten"^]
-* https://docs.netapp.com/us-en/cloud-manager-tiering/task-licensing-cloud-tiering.html["Lizenzierung für Cloud Tiering einrichten"^]
+* https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-licensing-cloud-backup.html["Lizenzierung für Backup und Recovery von BlueXP einrichten"^]
+* https://docs.netapp.com/us-en/cloud-manager-data-sense/task-licensing-datasense.html["Lizenzierung für die BlueXP Klassifizierung einrichten"^]
+* https://docs.netapp.com/us-en/cloud-manager-tiering/task-licensing-cloud-tiering.html["Lizenzierung für BlueXP Tiering einrichten"^]
 
 
 
@@ -62,7 +62,7 @@ Wenn Ihr NetApp Support Site Konto nicht in der Dropdown-Liste verfügbar ist, h
 
 ** Wenn Sie über die Lizenzdatei verfügen (erforderlich bei Verwendung von BlueXP im privaten Modus), wählen Sie die Option *Lizenzdatei hochladen* aus und folgen Sie den Anweisungen zum Anhängen der Datei.
 +
-image:screenshot_services_license_add2.png["Ein Screenshot, der die Seite zeigt, auf der die BYOL-Lizenz von Cloud Backup hinzugefügt werden soll."]
+image:screenshot_services_license_add2.png["Ein Screenshot, in dem die Seite zum Hinzufügen der BYOL-Lizenz angezeigt wird."]
 
 
 
@@ -75,14 +75,14 @@ BlueXP fügt die Lizenz hinzu.
 
 == Aktualisieren Sie eine Lizenz
 
-Wenn die Lizenzlaufzeit kurz vor dem Ablaufdatum steht oder die lizenzierte Kapazität das Limit erreicht, werden Sie im Digital Wallet benachrichtigt. Sie können Ihre Lizenz vor ihrem Ablauf aktualisieren, damit Ihre Nutzung des BlueXP Datenservice nicht unterbrochen wird.
+Wenn die Lizenzlaufzeit kurz vor dem Ablaufdatum steht oder die lizenzierte Kapazität das Limit erreicht, werden Sie im Digital Wallet von BlueXP benachrichtigt. Sie können Ihre Lizenz vor ihrem Ablauf aktualisieren, damit Ihre Nutzung des BlueXP Datenservice nicht unterbrochen wird.
 
 image:screenshot_services_license_expire.png["Ein Screenshot mit einer auslaufenden Lizenz auf der Seite „Digital Wallet“."]
 
 .Schritte
 . Klicken Sie auf das Chat-Symbol unten rechts von BlueXP oder wenden Sie sich an den Support, um eine Verlängerung Ihrer Laufzeit zu beantragen oder Ihre Lizenz für die bestimmte Seriennummer um zusätzliche Kapazität zu erweitern.
 +
-Nach der Zahlung für die Lizenz und der Registrierung auf der NetApp Support-Website aktualisiert BlueXP automatisch die Lizenz im Digital Wallet. Auf der Seite „Data Services Licenses“ wird die Änderung in 5 bis 10 Minuten dargestellt.
+Nachdem Sie für die Lizenz bezahlt und sie auf der NetApp Support-Website registriert ist, aktualisiert BlueXP automatisch die Lizenz im digitalen Wallet. Auf der Seite „Datenservices-Lizenzen“ wird die Änderung in 5 bis 10 Minuten dargestellt.
 
 . Wenn BlueXP die Lizenz nicht automatisch aktualisieren kann (zum Beispiel bei der Nutzung von BlueXP im privaten Modus), müssen Sie die Lizenzdatei manuell hochladen.
 +

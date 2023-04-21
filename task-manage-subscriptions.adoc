@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-manage-subscriptions.html 
 keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts 
-summary: Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement können Sie jedes Abonnement über Digital Wallet verwalten. 
+summary: Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement kann jedes Abonnement über das Digital Wallet von BlueXP gemanagt werden. 
 ---
 = PAYGO-Abonnements und -Verträge verwalten
 :hardbreaks:
@@ -14,13 +14,13 @@ summary: Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, 
 
 
 [role="lead"]
-Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement können Sie jedes Abonnement über Digital Wallet verwalten.
+Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement kann jedes Abonnement über das Digital Wallet von BlueXP gemanagt werden.
 
 
 
 == Ihre Abonnements anzeigen
 
-Das Digital Wallet enthält Details zu jedem PAYGO-Abonnement und einem Jahresvertrag, der mit Ihrem BlueXP-Konto und mit Astra verbunden ist (Astra nutzt den BlueXP-Gebührendienst).
+Das Digital Wallet von BlueXP enthält Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihr BlueXP Konto und Astra Control (Astra Control nutzt den Cloud-Abrechnungsservice von BlueXP).
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
@@ -32,7 +32,7 @@ Sie sehen nur die Abonnements, die mit dem Konto verknüpft sind, das Sie derzei
 +
 ** Erweitern Sie eine Zeile, um weitere Details anzuzeigen.
 +
-image:screenshot-subscriptions-expand.png["Ein Screenshot der Registerkarte Abonnements im Digital Wallet, in dem Sie den Pfeil am Ende einer Zeile auswählen können, um ihn zu erweitern."]
+image:screenshot-subscriptions-expand.png["Ein Screenshot der Registerkarte Abonnements in der digitalen Brieftasche, in der Sie den Pfeil am Ende einer Zeile auswählen können, um ihn zu erweitern."]
 
 ** Wählen Sie image:icon-column-selector.png["Das Plus-Symbol am Ende der Tabellenüberschrift"] So legen Sie fest, welche Spalten in der Tabelle angezeigt werden sollen.
 +
@@ -49,8 +49,8 @@ K. A.:: Wenn in der Tabelle „N/A“ angezeigt wird, sind die Informationen der
 Verträge::
 +
 --
-** Wenn Sie die Details für einen Vertrag erweitern, zeigt das Digital Wallet an, was für Ihren aktuellen Plan zur Verfügung steht: Die Vertragsoptionen und Einheiten (Kapazität oder Anzahl der Knoten).
-** Das Digital Wallet identifiziert das Enddatum und gibt an, ob der Vertrag bald verlängert, bald beendet wird oder ob er bereits beendet ist.
+** Wenn Sie die Vertragsdetails erweitern, zeigt das Digital Wallet von BlueXP die verfügbaren Optionen und Einheiten für Ihren aktuellen Plan an: Die Vertragsoptionen und Einheiten (Kapazität oder Anzahl der Nodes).
+** Anhand des BlueXP Digital Wallet wird das Enddatum ermittelt, ob der Vertrag sich in Kürze, in Kürze oder auch schon verlängern lässt.
 ** Wenn Sie einen AWS-Vertrag haben und eine der Optionen des Vertrags nach dem Startdatum geändert haben, validieren Sie Ihre Vertragsoptionen im AWS Marketplace.
 
 
@@ -63,7 +63,7 @@ Verträge::
 
 == Verwalten Sie Ihre Abonnements
 
-Sie können Ihre Abonnements über das Digital Wallet verwalten, indem Sie ein Abonnement umbenennen und die Konten auswählen, die mit dem Abonnement verknüpft sind.
+Sie können Ihre Abonnements über das Digital Wallet von BlueXP managen, indem Sie ein Abonnement umbenennen und die mit dem Abonnement verbundenen Konten auswählen.
 
 Nehmen wir zum Beispiel an, dass Sie zwei Konten haben und jedes über separate Abonnements abgerechnet wird. Sie können ein Abonnement von einem der Konten aufheben, damit die Benutzer in diesem Konto nicht versehentlich das falsche Abonnement wählen, wenn sie eine Cloud Volumes ONTAP-Arbeitsumgebung erstellen.
 

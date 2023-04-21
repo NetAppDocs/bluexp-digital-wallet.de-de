@@ -14,7 +14,7 @@ summary: Verwalten Sie Ihre knotenbasierten Lizenzen in der digitalen Geldbörse
 
 
 [role="lead"]
-Verwalten Sie knotenbasierte Lizenzen in der digitalen Geldbörse, um sicherzustellen, dass jedes Cloud Volumes ONTAP-System über eine gültige Lizenz mit der erforderlichen Kapazität verfügt.
+Managen Sie Node-basierte Lizenzen in der Digital Wallet, um sicherzustellen, dass für jedes Cloud Volumes ONTAP System eine gültige Lizenz mit der erforderlichen Kapazität vorhanden ist.
 
 _Node-basierte Lizenzen_ sind das Lizenzmodell der vorherigen Generation (und für neue Kunden nicht verfügbar):
 

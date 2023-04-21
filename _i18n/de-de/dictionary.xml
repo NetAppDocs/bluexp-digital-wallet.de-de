@@ -74,14 +74,9 @@
   <block id="98f770b0af18ca763421bac22b4b6805" category="section-title">Funktionen</block>
   <block id="012ae05db65bea80da7b7050b5d96f9e" category="list-text">Management kapazitätsbasierter und Node-basierter Lizenzen für Cloud Volumes ONTAP</block>
   <block id="62d9aca3bac1caa2d9cff120588c3e35" category="list-text">Hinzufügen und Managen von Lizenzen für BlueXP Datenservices</block>
-  <block id="94c8d5dbc233a7f83819d5552acfe787" category="list-text">Abonnements für PAYGO- und Jahresverträge in Verbindung mit Ihrem BlueXP Konto und mit Astra managen</block>
   <block id="68893f701c3397a3a6f6ae5a965a7ef6" category="list-text">Keystone Flex-Abonnements managen und Cloud Volumes ONTAP Änderungen an der gebuchten Kapazität anfordern</block>
   <block id="385b7e85ac73053263ffe4f49784da13" category="list-text">Statusinformationen zu Hardware- und Softwareverträgen für lokale ONTAP Cluster anzeigen</block>
   <block id="ea22f9957523103248d84695e98b17ba" category="section-title">Unterstützte Services</block>
-  <block id="0cf6e0b36272b906da65f6af3ab672b0" category="paragraph">Das Digital Wallet von BlueXP ermöglicht Ihnen das Lizenzmanagement für die folgenden BlueXP Services:</block>
-  <block id="dad57e95fc9a5390302ad830888cbdb9" category="list-text">Cloud-Backup</block>
-  <block id="d882bf73cd5caf1e5aa39edbf893ad74" category="list-text">Cloud-Daten Sinnvoll</block>
-  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="list-text">Cloud Tiering</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="list-text">Cloud Volumes ONTAP</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="list-text">ONTAP-Cluster vor Ort</block>
   <block id="a4f0f752cbc0651ce6551bad053b1ae6" category="summary">Die Digital Wallet von BlueXP ermöglicht ein zentralisiertes Management und Monitoring Ihrer Lizenzen und Abonnements.</block>
@@ -240,15 +235,8 @@
   <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*Fall schließen*: Geben Sie Details darüber an, warum Sie den Fall schließen und klicken Sie auf *Fall schließen*.</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Ein Screenshot, der die Aktionen zeigt, die Sie nach Auswahl des Menüs in der letzten Spalte der Tabelle durchführen können.</block>
   <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="4dc97d13f8afbf15e0936287290445d1" category="summary">Das Digital Wallet von BlueXP ermöglicht das Managen von Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, um sie mit Cloud Backup, Cloud Data Sense und Cloud Tiering zu nutzen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.</block>
   <block id="e9598339aeb07702e2b24ef63fca36cc" category="doc">Managen Sie Lizenzen für BlueXP Datenservices</block>
   <block id="9733849463a86c6a043ab58c8ddf1ac4" category="paragraph">Die Anweisungen auf dieser Seite enthalten Informationen, die für jeden Service gelten. Weitere Informationen zur Lizenzierung für diese Services finden Sie auf den folgenden Seiten:</block>
-  <block id="854a5b181af5166b0412d0786c77db0b" category="inline-link">Lizenzierung für Cloud Backup einrichten</block>
-  <block id="b984bca5aec62e5640849a3ce56f3a6c" category="list-text"><block ref="b984bca5aec62e5640849a3ce56f3a6c" category="inline-link-rx"></block></block>
-  <block id="0ed0a0ad5aadf8f8ef3ea382b8f4a106" category="inline-link">Lizenzierung für Cloud Data Sense einrichten</block>
-  <block id="b3b23402aeecfc18bdb1d8932564085d" category="list-text"><block ref="b3b23402aeecfc18bdb1d8932564085d" category="inline-link-rx"></block></block>
-  <block id="4b75686c0a14158ec6b99e93fbf1828b" category="inline-link">Lizenzierung für Cloud Tiering einrichten</block>
-  <block id="f896a045834fbc7eb21af1d43d98136b" category="list-text"><block ref="f896a045834fbc7eb21af1d43d98136b" category="inline-link-rx"></block></block>
   <block id="73acd586df3bf9938d39f0e738d5c161" category="section-title">Lizenzdatei abrufen</block>
   <block id="f11bf973a6c8039ecfd0152979db21be" category="paragraph">Nach dem Kauf einer Lizenz können Sie die Lizenz in BlueXP aktivieren, indem Sie entweder die Seriennummer und das NSS-Konto eingeben oder die NetApp Lizenzdatei (NetApp License File, NLF) hochladen. Die folgenden Schritte zeigen, wie Sie die Lizenzdatei NLF abrufen können, wenn Sie diese Methode verwenden möchten.</block>
   <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="inline-link">NetApp Support Website</block>
@@ -269,15 +257,10 @@
   <block id="bae190eec3db4a0dd635ae72756acde8" category="inline-link">Fügen Sie das NSS-Konto zu BlueXP hinzu</block>
   <block id="3a7d2aab6d3f158a52978777da89804f" category="paragraph">Wenn Ihr NetApp Support Site Konto nicht in der Dropdown-Liste verfügbar ist,<block ref="6d9745cd4f1d60b55f06aef4c5cb6ec4" category="inline-link-rx"></block></block>
   <block id="6e2573cea3af840a0c24f94975047370" category="list-text">Wenn Sie über die Lizenzdatei verfügen (erforderlich bei Verwendung von BlueXP im privaten Modus), wählen Sie die Option *Lizenzdatei hochladen* aus und folgen Sie den Anweisungen zum Anhängen der Datei.</block>
-  <block id="b91c77235ab93af32b475ca05ffa1ab2" category="inline-image-macro">Ein Screenshot, der die Seite zeigt, auf der die BYOL-Lizenz von Cloud Backup hinzugefügt werden soll.</block>
-  <block id="78364824176e311173787bc994b841d4" category="paragraph"><block ref="78364824176e311173787bc994b841d4" category="inline-image-macro-rx" type="image"></block></block>
   <block id="9f7100a1f5980a935ee73427b4e84228" category="paragraph">BlueXP fügt die Lizenz hinzu.</block>
   <block id="6c1c5737355a8b30e87ad5d7c6da9553" category="section-title">Aktualisieren Sie eine Lizenz</block>
-  <block id="f2325e725df0937d64ac12917b15a3b3" category="paragraph">Wenn die Lizenzlaufzeit kurz vor dem Ablaufdatum steht oder die lizenzierte Kapazität das Limit erreicht, werden Sie im Digital Wallet benachrichtigt. Sie können Ihre Lizenz vor ihrem Ablauf aktualisieren, damit Ihre Nutzung des BlueXP Datenservice nicht unterbrochen wird.</block>
   <block id="89ec6475bcd2a52ce9ca1c8fa843339e" category="inline-image-macro">Ein Screenshot mit einer auslaufenden Lizenz auf der Seite „Digital Wallet“.</block>
   <block id="b16535eaa5694c59eb7ff71777c5cd59" category="paragraph"><block ref="b16535eaa5694c59eb7ff71777c5cd59" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="bb99d6c3efadbec99aeab8b89922e30d" category="list-text">Klicken Sie auf das Chat-Symbol unten rechts von BlueXP oder wenden Sie sich an den Support, um eine Verlängerung Ihrer Laufzeit zu beantragen oder Ihre Lizenz für die bestimmte Seriennummer um zusätzliche Kapazität zu erweitern.</block>
-  <block id="8061535eb5e8bab52c4a8a0fdc119d14" category="paragraph">Nach der Zahlung für die Lizenz und der Registrierung auf der NetApp Support-Website aktualisiert BlueXP automatisch die Lizenz im Digital Wallet. Auf der Seite „Data Services Licenses“ wird die Änderung in 5 bis 10 Minuten dargestellt.</block>
   <block id="b74318cb9e5cf2bae938953860aade06" category="list-text">Wenn BlueXP die Lizenz nicht automatisch aktualisieren kann (zum Beispiel bei der Nutzung von BlueXP im privaten Modus), müssen Sie die Lizenzdatei manuell hochladen.</block>
   <block id="b2b168bd64a341a85c749cb61bba40cb" category="inline-xref">Beziehen Sie die Lizenzdatei über die NetApp Support-Website</block>
   <block id="5281a9b97c306047dc796d618670919d" category="list-text">Das können Sie <block ref="2ee9df93e68c4a0ffa870dc00950ab97" category="inline-xref-macro-rx"></block>.</block>
@@ -324,22 +307,18 @@
   <block id="490414e0366b091220802d406e52c076" category="doc">Was ist neu</block>
   <block id="102787ed6297b34a7504b527e91d01d3" category="section-title">Bis 3. April 2023</block>
   <block id="a67ce68ccac082ad54a552bdbcb6ecd7" category="section-title">E-Mail-Benachrichtigungen</block>
-  <block id="a08572617e25a61e8569807ac103ab07" category="paragraph">E-Mail-Benachrichtigungen werden jetzt mit Digital Wallet unterstützt.</block>
   <block id="380d0a0b2cec998dcd9f52b91b24304c" category="paragraph">Wenn Sie Ihre Benachrichtigungseinstellungen konfigurieren, können Sie E-Mail-Benachrichtigungen erhalten, wenn Ihre BYOL-Lizenzen ablaufen (eine „Warnung“) oder wenn sie bereits abgelaufen sind (eine „Fehler“-Benachrichtigung).</block>
   <block id="335e7f21f0fdfecbe9c04540dcb8cdd6" category="inline-link">Hier erfahren Sie, wie Sie E-Mail-Benachrichtigungen einrichten</block>
   <block id="497d867daded8927a3cf934337006373" category="paragraph"><block ref="497d867daded8927a3cf934337006373" category="inline-link-rx"></block></block>
   <block id="164bf9dea8d8396a2e7501258b908616" category="section-title">Lizenzierte Kapazität für Marketplace-Abonnements</block>
-  <block id="1b8d4ee3ff5e577bc8524d6a5e73790e" category="paragraph">Bei der Anzeige der kapazitätsbasierten Lizenzierung für Cloud Volumes ONTAP zeigt das Digital Wallet jetzt die lizenzierte Kapazität an, die Sie mit den privaten Marketplace-Angeboten erworben haben.</block>
   <block id="207aaa44f72ba634c18fcc9bae44d655" category="inline-link">Erfahren Sie, wie Sie die verbrauchte Kapazität in Ihrem Konto anzeigen</block>
   <block id="1e9f781ad3dabc2f942313854ce94883" category="paragraph"><block ref="bcd8bf14da5e102dbc4b48dd0870869e" category="inline-link-rx"></block>.</block>
   <block id="5a4346a01828d72104a6540080377b25" category="section-title">6. November 2022</block>
   <block id="36e33f823d687cad39366d44fd0b326d" category="section-title">Abonnements und Jahresverträge</block>
-  <block id="a7dad5ac7e311dedf2a82e4bb5a713dd" category="paragraph">Ihre PAYGO-Abonnements und Jahresverträge für BlueXP sind jetzt für die Anzeige und Verwaltung über das Digital Wallet verfügbar.</block>
   <block id="949b19dd7e9f6496c1125f7166270450" category="inline-link">Hier erfahren Sie, wie Sie Ihre Abonnements verwalten</block>
   <block id="02a7eedc354fe91b04b9ff906dc9c760" category="paragraph"><block ref="dcb08a7187e62f8d5d6c3eba08ea6b8f" category="inline-link-rx"></block>.</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18. September 2022</block>
   <block id="b269d65b4fd592fc59288f3c9c3917b9" category="section-title">Optimierte I/O- und WORM-Kapazität</block>
-  <block id="e1de90a0937196074c7abb9f8b5e5edf" category="paragraph">Das Digital Wallet zeigt jetzt eine Zusammenfassung des optimierten I/O-Lizenzpakets und der bereitgestellten WORM-Kapazität für Cloud Volumes ONTAP-Systeme auf Ihrem Konto an.</block>
   <block id="c3304f9cf1f523f219fc4a936bde8242" category="paragraph">Mit diesen Angaben können Sie besser verstehen, wie abgerechnet wird und ob Sie zusätzliche Kapazität erwerben müssen.</block>
   <block id="3f10ba55f7b5ee2ce092504fcea72477" category="section-title">31 Juli 2022</block>
   <block id="b69737a8aa6d54e160fd215ef53825b5" category="section-title">Lademethode ändern</block>
@@ -348,9 +327,6 @@
   <block id="8c8503ff8c21813561363b608190163e" category="paragraph"><block ref="24cab88ee4e7cc87558a54f6745deabe" category="inline-link-rx"></block>.</block>
   <block id="1511b856d0328cfba458b8f83c2e94e3" category="section-title">3 Juli 2022</block>
   <block id="dd83b22a815febb6c6547eab078bbf30" category="section-title">Verbrauchte Kapazität</block>
-  <block id="d5503d6062daaaa4326462970164cbac" category="paragraph">Auf der Digital Wallet werden jetzt die verbrauchte Gesamtkapazität Ihres Kontos und die verbrauchte Kapazität nach Lizenzpaket angezeigt. Dadurch können Sie nachvollziehen, wie Sie belastet sind und ob Sie zusätzliche Kapazität erwerben müssen.</block>
-  <block id="232ac716fdabb7e9b9ba7c3a108574a7" category="inline-image-macro">Ein Screenshot, der die Seite „Digital Wallet“ für kapazitätsbasierte Lizenzen anzeigt. Die Seite bietet einen Überblick über die verbrauchte Kapazität in Ihrem Account und setzt dann die verbrauchte Kapazität nach Lizenzpaket auf.</block>
-  <block id="998e6cc07bc5c3b4a2329ad21093316c" category="paragraph"><block ref="998e6cc07bc5c3b4a2329ad21093316c" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ba26e4556a0f160834687982b0479336" category="section-title">27 Februar 2022</block>
   <block id="ad542dc76a1c13d716648648c7052561" category="section-title">Lizenzen für lokale ONTAP Cluster</block>
   <block id="cc6992a66b9fc6bd5f23a20beff49e2a" category="paragraph">Sie können jetzt einen Bestand Ihrer On-Premises-ONTAP-Cluster sowie die zugehörigen Ablaufdaten von Hardware- und Serviceverträgen anzeigen. Weitere Details zu den Clustern sind ebenfalls verfügbar.</block>
@@ -358,7 +334,6 @@
   <block id="770294ba582707dbf5d21f7add8b531e" category="paragraph"><block ref="d28003d0743d6fc8a920f6982b9bd603" category="inline-link-rx"></block>.</block>
   <block id="586301717819197e24001cac47efdaaa" category="section-title">Januar 2022</block>
   <block id="d5ce756f503ae6211b9ef6c827e757be" category="section-title">Lizenzbedingungen werden automatisch aktualisiert</block>
-  <block id="310c945b52669c8754bf13907cbb5859" category="paragraph">Wenn Sie die Kapazität oder Laufzeit Ihrer Lizenzen ändern, werden die Lizenzbedingungen jetzt automatisch in Digital Wallet aktualisiert. Sie müssen die Lizenz nicht manuell aktualisieren.</block>
   <block id="b2d68f8e07e0e6ca8d81ba9d15e96e7e" category="paragraph">Das automatische Lizenzupdate funktioniert mit allen Arten von Cloud Volumes ONTAP-Lizenzen und allen Lizenzen für Datendienste.</block>
   <block id="94fd71e366753efc2c71fcdd0fc3afd4" category="summary">Das Digital Wallet von BlueXP ermöglicht Ihnen die Anzeige von Vertragsdetails zu jedem Ihrer lokalen ONTAP Cluster. Wenn Sie in BlueXP noch keinen Cluster gefunden haben, können Sie das auch aus dem Digital Wallet heraus tun.</block>
   <block id="dc8526e1d318113e071717b2a8bb27b7" category="doc">Management von Lizenzen für lokale ONTAP Cluster</block>
@@ -400,16 +375,12 @@
   <block id="2b3c797a98693bc95eb014beb60621b8" category="list-text"><block ref="2b3c797a98693bc95eb014beb60621b8" category="inline-link-rx"></block></block>
   <block id="299867ed6070a6cda18ae92e5d434213" category="inline-link">Informieren Sie sich, wie Sie Cluster, die direkt erkannt werden, managen</block>
   <block id="99d7f3ff9fb7308bda3abc7d58891657" category="list-text"><block ref="99d7f3ff9fb7308bda3abc7d58891657" category="inline-link-rx"></block></block>
-  <block id="4d17b7f0d1f8c0ae69c0ec8d32fea349" category="summary">Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement können Sie jedes Abonnement über Digital Wallet verwalten.</block>
   <block id="b01b1be092b95233172f870dc729234b" category="doc">PAYGO-Abonnements und -Verträge verwalten</block>
   <block id="e858f445394700e621aa67dd8e3fe958" category="section-title">Ihre Abonnements anzeigen</block>
-  <block id="9c1b3fb5f48f73ce89025933ec931382" category="paragraph">Das Digital Wallet enthält Details zu jedem PAYGO-Abonnement und einem Jahresvertrag, der mit Ihrem BlueXP-Konto und mit Astra verbunden ist (Astra nutzt den BlueXP-Gebührendienst).</block>
   <block id="8c3682e85d7f4dbe8a46485082335dec" category="list-text">Wählen Sie *Abonnements*.</block>
   <block id="1422eb9c77ef6c74d6abe35beedc5d64" category="paragraph">Sie sehen nur die Abonnements, die mit dem Konto verknüpft sind, das Sie derzeit anzeigen.</block>
   <block id="572e470335e0a6d55da05c732a01aed3" category="list-text">Wenn Sie die Informationen zu Ihren Abonnements anzeigen, können Sie wie folgt mit den Details in der Tabelle interagieren:</block>
   <block id="6a1de13d318f22872902849cd26467b4" category="list-text">Erweitern Sie eine Zeile, um weitere Details anzuzeigen.</block>
-  <block id="d61aec883b403c61da2d8d8e19d78473" category="inline-image-macro">Ein Screenshot der Registerkarte Abonnements im Digital Wallet, in dem Sie den Pfeil am Ende einer Zeile auswählen können, um ihn zu erweitern.</block>
-  <block id="3a9d2caf2b3b63f1b3ab7d00e469b158" category="paragraph"><block ref="3a9d2caf2b3b63f1b3ab7d00e469b158" category="inline-image-macro-rx" type="image"></block></block>
   <block id="56594b7222b35921f9fe676eadf6bbdf" category="inline-image-macro">Das Plus-Symbol am Ende der Tabellenüberschrift</block>
   <block id="33d90cc16eaedf37738a3faf06f00f36" category="list-text">Wählen Sie <block ref="98b11313fea6c4106e5a3c018f0ffbc9" category="inline-image-macro-rx" type="image"></block> So legen Sie fest, welche Spalten in der Tabelle angezeigt werden sollen.</block>
   <block id="c090ce3dc0b8ea780bfa95c666328c67" category="paragraph">Beachten Sie, dass die Spalten „Begriff“ und „Automatische Verlängerung“ standardmäßig nicht angezeigt werden. In der Spalte „Automatische Erneuerung“ werden nur Informationen zur Verlängerung von Azure-Verträgen angezeigt.</block>
@@ -419,11 +390,8 @@
   <block id="382b0f5185773fa0f67a8ed8056c7759" category="list-text">K. A.</block>
   <block id="716e98867696fbbeed00e3dcd1f76758" category="list-text">Wenn in der Tabelle „N/A“ angezeigt wird, sind die Informationen derzeit nicht über die API des Cloud-Providers verfügbar.</block>
   <block id="cd494d76449d5dfe0c0adfb2f3447761" category="list-text">Verträge</block>
-  <block id="8090b542b799e2f0268fddd048d44eda" category="list-text">Wenn Sie die Details für einen Vertrag erweitern, zeigt das Digital Wallet an, was für Ihren aktuellen Plan zur Verfügung steht: Die Vertragsoptionen und Einheiten (Kapazität oder Anzahl der Knoten).</block>
-  <block id="7f96d1365390f4c6a7c1befe0b068769" category="list-text">Das Digital Wallet identifiziert das Enddatum und gibt an, ob der Vertrag bald verlängert, bald beendet wird oder ob er bereits beendet ist.</block>
   <block id="def1d5f1d4a6db4b59f941bed287221d" category="list-text">Wenn Sie einen AWS-Vertrag haben und eine der Optionen des Vertrags nach dem Startdatum geändert haben, validieren Sie Ihre Vertragsoptionen im AWS Marketplace.</block>
   <block id="6942b724002d90bb0f705f478cdd6bf3" category="section-title">Verwalten Sie Ihre Abonnements</block>
-  <block id="ac3dad7b0d90a8896f44e77f84726619" category="paragraph">Sie können Ihre Abonnements über das Digital Wallet verwalten, indem Sie ein Abonnement umbenennen und die Konten auswählen, die mit dem Abonnement verknüpft sind.</block>
   <block id="0c3ef8839b737ed6600351348aace81b" category="paragraph">Nehmen wir zum Beispiel an, dass Sie zwei Konten haben und jedes über separate Abonnements abgerechnet wird. Sie können ein Abonnement von einem der Konten aufheben, damit die Benutzer in diesem Konto nicht versehentlich das falsche Abonnement wählen, wenn sie eine Cloud Volumes ONTAP-Arbeitsumgebung erstellen.</block>
   <block id="e97d1d1134e32a84fb4d6d796e3e56a9" category="list-text">Wählen Sie in der Zeile das Aktionsmenü aus, das dem Abonnement entspricht, das Sie verwalten möchten.</block>
   <block id="1dea06c0cd8c3b77e4597670a860c155" category="inline-image-macro">Ein Screenshot des Aktionsmenüs für ein Abonnement.</block>
@@ -431,7 +399,6 @@
   <block id="1201c1bd99e40a424aee33ac62838b92" category="list-text">Benennen Sie das Abonnement um oder managen Sie die BlueXP Konten, die mit dem Abonnement verbunden sind.</block>
   <block id="7e3a4c0ec1aee45acf094839bb9c449f" category="summary">Verwalten Sie Ihre knotenbasierten Lizenzen in der digitalen Geldbörse, um sicherzustellen, dass jedes Cloud Volumes ONTAP-System über eine gültige Lizenz mit der erforderlichen Kapazität verfügt.</block>
   <block id="de94398a333e3b7bdafad2ddf3232331" category="doc">Management knotenbasierter Lizenzen</block>
-  <block id="15d021d83ccb68dbaf63683ce6741fee" category="paragraph">Verwalten Sie knotenbasierte Lizenzen in der digitalen Geldbörse, um sicherzustellen, dass jedes Cloud Volumes ONTAP-System über eine gültige Lizenz mit der erforderlichen Kapazität verfügt.</block>
   <block id="4627bd080634e9380c75a1cc04a09486" category="paragraph">_Node-basierte Lizenzen_ sind das Lizenzmodell der vorherigen Generation (und für neue Kunden nicht verfügbar):</block>
   <block id="81f9d97336a30fb7be6f8d770fee25eb" category="list-text">Byol-Lizenzen, die von NetApp erworben wurden</block>
   <block id="17ac9e85cf5b6f7b77acf61fb7721242" category="list-text">PAYGO-Abonnements (Pay-as-you-go) vom Markt Ihres Cloud-Providers</block>
@@ -549,4 +516,37 @@
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Cloud-Webinare</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Alle BlueXP-Dokumentationen</block>
   <block id="49f326995814ee311b340478f99f992f" category="doc">BlueXP Digital Wallet – Dokumentation</block>
+  <block id="d73d2254cb7a33ffdc126efbce99e623" category="list-text">Abonnements für PAYGO- und Jahresverträge in Verbindung mit Ihrem BlueXP Konto und mit Astra Control managen</block>
+  <block id="bf4700247951934a88713e31aa00a0a6" category="paragraph">Das Digital Wallet von BlueXP ermöglicht Ihnen das Management von Lizenzen für folgende Bereiche:</block>
+  <block id="be062cdcabbb3055334e8f19b4bdf378" category="list-text">Backup und Recovery</block>
+  <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="list-text">Klassifizierung</block>
+  <block id="337c62c6b6eb7319bae58701105e889c" category="list-text">Tiering</block>
+  <block id="fd75ff71faa02dfc85d4684cc9a98740" category="summary">Das Digital Wallet von BlueXP ermöglicht das Management von Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, um sie für Backup und Recovery, Klassifizierung und Tiering von BlueXP zu nutzen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.</block>
+  <block id="f4b04af639ebf32754e26b928989f33f" category="inline-link">Lizenzierung für Backup und Recovery von BlueXP einrichten</block>
+  <block id="10ec558978234bae716554274b27c5bc" category="list-text"><block ref="10ec558978234bae716554274b27c5bc" category="inline-link-rx"></block></block>
+  <block id="6212c283c0695ee1a154f1a6cdde74ef" category="inline-link">Lizenzierung für die BlueXP Klassifizierung einrichten</block>
+  <block id="393acb1dea64f92d858ed4b9c5d6deda" category="list-text"><block ref="393acb1dea64f92d858ed4b9c5d6deda" category="inline-link-rx"></block></block>
+  <block id="8202299929ccdfe388049a03c2c36d60" category="inline-link">Lizenzierung für BlueXP Tiering einrichten</block>
+  <block id="7446ed3e56afcef7894742c01a3465b0" category="list-text"><block ref="7446ed3e56afcef7894742c01a3465b0" category="inline-link-rx"></block></block>
+  <block id="f5b39d30a98c93c6a597de76a3901496" category="inline-image-macro">Ein Screenshot, in dem die Seite zum Hinzufügen der BYOL-Lizenz angezeigt wird.</block>
+  <block id="2ab8c9555cb0a7278c9c119126d09972" category="paragraph"><block ref="2ab8c9555cb0a7278c9c119126d09972" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8d16d75f7a68c03867a9fa6a0c1e8e53" category="paragraph">Wenn die Lizenzlaufzeit kurz vor dem Ablaufdatum steht oder die lizenzierte Kapazität das Limit erreicht, werden Sie im Digital Wallet von BlueXP benachrichtigt. Sie können Ihre Lizenz vor ihrem Ablauf aktualisieren, damit Ihre Nutzung des BlueXP Datenservice nicht unterbrochen wird.</block>
+  <block id="2778ca24e217e309a35a740dcd70d977" category="list-text">Klicken Sie auf das Chat-Symbol unten rechts von BlueXP oder wenden Sie sich an den Support, um eine Verlängerung Ihrer Laufzeit zu beantragen oder Ihre Lizenz für die bestimmte Seriennummer um zusätzliche Kapazität zu erweitern.</block>
+  <block id="1b87732cda1ee77b5952013e06e1ac10" category="paragraph">Nachdem Sie für die Lizenz bezahlt und sie auf der NetApp Support-Website registriert ist, aktualisiert BlueXP automatisch die Lizenz im digitalen Wallet. Auf der Seite „Datenservices-Lizenzen“ wird die Änderung in 5 bis 10 Minuten dargestellt.</block>
+  <block id="d128bda2634e1051cc984231da065144" category="paragraph">Das Digital Wallet von BlueXP unterstützt jetzt E-Mail-Benachrichtigungen.</block>
+  <block id="016c818ed3128119f94a31cbec32bf1f" category="paragraph">Bei der Anzeige der kapazitätsbasierten Lizenzierung für Cloud Volumes ONTAP wird in der Digital Wallet von BlueXP die lizenzierte Kapazität angezeigt, die Sie mit privaten Marketplace-Angeboten erworben haben.</block>
+  <block id="b3e680bd6b6b80e2fd4f5bd19f3ad015" category="paragraph">Ihre PAYGO-Abonnements und Jahresverträge für BlueXP können jetzt über das Digital Wallet von BlueXP betrachtet und gemanagt werden.</block>
+  <block id="dfc3d3012360c41f119ce032ebb3ed8b" category="paragraph">Das Digital Wallet von BlueXP zeigt Ihnen jetzt eine Zusammenfassung des optimierten I/O-Lizenzpakets und der bereitgestellten WORM-Kapazität für Cloud Volumes ONTAP Systeme auf Ihrem gesamten Konto.</block>
+  <block id="290fbe7a9d91cd4191566b8d26837eb2" category="paragraph">Das zeigt Ihnen nun die gesamte verbrauchte Kapazität in Ihrem Konto und die verbrauchte Kapazität nach Lizenzierungspaket an. Dadurch können Sie nachvollziehen, wie Sie belastet sind und ob Sie zusätzliche Kapazität erwerben müssen.</block>
+  <block id="61589f40a840f6f60d0d36160690dc0e" category="inline-image-macro">Ein Screenshot, in dem die Seite für kapazitätsbasierte Lizenzen angezeigt wird. Die Seite bietet einen Überblick über die verbrauchte Kapazität in Ihrem Account und setzt dann die verbrauchte Kapazität nach Lizenzpaket auf.</block>
+  <block id="ec263309aca016e16fe4380d1c571c9e" category="paragraph"><block ref="ec263309aca016e16fe4380d1c571c9e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ccb04438d71ca79f2a97704ba47b5adf" category="paragraph">Wenn Sie die Kapazität oder den Begriff für eine Ihrer Lizenzen ändern, werden die Lizenzbedingungen jetzt automatisch in der aktualisiert. Sie müssen die Lizenz nicht manuell aktualisieren.</block>
+  <block id="682e041ff00069faf1e43f1e418221a6" category="summary">Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement kann jedes Abonnement über das Digital Wallet von BlueXP gemanagt werden.</block>
+  <block id="65459c618528464246bc4dd16dea72ba" category="paragraph">Das Digital Wallet von BlueXP enthält Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihr BlueXP Konto und Astra Control (Astra Control nutzt den Cloud-Abrechnungsservice von BlueXP).</block>
+  <block id="69cda14c45037fc1c766e6b7626c706b" category="inline-image-macro">Ein Screenshot der Registerkarte Abonnements in der digitalen Brieftasche, in der Sie den Pfeil am Ende einer Zeile auswählen können, um ihn zu erweitern.</block>
+  <block id="d6e80e5ccdacdc912b76ab91b58f6023" category="paragraph"><block ref="d6e80e5ccdacdc912b76ab91b58f6023" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="41f51117bfa13081af4c8a2db1a7ab58" category="list-text">Wenn Sie die Vertragsdetails erweitern, zeigt das Digital Wallet von BlueXP die verfügbaren Optionen und Einheiten für Ihren aktuellen Plan an: Die Vertragsoptionen und Einheiten (Kapazität oder Anzahl der Nodes).</block>
+  <block id="25b3c421a2199fb638256d316af13699" category="list-text">Anhand des BlueXP Digital Wallet wird das Enddatum ermittelt, ob der Vertrag sich in Kürze, in Kürze oder auch schon verlängern lässt.</block>
+  <block id="c2e2efadf42aef45b4e8e6b176f32df0" category="paragraph">Sie können Ihre Abonnements über das Digital Wallet von BlueXP managen, indem Sie ein Abonnement umbenennen und die mit dem Abonnement verbundenen Konten auswählen.</block>
+  <block id="5a91158751eaabe4d195cd633fa37db6" category="paragraph">Managen Sie Node-basierte Lizenzen in der Digital Wallet, um sicherzustellen, dass für jedes Cloud Volumes ONTAP System eine gültige Lizenz mit der erforderlichen Kapazität vorhanden ist.</block>
 </blocks>
