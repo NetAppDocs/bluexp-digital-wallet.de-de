@@ -22,6 +22,8 @@ Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Si
 
 Das Digital Wallet von BlueXP enthält Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihr BlueXP Konto und Astra Control (Astra Control nutzt den Cloud-Abrechnungsservice von BlueXP).
 
+Bei Google Cloud können Sie auch Marketplace-Abonnements identifizieren, die mit einem privaten Angebot verknüpft sind, sodass Sie überprüfen können, ob Sie das Angebot erfolgreich angenommen haben.
+
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
 . Wählen Sie *Abonnements*.
@@ -46,12 +48,14 @@ Beachten Sie Folgendes zu den in der Tabelle aufgeführten Informationen:
 +
 Startdatum:: Das Startdatum ist, wenn Sie das Abonnement erfolgreich mit Ihrem Konto verknüpft haben und der Ladevorgang gestartet wurde.
 K. A.:: Wenn in der Tabelle „N/A“ angezeigt wird, sind die Informationen derzeit nicht über die API des Cloud-Providers verfügbar.
+Laufzeit:: Wenn Ihr Google Cloud-Abonnement mit einem privaten Angebot verknüpft ist und dieses private Angebot nach Erstellung und Annahme geändert wurde, wird in der Laufzeit N/A angezeigt In diesem Szenario enthält die API-Antwort, die wir vom Google Cloud Marketplace erhalten, keine term-bezogenen Informationen.
 Verträge::
 +
 --
 ** Wenn Sie die Vertragsdetails erweitern, zeigt das Digital Wallet von BlueXP die verfügbaren Optionen und Einheiten für Ihren aktuellen Plan an: Die Vertragsoptionen und Einheiten (Kapazität oder Anzahl der Nodes).
 ** Anhand des BlueXP Digital Wallet wird das Enddatum ermittelt, ob der Vertrag sich in Kürze, in Kürze oder auch schon verlängern lässt.
 ** Wenn Sie einen AWS-Vertrag haben und eine der Optionen des Vertrags nach dem Startdatum geändert haben, validieren Sie Ihre Vertragsoptionen im AWS Marketplace.
+** Wenn Sie ein privates Google Cloud-Angebot haben, sind keine Vertragsoptionen verfügbar.
 
 
 --

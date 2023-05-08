@@ -549,4 +549,18 @@
   <block id="25b3c421a2199fb638256d316af13699" category="list-text">Anhand des BlueXP Digital Wallet wird das Enddatum ermittelt, ob der Vertrag sich in Kürze, in Kürze oder auch schon verlängern lässt.</block>
   <block id="c2e2efadf42aef45b4e8e6b176f32df0" category="paragraph">Sie können Ihre Abonnements über das Digital Wallet von BlueXP managen, indem Sie ein Abonnement umbenennen und die mit dem Abonnement verbundenen Konten auswählen.</block>
   <block id="5a91158751eaabe4d195cd633fa37db6" category="paragraph">Managen Sie Node-basierte Lizenzen in der Digital Wallet, um sicherzustellen, dass für jedes Cloud Volumes ONTAP System eine gültige Lizenz mit der erforderlichen Kapazität vorhanden ist.</block>
+  <block id="71bff2737bdd059023a4784358e71a64" category="section-title">7 Mai 2023</block>
+  <block id="060a6559f6065c5058aca6b22d897bce" category="section-title">Google Cloud-Angebote</block>
+  <block id="bfe876190faa5e7a4cd6d5029395b658" category="paragraph">Das BlueXP Digital Wallet identifiziert jetzt Google Cloud Marketplace Abonnements, die mit einem privaten Angebot verbunden sind, sowie Enddatum und Laufzeit des Abonnements. Durch diese Erweiterung können Sie überprüfen, ob Sie das private Angebot erfolgreich angenommen haben, und die Bedingungen bestätigen.</block>
+  <block id="2cd5985150a2728c0c6295c5162b2b1d" category="section-title">Aufladeaufschlüsselung</block>
+  <block id="d0f5a029263e80e902caf444fa5e9080" category="paragraph">Jetzt finden Sie heraus, für welche Gebühren Sie zahlen, wenn Sie kapazitätsbasierte Lizenzen abonniert haben. Die folgenden Nutzungsberichte können aus dem Digital Wallet von BlueXP heruntergeladen werden. Die Nutzungsberichte enthalten Kapazitätsdetails zu Ihren Abonnements und geben an, wie Sie für die Ressourcen in Ihren Cloud Volumes ONTAP Abonnements in Rechnung gestellt werden. Die herunterladbaren Berichte können leicht mit anderen geteilt werden.</block>
+  <block id="ed54fb55b53f11e61f612ff99520f4bc" category="list-text">Verwendung des Cloud Volumes ONTAP-Pakets</block>
+  <block id="160ba974abba347f5e939a1a0acd5982" category="list-text">Allgemeine Nutzung</block>
+  <block id="bf951096cc9eea5fae867ec94f06dfa3" category="list-text">Verwendung von Storage VMs</block>
+  <block id="3c5979c173a0a4fe3ff27e0e6185a693" category="list-text">Volumennutzung</block>
+  <block id="8156321649d649dc3e16c2849d8aa212" category="paragraph">Weitere Informationen finden Sie unter <block ref="862b3811f42dd37621050f0605c0d301" category="inline-link-macro-rx"></block>.</block>
+  <block id="76631958e748db22b905b65fb2cba5d2" category="paragraph">Bei Google Cloud können Sie auch Marketplace-Abonnements identifizieren, die mit einem privaten Angebot verknüpft sind, sodass Sie überprüfen können, ob Sie das Angebot erfolgreich angenommen haben.</block>
+  <block id="cf5f3091e30dee6597885d8c0e0c357f" category="list-text">Laufzeit</block>
+  <block id="314c4a4eeddb6d1cd1f813b95714f7a2" category="list-text">Wenn Ihr Google Cloud-Abonnement mit einem privaten Angebot verknüpft ist und dieses private Angebot nach Erstellung und Annahme geändert wurde, wird in der Laufzeit N/A angezeigt In diesem Szenario enthält die API-Antwort, die wir vom Google Cloud Marketplace erhalten, keine term-bezogenen Informationen.</block>
+  <block id="3b3f3f7253f4c57a7eb145d69d119e28" category="list-text">Wenn Sie ein privates Google Cloud-Angebot haben, sind keine Vertragsoptionen verfügbar.</block>
 </blocks>
