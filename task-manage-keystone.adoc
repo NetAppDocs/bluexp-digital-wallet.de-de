@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-keystone.html 
-keywords: license, licensing, install, keystone, requst capacity, link subscription, add keystone subscription, keystone subscription 
-summary: Auf der Seite „Digitale Geldbörse“ können Sie Lizenzen für Cloud Volumes ONTAP von einem einzigen Ort aus verwalten. Sie können neue Lizenzen hinzufügen und vorhandene Lizenzen aktualisieren. 
+keywords: license, licensing, install, keystone, request capacity, link subscription, add keystone subscription, keystone subscription 
+summary: Managen Sie die Keystone Abonnementservices über Digital Wallet, indem Sie Abonnements für die Verwendung mit Cloud Volumes ONTAP aktivieren. Sie können auch Änderungen an der zugesagt Kapazität anfordern und die Verknüpfung von Abonnements aufheben. 
 ---
-= Managen Sie Keystone Flex-Abonnements
+= Management der Keystone Subscription Services
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
