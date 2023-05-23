@@ -14,11 +14,11 @@ summary: Managen Sie die Keystone Abonnementservices über Digital Wallet, indem
 
 
 [role="lead"]
-Verwalten Sie Ihre Keystone Flex-Abonnements über das digitale Wallet, indem Sie Abonnements für die Verwendung mit Cloud Volumes ONTAP aktivieren. Sie können auch Änderungen an der zugesagt Kapazität anfordern und die Verknüpfung von Abonnements aufheben.
+Managen Sie Ihre Keystone Abonnements über das Digital Wallet von BlueXP, indem Sie Abonnements für die Verwendung mit Cloud Volumes ONTAP aktivieren. Sie können auch Änderungen an der zugesagt Kapazität anfordern und die Verknüpfung von Abonnements aufheben.
 
-Ein _Keystone Flex Subscription_ ist ein von NetApp angebotene „Pay-as-you-grow“-Storage-Service.
+A _Keystone Subscription_ ist ein Pay-as-you-grow Storage-Service von NetApp.
 
-Mit der _Digitalbörse_ können Sie Lizenzen für Cloud Volumes ONTAP von einem einzigen Ort aus verwalten. Sie können neue Lizenzen hinzufügen und vorhandene Lizenzen aktualisieren.
+Mit der _BlueXP Digital Wallet_ können Sie Lizenzen für Cloud Volumes ONTAP von einem einzigen Standort aus managen. Sie können neue Lizenzen hinzufügen und vorhandene Lizenzen aktualisieren.
 
 https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html["Weitere Informationen zu Cloud Volumes ONTAP Lizenzen"].
 
@@ -26,7 +26,7 @@ https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensin
 
 == Autorisieren Sie Ihr Konto
 
-Bevor Sie Keystone Flex Abonnements in BlueXP verwenden und verwalten können, müssen Sie sich an NetApp wenden, um Ihr BlueXP Benutzerkonto mit Ihren Keystone Flex Abonnements zu autorisieren.
+Bevor Sie Keystone Abonnements in BlueXP verwenden und managen können, müssen Sie sich an NetApp wenden, um Ihr BlueXP Benutzerkonto für Ihre Keystone Abonnements zu autorisieren.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
@@ -35,9 +35,9 @@ Bevor Sie Keystone Flex Abonnements in BlueXP verwenden und verwalten können, m
 +
 Ein Vertreter von NetApp verarbeitet Ihre Anfrage, indem er Ihr Benutzerkonto für den Zugriff auf die Abonnements autorisiert.
 
-. Kehren Sie zum *Keystone Flex Abonnement* zurück, um Ihre Abonnements anzuzeigen.
+. Kehren Sie zum *Keystone Abonnement* zurück, um sich Ihre Abonnements anzusehen.
 +
-image:screenshot-keystone-overview.png["Ein Screenshot mit einer Liste der Keystone Flex Abonnements"]
+image:screenshot-keystone-overview.png["Ein Screenshot mit einer Liste der Keystone Abonnements."]
 
 
 
@@ -48,7 +48,7 @@ Verknüpfen Sie die Abonnements, die Sie mit Cloud Volumes ONTAP verwenden möch
 
 == Ein Abonnement verknüpfen
 
-Nachdem NetApp Ihren Account autorisiert hat, müssen Sie die Keystone Flex Abonnements für die Verwendung mit Cloud Volumes ONTAP verknüpfen. Mit dieser Aktion können Benutzer das Abonnement als Lademethode für neue Cloud Volumes ONTAP-Systeme auswählen.
+Nachdem NetApp Ihr Konto autorisiert hat, müssen Sie Keystone Abonnements zur Verwendung mit Cloud Volumes ONTAP verknüpfen. Mit dieser Aktion können Benutzer das Abonnement als Lademethode für neue Cloud Volumes ONTAP-Systeme auswählen.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
@@ -86,7 +86,7 @@ Ihre Anfrage erstellt ein Ticket im NetApp System zur Verarbeitung.
 
 == Aufheben der Verknüpfung eines Abonnements
 
-Wenn Sie kein Keystone Flex Abonnement mehr für neue Cloud Volumes ONTAP-Systeme verwenden möchten, können Sie die Verknüpfung des Abonnements aufheben. Beachten Sie, dass Sie die Verknüpfung eines Abonnements, das nicht mit einem vorhandenen Cloud Volumes ONTAP-Abonnement verbunden ist, nur aufheben können.
+Wenn Sie kein Keystone Abonnement mehr mit den neuen Cloud Volumes ONTAP Systemen nutzen möchten, können Sie den Link zum Abonnement aufheben. Beachten Sie, dass Sie die Verknüpfung eines Abonnements, das nicht mit einem vorhandenen Cloud Volumes ONTAP-Abonnement verbunden ist, nur aufheben können.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.

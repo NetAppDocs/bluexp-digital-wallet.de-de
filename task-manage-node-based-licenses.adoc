@@ -14,7 +14,7 @@ summary: Verwalten Sie Ihre knotenbasierten Lizenzen in der digitalen Geldbörse
 
 
 [role="lead"]
-Managen Sie Node-basierte Lizenzen in der Digital Wallet, um sicherzustellen, dass für jedes Cloud Volumes ONTAP System eine gültige Lizenz mit der erforderlichen Kapazität vorhanden ist.
+Managen Sie Node-basierte Lizenzen in der BlueXP Digital Wallet, um sicherzustellen, dass für jedes Cloud Volumes ONTAP System eine gültige Lizenz mit der erforderlichen Kapazität vorhanden ist.
 
 _Node-basierte Lizenzen_ sind das Lizenzmodell der vorherigen Generation (und für neue Kunden nicht verfügbar):
 
@@ -22,7 +22,7 @@ _Node-basierte Lizenzen_ sind das Lizenzmodell der vorherigen Generation (und f�
 * PAYGO-Abonnements (Pay-as-you-go) vom Markt Ihres Cloud-Providers
 
 
-Mit der _Digitalbörse_ können Sie Lizenzen für Cloud Volumes ONTAP von einem einzigen Ort aus verwalten. Sie können neue Lizenzen hinzufügen und vorhandene Lizenzen aktualisieren.
+Mit der _BlueXP Digital Wallet_ können Sie Lizenzen für Cloud Volumes ONTAP von einem einzigen Standort aus managen. Sie können neue Lizenzen hinzufügen und vorhandene Lizenzen aktualisieren.
 
 https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html["Weitere Informationen zu Cloud Volumes ONTAP Lizenzen"].
 
@@ -30,7 +30,7 @@ https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensin
 
 == Managen von PAYGO-Lizenzen
 
-Auf der Seite „Digitale Geldbörse“ können Sie Details zu jedem Ihrer PAYGO Cloud Volumes ONTAP-Systeme anzeigen, einschließlich Seriennummer und PAYGO-Lizenztyp.
+Auf der BlueXP Digital Wallet-Seite können Sie Details zu jedem PAYGO Cloud Volumes ONTAP System einschließlich Seriennummer und PAYGO Lizenztyp einsehen.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
@@ -38,7 +38,7 @@ Auf der Seite „Digitale Geldbörse“ können Sie Details zu jedem Ihrer PAYGO
 . Klicken Sie auf *PAYGO*.
 . Zeigen Sie Details zu den einzelnen PAYGO-Lizenzen in der Tabelle an.
 +
-image:screenshot_paygo_licenses.png["Ein Screenshot, in dem eine Tabelle auf der Seite Digital Wallet mit drei paygo-Lizenzen angezeigt wird. In jeder Zeile werden Name, Systemtyp, Seriennummer, Paket und Link zum Verwalten der Lizenz angezeigt."]
+image:screenshot_paygo_licenses.png["Ein Screenshot mit einer Tabelle auf der BlueXP Digital-Wallet-Seite und drei paygo-Lizenzen In jeder Zeile werden Name, Systemtyp, Seriennummer, Paket und Link zum Verwalten der Lizenz angezeigt."]
 
 . Klicken Sie bei Bedarf auf *PAYGO-Lizenz verwalten*, um die PAYGO-Lizenz zu ändern oder den Instanztyp zu ändern.
 
@@ -53,7 +53,7 @@ Managen Sie die Lizenzen, die Sie direkt bei NetApp erworben haben, indem Sie Sy
 
 === Fügen Sie nicht zugewiesene Lizenzen hinzu
 
-Fügen Sie dem digitalen Geldbeutel eine knotenbasierte Lizenz hinzu, sodass Sie beim Erstellen eines neuen Cloud Volumes ONTAP-Systems die Lizenz auswählen können. Die Digital Wallet identifiziert diese Lizenzen als _unassigned_.
+Erweitern Sie das Digital Wallet von BlueXP um eine Node-basierte Lizenz, sodass Sie bei der Erstellung eines neuen Cloud Volumes ONTAP Systems die Lizenz auswählen können. Die Digital Wallet identifiziert diese Lizenzen als _unassigned_.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
@@ -68,13 +68,13 @@ Wenn Sie die Lizenzdatei noch nicht haben, lesen Sie den Abschnitt weiter unten.
 
 
 .Ergebnis
-BlueXP fügt die Lizenz zum Digital Wallet hinzu. Die Lizenz wird erst dann als nicht zugewiesen identifiziert, wenn Sie sie einem neuen Cloud Volumes ONTAP-System zuordnen. Danach wechselt die Lizenz auf die Registerkarte *BYOL* im Digital Wallet.
+BlueXP erweitert das Digital Wallet um die Lizenz. Die Lizenz wird erst dann als nicht zugewiesen identifiziert, wenn Sie sie einem neuen Cloud Volumes ONTAP-System zuordnen. Danach wird die Lizenz auf die Registerkarte *BYOL* im Digital Wallet verschoben.
 
 
 
 === Nicht zugewiesene knotenbasierte Exchange-Lizenzen
 
-Wenn Sie eine nicht zugewiesene Node-basierte Lizenz für Cloud Volumes ONTAP haben, die Sie nicht verwendet haben, können Sie die Lizenz austauschen, indem Sie sie in eine Cloud Backup Lizenz, eine Cloud Data Sense Lizenz oder eine Cloud Tiering Lizenz konvertieren.
+Wenn Sie eine nicht zugewiesene Node-basierte Lizenz für Cloud Volumes ONTAP verwenden, können Sie die Lizenz austauschen. Konvertieren Sie sie in eine BlueXP Backup- und Recovery-Lizenz, eine BlueXP Klassifizierungslizenz oder eine BlueXP Tiering Lizenz.
 
 Beim Austausch der Lizenz wird die Cloud Volumes ONTAP-Lizenz zurückgerufen und eine Dollaräquivalente Lizenz für den Service erstellt:
 

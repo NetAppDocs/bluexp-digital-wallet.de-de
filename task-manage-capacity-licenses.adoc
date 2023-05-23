@@ -14,29 +14,29 @@ summary: Managen Sie Ihre kapazitätsbasierten Lizenzen über die digitale Geldb
 
 
 [role="lead"]
-Managen Sie Ihre kapazitätsbasierten Lizenzen über die digitale Geldbörse, um sicherzustellen, dass Ihr NetApp Konto über genügend Kapazität für Ihre Cloud Volumes ONTAP Systeme verfügt.
+Managen Sie Ihre kapazitätsbasierten Lizenzen aus dem Digital Wallet von BlueXP, um sicherzustellen, dass Ihr NetApp Konto über genügend Kapazitäten für Ihre Cloud Volumes ONTAP Systeme verfügt.
 
 _Kapazitätsbasierte Lizenzen_ ermöglichen es Ihnen, Cloud Volumes ONTAP pro tib Kapazität zu bezahlen.
 
-Mit der _Digitalbörse_ können Sie Lizenzen für Cloud Volumes ONTAP von einem einzigen Ort aus verwalten. Sie können neue Lizenzen hinzufügen und vorhandene Lizenzen aktualisieren.
+Mit der _BlueXP Digital Wallet_ können Sie Lizenzen für Cloud Volumes ONTAP von einem einzigen Standort aus managen. Sie können neue Lizenzen hinzufügen und vorhandene Lizenzen aktualisieren.
 
 https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html["Weitere Informationen zu Cloud Volumes ONTAP Lizenzen"].
 
 
 
-== Wie Lizenzen auf das Digital Wallet hinzugefügt werden
+== Hinzufügen von Lizenzen zum Digital Wallet von BlueXP
 
 Nach dem Kauf einer Lizenz bei Ihrem NetApp Vertriebsmitarbeiter sendet NetApp Ihnen eine E-Mail mit der Seriennummer und den zusätzlichen Lizenzdetails.
 
-In der Zwischenzeit fragt BlueXP automatisch den NetApp Lizenzservice ab, um Informationen zu den Lizenzen zu erhalten, die mit Ihrem NetApp Support Site Konto verknüpft sind. Wenn keine Fehler auftreten, fügt BlueXP die Lizenzen automatisch dem Digital Wallet hinzu.
+In der Zwischenzeit fragt BlueXP automatisch den NetApp Lizenzservice ab, um Informationen zu den Lizenzen zu erhalten, die mit Ihrem NetApp Support Site Konto verknüpft sind. Sollte es keine Fehler geben, fügt BlueXP die Lizenzen automatisch zum Digital Wallet hinzu.
 
-Wenn BlueXP die Lizenz nicht hinzufügen kann, müssen Sie sie manuell zum Digital Wallet selbst hinzufügen. Wenn der Connector z. B. an einem Standort installiert ist, der keinen Internetzugang hat, müssen Sie die Lizenzen selbst hinzufügen. <<Fügen Sie gekaufte Lizenzen zu Ihrem Konto hinzu,Erfahren Sie, wie Sie Ihrem Konto erworbene Lizenzen hinzufügen>>.
+Wenn BlueXP die Lizenz nicht hinzufügen kann, müssen Sie sie manuell zum Digital Wallet hinzufügen. Wenn der Connector z. B. an einem Standort installiert ist, der keinen Internetzugang hat, müssen Sie die Lizenzen selbst hinzufügen. <<Fügen Sie gekaufte Lizenzen zu Ihrem Konto hinzu,Erfahren Sie, wie Sie Ihrem Konto erworbene Lizenzen hinzufügen>>.
 
 
 
 == Zeigen Sie die verbrauchte Kapazität in Ihrem Konto an
 
-Auf der Digital Wallet werden die verbrauchte Gesamtkapazität Ihres Kontos und die verbrauchte Kapazität nach Lizenzpaket angezeigt. Dadurch können Sie nachvollziehen, wie Sie belastet sind und ob Sie zusätzliche Kapazität erwerben müssen.
+Das Digital Wallet von BlueXP zeigt Ihnen die verbrauchte Gesamtkapazität in Ihrem Konto und die verbrauchte Kapazität per Lizenzpaket an. Dadurch können Sie nachvollziehen, wie Sie belastet sind und ob Sie zusätzliche Kapazität erwerben müssen.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
@@ -45,12 +45,12 @@ Auf der Digital Wallet werden die verbrauchte Gesamtkapazität Ihres Kontos und 
 +
 ** _Verbrauchte Gesamtkapazität_ ist die insgesamt bereitgestellte Kapazität aller Cloud Volumes ONTAP Systeme in Ihrem NetApp Konto. Die Abrechnung basiert auf der bereitgestellten Größe eines jeden Volumes, unabhängig vom lokalen, genutzten, gespeicherten oder effektiven Speicherplatz innerhalb des Volumes.
 ** _Gesamte vorab gebuchte Kapazität_ ist die gesamte lizenzierte Kapazität (BYOL oder Marketplace Contract), die Sie von NetApp erworben haben.
-** _Total PAYGO_ ist die insgesamt bereitgestellte Kapazität anhand von Cloud-Marketplace-Abonnements. Das Aufladen über PAYGO erfolgt nur, wenn die verbrauchte Kapazität über der lizenzierten Kapazität liegt oder wenn in Digital Wallet keine BYOL-Lizenz verfügbar ist.
+** _Total PAYGO_ ist die insgesamt bereitgestellte Kapazität anhand von Cloud-Marketplace-Abonnements. Die Abrechnung über PAYGO wird nur dann genutzt, wenn die verbrauchte Kapazität über der lizenzierten Kapazität liegt oder wenn im Digital Wallet von BlueXP keine BYOL-Lizenz verfügbar ist.
 +
-Hier ist ein Beispiel für eine Zusammenfassung der Cloud Volumes ONTAP-Pakete in Digital Wallet:
+Hier ein Beispiel für eine Zusammenfassung der Cloud Volumes ONTAP Pakete in der BlueXP Digital Wallet:
 
 +
-image:screenshot_capacity-based-licenses.png["Ein Screenshot aus der Übersicht der Cloud Volumes ONTAP-Pakete zeigt in Digital Wallet die gesamte verbrauchte Kapazität, die gesamte vorab gebuchte Kapazität (BYOL- und Marketplace-Verträge) und die gesamte PAYGO- bzw. bereitgestellte Kapazität."]
+image:screenshot_capacity-based-licenses.png["Ein Screenshot aus dem Cloud Volumes ONTAP-Paket zeigt eine Zusammenfassung der insgesamt genutzten Kapazität, der gesamten vorab gebuchten Kapazität (BYOL- und Marketplace-Verträge) sowie der gesamten PAYGO- oder bereitgestellten Kapazität in der digitalen Brieftasche von BlueXP."]
 
 
 
@@ -79,9 +79,76 @@ image:screenshot-digital-wallet-packages.png["Ein Screenshot mit der verbrauchte
 
 
 
+== Nutzungsberichte herunterladen
+
+Account-Administratoren können vier Nutzungsberichte aus dem Digital Wallet von BlueXP herunterladen. Diese Nutzungsberichte enthalten Kapazitätsdetails zu Ihren Abonnements und geben an, wie Sie für die Ressourcen in Ihren Cloud Volumes ONTAP Abonnements in Rechnung gestellt werden. Die herunterladbaren Berichte erfassen Daten zu einem bestimmten Zeitpunkt und können problemlos mit anderen geteilt werden.
+
+image:screenshot-digital-wallet-usage-report.png["In dem Screenshot wird die Seite „kapazitätsbasierte Cloud Volumes ONTAP-Lizenzen“ des Digital Wallet angezeigt, und die Schaltfläche „Nutzungsbericht“ wird hervorgehoben."]
+
+Die folgenden Berichte stehen zum Download zur Verfügung. Die angegebenen Kapazitätswerte werden in tib angezeigt.
+
+* *High-Level-Nutzung*: Dieser Bericht zeigt Ihnen genau, was sich in der "Cloud Volumes ONTAP-Paketübersicht"-Karte in der digitalen Brieftasche befindet. Sie enthält folgende Informationen:
++
+** Insgesamt verbrauchte Kapazität
+** Gesamte vorab gebuchte Kapazität
+** Gesamte BYOL-Kapazität
+** Gesamtmarkt Verträge Kapazität
+** Gesamte PAYGO-Kapazität
+
+
+* *Cloud Volumes ONTAP-Paketverwendung*: Dieser Bericht zeigt Ihnen genau, was sich auf den Paketkarten in der digitalen Brieftasche befindet. Es enthält die folgenden Informationen für jedes Paket außer dem optimierten I/O-Paket:
++
+** Insgesamt verbrauchte Kapazität
+** Gesamte vorab gebuchte Kapazität
+** Gesamte BYOL-Kapazität
+** Gesamtmarkt Verträge Kapazität
+** Gesamte PAYGO-Kapazität
+
+
+* *Nutzung von Storage-VMs*: Dieser Bericht zeigt, wie die geladene Kapazität auf Cloud Volumes ONTAP Systeme und Storage Virtual Machines (SVMs) aufgeteilt wird. Diese Informationen sind auf keinem Bildschirm in der Digital Wallet verfügbar. Sie enthält folgende Informationen:
++
+** Arbeitsumgebungs-ID (wird als UUID angezeigt)
+** Cloud
+** NetApp Konto-ID
+** Konfiguration der Arbeitsumgebung
+** SVM-Name
+** Bereitgestellte Kapazität
+** Zusammenfassung der geladenen Kapazität
+** Abrechnungszeitraum für Marktplatz
+** Cloud Volumes ONTAP Paket oder Feature
+** Abonnementname des SaaS Marketplace wird berechnet
+** Abonnement-ID des SaaS Marketplace wird berechnet
+
+
+* *Volumennutzung*: Dieser Bericht zeigt, wie die berechnete Kapazität nach Volumen in einer Arbeitsumgebung aufgeschlüsselt wird. Diese Informationen sind auf keinem Bildschirm in der Digital Wallet verfügbar. Sie enthält folgende Informationen:
++
+** Arbeitsumgebungs-ID (wird als UUID angezeigt)
+** SVN Name
+** Volume-ID
+** Volume-Typ
+** Auf Volume bereitgestellte Kapazität
++
+
+NOTE: FlexClone Volumes sind nicht in diesem Bericht enthalten, da für diese Volume-Typen keine Kosten anfallen.
+
+
+
+
+
+.Schritte
+. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Lassen Sie auf der Registerkarte *Cloud Volumes ONTAP* *Capacity Based Licenses* ausgewählt und klicken Sie auf *Nutzungsbericht*.
++
+Der Nutzungsbericht wird heruntergeladen.
+
+. Öffnen Sie die heruntergeladene Datei, um auf die Berichte zuzugreifen.
+
+
+
+
 == Fügen Sie gekaufte Lizenzen zu Ihrem Konto hinzu
 
-Wenn Ihre erworbenen Lizenzen auf der digitalen Geldbörse nicht angezeigt werden, müssen Sie die Lizenzen zu BlueXP hinzufügen, damit die Kapazität für Cloud Volumes ONTAP verfügbar ist.
+Wenn Ihre erworbenen Lizenzen noch nicht in der Digital Wallet von BlueXP enthalten sind, müssen Sie BlueXP noch um die Lizenzen erweitern, damit die Kapazität auch für Cloud Volumes ONTAP nutzbar ist.
 
 .Was Sie benötigen
 * Sie müssen BlueXP die Seriennummer der Lizenz oder der Lizenzdatei angeben.
@@ -102,7 +169,7 @@ Wenn Sie eine Seriennummer eingegeben haben, müssen Sie auch das NetApp Support
 
 == Aktualisieren einer kapazitätsbasierten Lizenz
 
-Wenn Sie zusätzliche Kapazität erworben oder die Laufzeit Ihrer Lizenz verlängert haben, aktualisiert BlueXP die Lizenz automatisch im Digital Wallet. Es gibt nichts, was Sie tun müssen.
+Wenn Sie zusätzliche Kapazität erworben oder die Laufzeit Ihrer Lizenz verlängert haben, aktualisiert BlueXP automatisch die Lizenz im Digital Wallet. Es gibt nichts, was Sie tun müssen.
 
 Wenn Sie BlueXP jedoch an einem Standort bereitgestellt haben, der keinen Internetzugang hat, müssen Sie die Lizenz in BlueXP manuell aktualisieren.
 
@@ -129,7 +196,7 @@ Wenn Sie über ein privates Angebot oder einen Vertrag von Ihrem Cloud-Provider-
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
 . Klicken Sie auf der Registerkarte *Cloud Volumes ONTAP* auf *Lademethode ändern*.
 +
-image:screenshot-digital-wallet-charging-method-button.png["Ein Screenshot der Cloud Volumes ONTAP-Seite in der digitalen Geldbörse, in der sich die Schaltfläche „Lademethode ändern“ direkt über der Tabelle befindet."]
+image:screenshot-digital-wallet-charging-method-button.png["Ein Screenshot der Cloud Volumes ONTAP-Seite im Digital Wallet von BlueXP, auf der sich die Schaltfläche „Ladestart ändern“ direkt über der Tabelle befindet."]
 
 . Wählen Sie eine Arbeitsumgebung aus, wählen Sie die neue Lademethode aus, und bestätigen Sie anschließend, dass sich eine Änderung des Paketyps auf Servicegebühren auswirkt.
 +
@@ -141,7 +208,7 @@ image:screenshot-digital-wallet-charging-method.png["Ein Screenshot des Dialogfe
 .Ergebnis
 BlueXP ändert die Lademethode des Cloud Volumes ONTAP-Systems.
 
-Möglicherweise werden Sie auch feststellen, dass das Digital Wallet die verbrauchte Kapazität für jeden Pakettyp aktualisiert, um die soeben vorgenommene Änderung zu berücksichtigen.
+Vielleicht ist Ihnen auch aufgefallen, dass das Digital Wallet von BlueXP die verbrauchte Kapazität für jeden Pakettyp aktualisiert, um die soeben vorgenommene Änderung zu berücksichtigen.
 
 
 
