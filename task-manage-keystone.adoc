@@ -10,7 +10,7 @@ summary: Managen Sie die Keystone Abonnementservices über Digital Wallet, indem
 :nofooter: 
 :icons: font
 :linkattrs: 
-:imagesdir: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/media/
+:imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
 
 
 [role="lead"]
@@ -20,7 +20,7 @@ A _Keystone Subscription_ ist ein Pay-as-you-grow Storage-Service von NetApp.
 
 Mit der _BlueXP Digital Wallet_ können Sie Lizenzen für Cloud Volumes ONTAP von einem einzigen Standort aus managen. Sie können neue Lizenzen hinzufügen und vorhandene Lizenzen aktualisieren.
 
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html["Weitere Informationen zu Cloud Volumes ONTAP Lizenzen"].
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["Weitere Informationen zu Cloud Volumes ONTAP Lizenzen"].
 
 
 

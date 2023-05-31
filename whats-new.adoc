@@ -52,7 +52,7 @@ Das Digital Wallet von BlueXP unterstützt jetzt E-Mail-Benachrichtigungen.
 
 Wenn Sie Ihre Benachrichtigungseinstellungen konfigurieren, können Sie E-Mail-Benachrichtigungen erhalten, wenn Ihre BYOL-Lizenzen ablaufen (eine „Warnung“) oder wenn sie bereits abgelaufen sind (eine „Fehler“-Benachrichtigung).
 
-https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-monitor-cm-operations.html["Hier erfahren Sie, wie Sie E-Mail-Benachrichtigungen einrichten"^]
+https://docs.netapp.com/us-en/bluexp-setup-admin/task-monitor-cm-operations.html["Hier erfahren Sie, wie Sie E-Mail-Benachrichtigungen einrichten"^]
 
 
 
@@ -110,7 +110,7 @@ https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-license
 
 Das zeigt Ihnen nun die gesamte verbrauchte Kapazität in Ihrem Konto und die verbrauchte Kapazität nach Lizenzierungspaket an. Dadurch können Sie nachvollziehen, wie Sie belastet sind und ob Sie zusätzliche Kapazität erwerben müssen.
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-digital-wallet-summary.png["Ein Screenshot, in dem die Seite für kapazitätsbasierte Lizenzen angezeigt wird. Die Seite bietet einen Überblick über die verbrauchte Kapazität in Ihrem Account und setzt dann die verbrauchte Kapazität nach Lizenzpaket auf."]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-volumes-ontap/main/media/screenshot-digital-wallet-summary.png["Ein Screenshot, in dem die Seite für kapazitätsbasierte Lizenzen angezeigt wird. Die Seite bietet einen Überblick über die verbrauchte Kapazität in Ihrem Account und setzt dann die verbrauchte Kapazität nach Lizenzpaket auf."]
 
 
 

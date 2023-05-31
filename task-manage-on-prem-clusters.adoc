@@ -19,8 +19,8 @@ Das Digital Wallet von BlueXP ermöglicht Ihnen die Anzeige von Vertragsdetails 
 .Bevor Sie beginnen
 Das Digital Wallet von BlueXP zeigt Details zu den lokalen ONTAP Clustern an, die Sie als Arbeitsumgebung erkannt haben oder die mit einem zu BlueXP hinzugefügten NetApp Support Site Konto verknüpft sind.
 
-* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Erfahren Sie, wie Sie einen lokalen ONTAP Cluster erkennen"^]
-* https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-adding-nss-accounts.html["Erfahren Sie, wie Sie NSS-Anmeldedaten für Ihr BlueXP Konto verwalten"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Erfahren Sie, wie Sie einen lokalen ONTAP Cluster erkennen"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Erfahren Sie, wie Sie NSS-Anmeldedaten für Ihr BlueXP Konto verwalten"^]
 
 
 
@@ -54,7 +54,7 @@ Wenn Sie ein lokales ONTAP Cluster nicht als Arbeitsumgebung erkannt haben, ist 
 .Bevor Sie beginnen
 Sie sollten Ihre Erkennungs- und Verwaltungsoptionen (Ermittlung mit einem Connector oder direkte Ermittlung ohne Connector) sowie die Ermittlungsanforderungen verstehen.
 
-https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["Informieren Sie sich über Optionen und Anforderungen zur Bestandsaufnahme"^].
+https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Informieren Sie sich über Optionen und Anforderungen zur Bestandsaufnahme"^].
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
@@ -85,6 +85,6 @@ image:screenshot_onprem_cluster.png["Ein Screenshot eines On-Prem ONTAP Clusters
 
 Sie können jetzt mit dem Verwalten des Clusters beginnen.
 
-* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-manage-ontap-connector.html["Erfahren Sie, wie Sie mit einem Connector erkannte Cluster verwalten"^]
-* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-manage-ontap-direct.html["Informieren Sie sich, wie Sie Cluster, die direkt erkannt werden, managen"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-manage-ontap-connector.html["Erfahren Sie, wie Sie mit einem Connector erkannte Cluster verwalten"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-manage-ontap-direct.html["Informieren Sie sich, wie Sie Cluster, die direkt erkannt werden, managen"^]
 
