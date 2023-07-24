@@ -76,10 +76,7 @@
   <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">Diese Seriennummern werden als _PAYGO Seriennummern_ bezeichnet und werden zum Zeitpunkt der Cloud Volumes ONTAP Implementierung von BlueXP generiert.</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Wenn Sie über ein Konto auf Kundenebene verfügen, können Sie ein oder mehrere NSS-Konten hinzufügen.</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Wenn Sie einen Partner- oder Reseller-Account haben, können Sie ein oder mehrere NSS-Konten hinzufügen, können aber nicht neben Kunden-Level Accounts hinzugefügt werden.</block>
-  <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">Klicken Sie oben rechts in der BlueXP-Konsole auf das Hilfesymbol, und wählen Sie *Support*.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Ein Screenshot des Hilfemenü, in dem Support die erste Option aufgeführt ist</block>
-  <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">Klicken Sie auf *NSS Management &gt; NSS-Konto hinzufügen*.</block>
-  <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">Wenn Sie dazu aufgefordert werden, klicken Sie auf *Weiter*, um auf eine Microsoft-Login-Seite umgeleitet zu werden.</block>
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp verwendet Microsoft Azure Active Directory als Identitäts-Provider für Authentifizierungsservices, die sich speziell für Support und Lizenzierung entscheiden.</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">Geben Sie auf der Anmeldeseite die registrierte E-Mail-Adresse und das Kennwort Ihrer NetApp Support Site an, um den Authentifizierungsvorgang durchzuführen.</block>
   <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">Mit diesen Aktionen kann BlueXP Ihr NSS-Konto für Dinge wie Lizenzdownloads, Softwareaktualisierungs-Verifizierung und zukünftige Support-Registrierungen verwenden.</block>
@@ -130,10 +127,7 @@
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Erstellen Sie einen Fall mit dem NetApp Support</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Zusätzlich zu den oben genannten Self-Support-Optionen können Sie gemeinsam mit einem NetApp Support-Experten eventuelle Probleme nach der Aktivierung des Supports beheben.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Bevor Sie beginnen</block>
-  <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">Klicken Sie in BlueXP auf *Hilfe &gt; Support*.</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Wählen Sie auf der Seite *Ressourcen* eine der verfügbaren Optionen unter Technischer Support:</block>
-  <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">Klicken Sie auf *Rufen Sie uns an*, wenn Sie mit jemandem am Telefon sprechen möchten. Sie werden zu einer Seite auf netapp.com weitergeleitet, auf der die Telefonnummern aufgeführt sind, die Sie anrufen können.</block>
-  <block id="5be2e1dfe4bf215289731df45ec8157b" category="list-text">Klicken Sie auf *Fall erstellen*, um ein Ticket bei einem NetApp Support Spezialisten zu öffnen:</block>
   <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Service*: Wählen Sie den Dienst aus, mit dem das Problem verknüpft ist. Beispiel: BlueXP, wenn es sich um ein Problem des technischen Supports mit Workflows oder Funktionen im Service handelt.</block>
   <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Arbeitsumgebung*: Wählen Sie *Cloud Volumes ONTAP* oder *On-Prem* und anschließend die zugehörige Arbeitsumgebung aus.</block>
   <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">Die Liste der Arbeitsumgebungen liegt im Bereich des BlueXP-Kontos, des Arbeitsbereichs und des Connectors, den Sie im oberen Banner des Dienstes ausgewählt haben.</block>
@@ -145,7 +139,6 @@
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Anhänge sind auf 25 MB pro Datei begrenzt. Folgende Dateierweiterungen werden unterstützt: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx und csv.</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Screenshot aus dem Formular „Create a Case“, in dem Sie einen Case beim NetApp Support erstellen können</block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Es wird ein Popup-Fenster mit der Support-Fallnummer angezeigt. Ein NetApp Support-Experte prüft Ihren Fall und macht Sie umgehend mit.</block>
-  <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">Für eine Historie Ihrer Supportfälle können Sie auf *Einstellungen &gt; Timeline* klicken und nach Aktionen mit dem Namen „Support Case erstellen“ suchen. Mit einer Schaltfläche ganz rechts können Sie die Aktion erweitern, um Details anzuzeigen.</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">Es ist möglich, dass beim Versuch, einen Fall zu erstellen, möglicherweise die folgende Fehlermeldung angezeigt wird:</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">„Sie sind nicht berechtigt, einen Fall für den ausgewählten Service zu erstellen.“</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Verwenden Sie den Chat im Produkt</block>
@@ -161,10 +154,8 @@
   <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">Sie können interessante Spalten hinzufügen oder entfernen und den Inhalt von Spalten wie Priorität und Status filtern. Andere Spalten bieten nur Sortierfunktionen.</block>
   <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Weitere Informationen erhalten Sie in den Schritten unten.</block>
   <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">Auf Fallebene bieten wir die Möglichkeit, Fallnotizen zu aktualisieren oder einen Fall zu schließen, der sich noch nicht im Status „Geschlossen“ oder „Geschlossen“ befindet.</block>
-  <block id="34b1296d31cefa72dae9b3a364b1f444" category="list-text">Klicken Sie auf *Case Management* und fügen Sie bei Aufforderung Ihr NSS-Konto zu BlueXP hinzu.</block>
   <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">Auf der Seite *Case Management* werden offene Fälle im Zusammenhang mit dem NSS-Konto angezeigt, das mit Ihrem BlueXP Benutzerkonto verknüpft ist. Dies ist das gleiche NSS-Konto, das oben auf der Seite *NSS Management* angezeigt wird.</block>
   <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Ändern Sie optional die in der Tabelle angezeigten Informationen:</block>
-  <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">Klicken Sie unter *Organizations-Fälle* auf *Ansicht*, um alle mit Ihrem Unternehmen verbundenen Fälle anzuzeigen.</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">Ändern Sie den Datumsbereich, indem Sie einen genauen Datumsbereich oder einen anderen Zeitrahmen auswählen.</block>
   <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Ein Screenshot der Option über der Tabelle auf der Seite Case Management, mit der Sie einen genauen Datumsbereich oder die letzten 7 Tage, 30 Tage oder 3 Monate auswählen können.</block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtern Sie den Inhalt der Spalten.</block>
@@ -174,26 +165,17 @@
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Ein Symbol mit drei Punkten, das in der letzten Spalte der Tabelle angezeigt wird</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Fall anzeigen*: Vollständige Details zu einem bestimmten Fall anzeigen.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Aktennotizen aktualisieren*: Geben Sie zusätzliche Details zu Ihrem Problem an oder wählen Sie *Dateien hochladen*, um maximal fünf Dateien anzuhängen.</block>
-  <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*Fall schließen*: Geben Sie Details darüber an, warum Sie den Fall schließen und klicken Sie auf *Fall schließen*.</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Ein Screenshot, der die Aktionen zeigt, die Sie nach Auswahl des Menüs in der letzten Spalte der Tabelle durchführen können.</block>
   <block id="e9598339aeb07702e2b24ef63fca36cc" category="doc">Managen Sie Lizenzen für BlueXP Datenservices</block>
   <block id="9733849463a86c6a043ab58c8ddf1ac4" category="paragraph">Die Anweisungen auf dieser Seite enthalten Informationen, die für jeden Service gelten. Weitere Informationen zur Lizenzierung für diese Services finden Sie auf den folgenden Seiten:</block>
   <block id="73acd586df3bf9938d39f0e738d5c161" category="section-title">Lizenzdatei abrufen</block>
   <block id="f11bf973a6c8039ecfd0152979db21be" category="paragraph">Nach dem Kauf einer Lizenz können Sie die Lizenz in BlueXP aktivieren, indem Sie entweder die Seriennummer und das NSS-Konto eingeben oder die NetApp Lizenzdatei (NetApp License File, NLF) hochladen. Die folgenden Schritte zeigen, wie Sie die Lizenzdatei NLF abrufen können, wenn Sie diese Methode verwenden möchten.</block>
   <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="inline-link">NetApp Support Website</block>
-  <block id="80c4b6e3dfa1d4f33033585b7c74e7e9" category="list-text">Melden Sie sich beim an<block ref="fcc52edac3ce57829c48ee35d97a295d" category="inline-link-rx"></block> Klicken Sie anschließend auf *Systeme &gt; Softwarelizenzen*.</block>
   <block id="5f734fc198c7d1b1aaf7c6893cc13cd2" category="list-text">Geben Sie die Seriennummer für Ihre Lizenz ein.</block>
   <block id="5190e9ec018f5e661ec4b31ff1b34423" category="inline-image-macro">Ein Screenshot, der eine Tabelle von Lizenzen zeigt, nachdem Sie nach der Seriennummer suchen.</block>
   <block id="193bccfc2cf277cad00678895e527b35" category="paragraph"><block ref="193bccfc2cf277cad00678895e527b35" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="a6cfac773f21906007a8ddf407596067" category="list-text">Klicken Sie in der Spalte *Lizenzschlüssel* auf *NetApp Lizenzdatei abrufen*.</block>
-  <block id="f68bf28051d836364652b5a91d1bcd3a" category="list-text">Geben Sie Ihre BlueXP-Konto-ID ein (dies wird als Mandanten-ID auf der Support-Website bezeichnet) und klicken Sie auf *Absenden*, um die Lizenzdatei herunterzuladen.</block>
-  <block id="56273f3344c87fabbf5196fba9816fff" category="inline-image-macro">Ein Screenshot, in dem das Dialogfeld „Lizenz abrufen“ angezeigt wird, in dem Sie Ihre Mandanten-ID eingeben und dann auf „Senden“ klicken, um die Lizenzdatei herunterzuladen.</block>
-  <block id="7ca3a83129f844a42c263755a0fa4a32" category="paragraph"><block ref="7ca3a83129f844a42c263755a0fa4a32" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="257ff1df6b80ed0bf9b3463d53be79f9" category="paragraph">Sie können Ihre BlueXP-Konto-ID finden, indem Sie oben in BlueXP das Dropdown-Menü *Konto* auswählen und dann neben Ihrem Konto auf *Konto verwalten* klicken. Ihre Account-ID wird auf der Registerkarte „Übersicht“ angezeigt.</block>
   <block id="ec01ce5d7a75843507cddc0f1e980f6a" category="section-title">Fügen Sie eine Lizenz hinzu</block>
   <block id="e57e44bf22e7fb35d0bc0ba9f8593a5b" category="paragraph">Nachdem Sie eine Lizenz für einen BlueXP Datenservice erworben haben, müssen Sie die Lizenz zu BlueXP hinzufügen.</block>
-  <block id="8d080a0104c2b8b29f5fc2be913926af" category="list-text">Klicken Sie im BlueXP-Menü auf *Governance &gt; Digital Wallet* und wählen Sie dann die Registerkarte *Data Services Licenses* aus.</block>
-  <block id="c1b2dc0798d3960e25b8a12c751f53ec" category="list-text">Geben Sie im Dialogfeld „_Lizenz hinzufügen_“ die Lizenzinformationen ein, und klicken Sie auf *Lizenz hinzufügen*:</block>
   <block id="929bfeada83228e2a76020a5050a605e" category="list-text">Wenn Sie die Seriennummer haben und Ihr NSS-Konto kennen, wählen Sie die Option *Seriennummer eingeben* und geben Sie diese Informationen ein.</block>
   <block id="bae190eec3db4a0dd635ae72756acde8" category="inline-link">Fügen Sie das NSS-Konto zu BlueXP hinzu</block>
   <block id="6e2573cea3af840a0c24f94975047370" category="list-text">Wenn Sie über die Lizenzdatei verfügen (erforderlich bei Verwendung von BlueXP im privaten Modus), wählen Sie die Option *Lizenzdatei hochladen* aus und folgen Sie den Anweisungen zum Anhängen der Datei.</block>
@@ -205,10 +187,8 @@
   <block id="b2b168bd64a341a85c749cb61bba40cb" category="inline-xref">Beziehen Sie die Lizenzdatei über die NetApp Support-Website</block>
   <block id="5281a9b97c306047dc796d618670919d" category="list-text">Das können Sie <block ref="2ee9df93e68c4a0ffa870dc00950ab97" category="inline-xref-macro-rx"></block>.</block>
   <block id="8f0a75d2d5a82f31f2cf069c3b0ee684" category="inline-image-macro">Weitere Symbole</block>
-  <block id="99da83a7a226f8a0da83a88d51713f13" category="list-text">Klicken Sie auf der Registerkarte _Data Services Licenses_ auf <block ref="50acd719b1954eb4890c002b3b5e71a6" category="inline-image-macro-rx" type="image"></block> Klicken Sie für die Serviceseriennummer, die Sie aktualisieren, auf *Lizenz aktualisieren*.</block>
   <block id="3ce750f001c2369e23b68f3210d9f100" category="inline-image-macro">Ein Screenshot, in dem Sie die Schaltfläche Lizenz aktualisieren für einen bestimmten Service auswählen.</block>
   <block id="9d37072f5a1b76b16e647a14826ade70" category="paragraph"><block ref="9d37072f5a1b76b16e647a14826ade70" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="41e921305ae1b027e5d364af4a2a9df2" category="list-text">Laden Sie auf der Seite _Update License_ die Lizenzdatei hoch und klicken Sie auf *Update License*.</block>
   <block id="34674441113c2bf2e8f3d38a0e8276bb" category="paragraph">BlueXP aktualisiert die Lizenz.</block>
   <block id="4edb70089cdbc18de22fa9ead5189bc8" category="section-title">Autorisieren Sie Ihr Konto</block>
   <block id="492847bcbc9ec0bd3075b612aa43e4a7" category="list-text">Wählen Sie *Keystone*.</block>
@@ -276,9 +256,7 @@
   <block id="e65135bd79d15db91bec6c98a9f8dabe" category="list-text">Wählen Sie *On-Premise ONTAP*.</block>
   <block id="84c2c11254da9ee11c4482a60291186d" category="paragraph">Das Ablaufdatum von Softwareverträgen und Hardwareverträgen wird für die einzelnen Cluster in der Zeile angezeigt.</block>
   <block id="6723aa6a44348a3e74720156abb41f28" category="paragraph">Wenn Sie zuerst aufgefordert werden, Ihre Zugangsdaten für das NetApp Support Site (NSS) Konto einzugeben, wählen Sie *NSS-Konto hinzufügen* aus. Nachdem Sie das Konto hinzugefügt haben, werden die mit diesem NSS-Konto verknüpften Cluster angezeigt.</block>
-  <block id="a28ac2453944ea9dd8226245843a732a" category="list-text">Wenn der Vertrag kurz vor dem Ablaufdatum steht oder abgelaufen ist, können Sie auf das Chat-Symbol unten rechts der BlueXP Konsole klicken und eine Vertragsverlängerung anfordern.</block>
   <block id="2dc127a72bebec759447c53e48d44a81" category="inline-image-macro">Ein nach unten fahrlässiges Symbol</block>
-  <block id="fcc677fe098adab7dfc32abe993e374e" category="list-text">Um weitere Details anzuzeigen, klicken Sie auf <block ref="88c68341c12fbc9f1bcf1c9927535845" category="inline-image-macro-rx" type="image"></block> Um die Cluster-Informationen zu erweitern.</block>
   <block id="18f84cf96ce5861e5585468ef883b180" category="inline-image-macro">Ein Screenshot, wie die Cluster-Details erweitert werden, sodass Sie Informationen zu Cluster-Lizenzen anzeigen können.</block>
   <block id="5796086a716a7059f711cc33be934605" category="paragraph"><block ref="5796086a716a7059f711cc33be934605" category="inline-image-macro-rx" type="image"></block></block>
   <block id="20dbb48f93e265cf5e1f55346fd44629" category="section-title">Cluster erkennen</block>
@@ -288,8 +266,6 @@
   <block id="705316ae4d75d35f1e961cab58a5d5df" category="inline-image-macro">Ein Screenshot der Seite „Digitale Geldbörse“ für On-Premises ONTAP Cluster.</block>
   <block id="7d584a90892954972995f98a62f03440" category="paragraph"><block ref="7d584a90892954972995f98a62f03440" category="inline-image-macro-rx" type="image"></block></block>
   <block id="e3c5f2c16e01a4bb5b1747361f4b1fdf" category="paragraph">In Ihren ONTAP Clustern wird der Status angezeigt, ob sie in BlueXP erkannt wurden.</block>
-  <block id="0cd51dae8d109dd3491432cc2fd0c1fa" category="list-text">Klicken Sie auf *Discover* für den Cluster, den Sie über BlueXP verwalten möchten.</block>
-  <block id="f024b01de8a49fd78376b5b34e191e05" category="list-text">Geben Sie auf der Seite _Discover ONTAP Cluster_ das Kennwort für das Administratorkonto ein und klicken Sie auf *Discover*.</block>
   <block id="8de100c0dba6b3831c0b2881ceb2cda0" category="inline-image-macro">Ein Screenshot, der ein Beispiel für die Seite „ONTAP Cluster Details“ zeigt: Die Cluster-Management-IP-Adresse, der Benutzername und das Passwort.</block>
   <block id="357d0c6bce7e8c970eebbf9c77a986a3" category="paragraph"><block ref="357d0c6bce7e8c970eebbf9c77a986a3" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1a2fb7ccfa21c70443bb345dbcce015c" category="paragraph">Beachten Sie, dass die Cluster-Management-IP-Adresse basierend auf den Informationen aus Ihrem NetApp Support Site Konto ausgefüllt wird.</block>
@@ -442,7 +418,6 @@
   <block id="f5b39d30a98c93c6a597de76a3901496" category="inline-image-macro">Ein Screenshot, in dem die Seite zum Hinzufügen der BYOL-Lizenz angezeigt wird.</block>
   <block id="2ab8c9555cb0a7278c9c119126d09972" category="paragraph"><block ref="2ab8c9555cb0a7278c9c119126d09972" category="inline-image-macro-rx" type="image"></block></block>
   <block id="8d16d75f7a68c03867a9fa6a0c1e8e53" category="paragraph">Wenn die Lizenzlaufzeit kurz vor dem Ablaufdatum steht oder die lizenzierte Kapazität das Limit erreicht, werden Sie im Digital Wallet von BlueXP benachrichtigt. Sie können Ihre Lizenz vor ihrem Ablauf aktualisieren, damit Ihre Nutzung des BlueXP Datenservice nicht unterbrochen wird.</block>
-  <block id="2778ca24e217e309a35a740dcd70d977" category="list-text">Klicken Sie auf das Chat-Symbol unten rechts von BlueXP oder wenden Sie sich an den Support, um eine Verlängerung Ihrer Laufzeit zu beantragen oder Ihre Lizenz für die bestimmte Seriennummer um zusätzliche Kapazität zu erweitern.</block>
   <block id="1b87732cda1ee77b5952013e06e1ac10" category="paragraph">Nachdem Sie für die Lizenz bezahlt und sie auf der NetApp Support-Website registriert ist, aktualisiert BlueXP automatisch die Lizenz im digitalen Wallet. Auf der Seite „Datenservices-Lizenzen“ wird die Änderung in 5 bis 10 Minuten dargestellt.</block>
   <block id="d128bda2634e1051cc984231da065144" category="paragraph">Das Digital Wallet von BlueXP unterstützt jetzt E-Mail-Benachrichtigungen.</block>
   <block id="016c818ed3128119f94a31cbec32bf1f" category="paragraph">Bei der Anzeige der kapazitätsbasierten Lizenzierung für Cloud Volumes ONTAP wird in der Digital Wallet von BlueXP die lizenzierte Kapazität angezeigt, die Sie mit privaten Marketplace-Angeboten erworben haben.</block>
@@ -565,9 +540,7 @@
   <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
   <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="0f6cac2f77150840994f84044fc1b12b" category="list-text">Ändern Sie die Spalten, die in der Tabelle angezeigt werden, indem Sie auf klicken <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> Und wählen Sie dann die Spalten, die Sie anzeigen möchten.</block>
   <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="6ba7d68d8b3ef0f3398afb9d3ea96172" category="list-text">Managen Sie einen bestehenden Fall, indem Sie auf klicken <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> Und eine der verfügbaren Optionen auswählen:</block>
   <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
   <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">Managen Sie Zugangsdaten für Ihre BlueXP Anmeldung</block>
   <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">Um die Funktion *Fall erstellen* nutzen zu können, müssen Sie zunächst Ihre Anmeldedaten für die NetApp Support-Website mit Ihren BlueXP Anmeldedaten verknüpfen.<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block>.</block>
@@ -578,10 +551,7 @@
   <block id="e922b9aa0836a1d93e11cac0fe4c9004" category="paragraph">Technischer Support zu den folgenden Cloud-Provider-Lösungen finden Sie im Abschnitt „Hilfe erhalten“ in der BlueXP Dokumentation zu diesem Produkt.</block>
   <block id="5a19febf1dcb23c10e8dcfde64ba764c" category="section-title">Registrieren Sie Ihr BlueXP Konto für NetApp Support</block>
   <block id="6bbc2ba432f59ab65ee3d8ac5a58336e" category="paragraph">Um sich für den Support zu registrieren und die Supportberechtigung zu aktivieren, muss ein Benutzer in Ihrem BlueXP Konto ein NetApp Support Site Konto mit seinen BlueXP Anmeldedaten verknüpfen. Wie Sie sich für den NetApp Support registrieren, hängt davon ab, ob Sie bereits über einen NSS Account (NetApp Support Site) verfügen.</block>
-  <block id="b019ab068deba8494415cbd226ca0c4e" category="list-text">Klicken Sie oben rechts in der BlueXP-Konsole auf das Symbol Einstellungen und wählen Sie *Anmeldeinformationen*.</block>
-  <block id="41e1e3cff4a07ce2ecc08e6c09f11092" category="list-text">Klicken Sie Auf *Benutzeranmeldeinformationen*.</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Wählen Sie *NSS-Anmeldeinformationen hinzufügen* und folgen Sie der Eingabeaufforderung für die NetApp-Support-Website (NSS)-Authentifizierung.</block>
-  <block id="8c916e828e9e5a3592c8cac4e25928be" category="list-text">Um zu bestätigen, dass die Registrierung erfolgreich war, klicken Sie auf das Hilfesymbol und wählen Sie *Support*.</block>
   <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">Auf der Seite *Ressourcen* sollte angezeigt werden, dass Ihr Konto für Support registriert ist.</block>
   <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">Ein Screenshot mit einer Seriennummer des Kontos und einem grünen Kontrollkästchen sowie dem für den Support registrierten Text.</block>
   <block id="3d183819a15163ef2e2e7d9d764254a9" category="paragraph"><block ref="3d183819a15163ef2e2e7d9d764254a9" category="inline-image-macro-rx" type="image"></block></block>
@@ -598,4 +568,35 @@
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Aktualisieren der Cloud Volumes ONTAP Software auf die neueste Version</block>
   <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">Das Zuordnen der NSS-Anmeldedaten zu Ihrem BlueXP Konto unterscheidet sich von dem NSS-Konto, das mit einer BlueXP Benutzeranmeldung verknüpft ist.</block>
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">Diese NSS-Zugangsdaten sind mit Ihrer spezifischen BlueXP Konto-ID verknüpft. Benutzer, die zum BlueXP Konto gehören, können über *Support &gt; NSS Management* auf diese Anmeldedaten zugreifen.</block>
+  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">Klicken Sie oben rechts auf der BlueXP Konsole auf das Symbol Einstellungen, und wählen Sie *Credentials* aus.</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">Wählen Sie *Benutzeranmeldeinformationen*.</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">Um zu bestätigen, dass die Registrierung erfolgreich war, wählen Sie das Hilfesymbol und dann *Support*.</block>
+  <block id="d889e6e7cc4c5509ab5b37f8fc894e46" category="list-text">Klicken Sie oben rechts auf der BlueXP Konsole auf das Hilfesymbol und wählen Sie *Support* aus.</block>
+  <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">Wählen Sie *NSS-Verwaltung &gt; NSS-Konto hinzufügen*.</block>
+  <block id="85b9386ed443776127e099931d73448a" category="list-text">Wenn Sie dazu aufgefordert werden, wählen Sie *Weiter*, um zu einer Microsoft-Anmeldeseite umgeleitet zu werden.</block>
+  <block id="24586b03da03249c22a79822574b4e88" category="list-text">Melden Sie sich beim an<block ref="fcc52edac3ce57829c48ee35d97a295d" category="inline-link-rx"></block> Und wählen Sie *Systeme &gt; Softwarelizenzen*.</block>
+  <block id="929a00c33ff1e797afba661a33f187d7" category="list-text">Wählen Sie in der Spalte *Lizenzschlüssel* *NetApp-Lizenzdatei abrufen* aus.</block>
+  <block id="3a9ab049ef9711b68ac94e0bc034cb30" category="list-text">Geben Sie Ihre BlueXP Konto-ID ein (dies wird auf der Support-Website als Mandanten-ID bezeichnet), und wählen Sie *Absenden*, um die Lizenzdatei herunterzuladen.</block>
+  <block id="b2ca6ef178712312d4798385b0f225aa" category="inline-image-macro">Ein Screenshot, der das Dialogfeld Lizenz abrufen zeigt, in dem Sie Ihre Mandanten-ID eingeben und dann auf Senden klicken, um die Lizenzdatei herunterzuladen.</block>
+  <block id="dd7d821dbf8e495a16f2e05e456de274" category="paragraph"><block ref="dd7d821dbf8e495a16f2e05e456de274" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="19a9d224e357593876fd44c3faede4ab" category="paragraph">Sie finden Ihre BlueXP Konto-ID, indem Sie oben in BlueXP das Dropdown-Menü *Account* auswählen und dann neben Ihrem Konto *Konto verwalten* auswählen. Ihre Account-ID wird auf der Registerkarte „Übersicht“ angezeigt.</block>
+  <block id="519fe268f292c638e02a4e5bb7ab4dc1" category="list-text">Wählen Sie im Menü BlueXP die Option *Governance &gt; Digital Wallet* und anschließend die Registerkarte *Data Services Licenses* aus.</block>
+  <block id="c8508c0ce4da6dc634b7c66b1df15681" category="list-text">Wählen Sie *Lizenz Hinzufügen*.</block>
+  <block id="07a27581558b890ee2ba077c2fa844c8" category="list-text">Geben Sie im Dialogfeld _Add License_ die Lizenzinformationen ein und wählen Sie *Add License*:</block>
+  <block id="4b70edd030d1f35b77e145be7305309a" category="list-text">Wählen Sie das Chat-Symbol unten rechts in BlueXP aus. Sie können sich auch an den Support wenden, um eine Verlängerung Ihrer Laufzeit zu beantragen oder Ihre Lizenz für die jeweilige Seriennummer um zusätzliche Kapazität zu erweitern.</block>
+  <block id="bc5195c689315aceff2de5448f6b4288" category="list-text">Wählen Sie auf der Registerkarte _Data Services Licenses_ aus <block ref="50acd719b1954eb4890c002b3b5e71a6" category="inline-image-macro-rx" type="image"></block> Wählen Sie für die zu aktualisierende Service-Seriennummer *Lizenz aktualisieren*.</block>
+  <block id="48b5477be67ccdb4b19274cd4f66193d" category="list-text">Laden Sie auf der Seite _Update License_ die Lizenzdatei hoch und wählen Sie *Update License* aus.</block>
+  <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">Wählen Sie in BlueXP *Hilfe &gt; Support* aus.</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Wählen Sie *Rufen Sie uns an*, wenn Sie mit jemandem am Telefon sprechen möchten. Sie werden zu einer Seite auf netapp.com weitergeleitet, auf der die Telefonnummern aufgeführt sind, die Sie anrufen können.</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">Wählen Sie *Fall erstellen*, um ein Ticket mit einem NetApp-Supportspezialisten zu öffnen:</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">Um eine Historie deiner Support-Fälle anzuzeigen, kannst du *Einstellungen &gt; Chronik* auswählen und nach Aktionen mit dem Namen „Support-Case erstellen“ suchen. Mit einer Schaltfläche ganz rechts können Sie die Aktion erweitern, um Details anzuzeigen.</block>
+  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">Wählen Sie *Case Management* aus und fügen Sie bei Aufforderung Ihr NSS-Konto zu BlueXP hinzu.</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">Wählen Sie unter *Vorgänge der Organisation* *Ansicht* aus, um alle mit Ihrem Unternehmen verbundenen Fälle anzuzeigen.</block>
+  <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">Ändern Sie die Spalten, die in der Tabelle angezeigt werden, indem Sie auswählen <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> Und wählen Sie dann die Spalten, die Sie anzeigen möchten.</block>
+  <block id="348552521b849746260fe8d296d34c15" category="list-text">Managen Sie einen bestehenden Fall, indem Sie auswählen <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> Und eine der verfügbaren Optionen auswählen:</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*Fall schließen*: Geben Sie Einzelheiten darüber an, warum Sie den Fall schließen und wählen Sie *Fall schließen*.</block>
+  <block id="78318c51194a56aa899abf4c464f0902" category="list-text">Wenn der Vertrag kurz vor dem Ablaufdatum steht oder abgelaufen ist, können Sie über das Chat-Symbol rechts unten in der BlueXP Konsole eine Vertragsverlängerung anfordern.</block>
+  <block id="093ebe6e7f093a5d0ba33d387ce15bd0" category="list-text">Um weitere Details anzuzeigen, wählen Sie aus <block ref="88c68341c12fbc9f1bcf1c9927535845" category="inline-image-macro-rx" type="image"></block> Um die Cluster-Informationen zu erweitern.</block>
+  <block id="dd7c2502d7fdbd07b536ab7c70be2609" category="list-text">Wählen Sie *Discover* für den Cluster aus, den Sie über BlueXP verwalten möchten.</block>
+  <block id="65fd12713cafdbaee90c518b8e719b8a" category="list-text">Geben Sie auf der Seite _ONTAP-Cluster entdecken das Passwort für das Admin-Benutzerkonto ein und wählen Sie *Discover*.</block>
 </blocks>
