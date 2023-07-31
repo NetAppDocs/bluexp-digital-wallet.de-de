@@ -34,7 +34,7 @@ Die Berichte zur Cloud Volumes ONTAP-Nutzung wurden nun um einige Verbesserungen
 * Der Datenträgertyp _secondary_ wird jetzt mit _secondary (DP)_ bezeichnet.
 
 
-Weitere Informationen zu Nutzungsberichten finden Sie unter https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-capacity-licenses.html#download-usage-reports["Nutzungsberichte herunterladen"^]
+Weitere Informationen zu Nutzungsberichten finden Sie unter https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html#download-usage-reports["Nutzungsberichte herunterladen"].
 
 
 
@@ -58,7 +58,7 @@ Jetzt finden Sie heraus, für welche Gebühren Sie zahlen, wenn Sie kapazitätsb
 * Volumennutzung
 
 
-Weitere Informationen finden Sie unter link:https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html["Management kapazitätsbasierter Lizenzen"].
+Weitere Informationen zu Nutzungsberichten finden Sie unter https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html#download-usage-reports["Nutzungsberichte herunterladen"].
 
 
 
