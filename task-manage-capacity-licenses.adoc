@@ -107,7 +107,7 @@ Die folgenden Berichte stehen zum Download zur Verfügung. Die angegebenen Kapaz
 
 * *Nutzung von Storage-VMs*: Dieser Bericht zeigt, wie die geladene Kapazität auf Cloud Volumes ONTAP Systeme und Storage Virtual Machines (SVMs) aufgeteilt wird. Diese Informationen sind auf keinem Bildschirm in der Digital Wallet verfügbar. Sie enthält folgende Informationen:
 +
-** Arbeitsumgebungs-ID (wird als UUID angezeigt)
+** Arbeitsumgebungs-ID und -Name (wird als UUID angezeigt)
 ** Cloud
 ** NetApp Konto-ID
 ** Konfiguration der Arbeitsumgebung
@@ -118,11 +118,12 @@ Die folgenden Berichte stehen zum Download zur Verfügung. Die angegebenen Kapaz
 ** Cloud Volumes ONTAP Paket oder Feature
 ** Abonnementname des SaaS Marketplace wird berechnet
 ** Abonnement-ID des SaaS Marketplace wird berechnet
+** Workload-Typ
 
 
 * *Volumennutzung*: Dieser Bericht zeigt, wie die berechnete Kapazität nach Volumen in einer Arbeitsumgebung aufgeschlüsselt wird. Diese Informationen sind auf keinem Bildschirm in der Digital Wallet verfügbar. Sie enthält folgende Informationen:
 +
-** Arbeitsumgebungs-ID (wird als UUID angezeigt)
+** Arbeitsumgebungs-ID und -Name (wird als UUID angezeigt)
 ** SVN Name
 ** Volume-ID
 ** Volume-Typ
