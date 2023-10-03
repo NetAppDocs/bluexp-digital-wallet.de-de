@@ -13,7 +13,7 @@ summary: Verwalten Sie Ihre knotenbasierten Lizenzen in der digitalen Geldbörse
 :imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
 
 
-[role="lead"]
+[role="lead lead"]
 Managen Sie Node-basierte Lizenzen in der BlueXP Digital Wallet, um sicherzustellen, dass für jedes Cloud Volumes ONTAP System eine gültige Lizenz mit der erforderlichen Kapazität vorhanden ist.
 
 _Node-basierte Lizenzen_ sind das Lizenzmodell der vorherigen Generation (und für neue Kunden nicht verfügbar):

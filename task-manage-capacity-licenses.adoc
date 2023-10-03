@@ -13,7 +13,7 @@ summary: Managen Sie Ihre kapazitätsbasierten Lizenzen über die digitale Geldb
 :imagesdir: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/media/
 
 
-[role="lead"]
+[role="lead lead"]
 Managen Sie Ihre kapazitätsbasierten Lizenzen aus dem Digital Wallet von BlueXP, um sicherzustellen, dass Ihr NetApp Konto über genügend Kapazitäten für Ihre Cloud Volumes ONTAP Systeme verfügt.
 
 _Kapazitätsbasierte Lizenzen_ ermöglichen es Ihnen, Cloud Volumes ONTAP pro tib Kapazität zu bezahlen.
