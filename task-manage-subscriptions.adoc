@@ -16,6 +16,10 @@ summary: Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, 
 [role="lead"]
 Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement kann jedes Abonnement über das Digital Wallet von BlueXP gemanagt werden.
 
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["Informationen zur Anmeldung bei BlueXP (Standard-Modus)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["Informationen zur Anmeldung bei BlueXP (eingeschränkter Modus)"^]
+
+
 
 
 == Ihre Abonnements anzeigen

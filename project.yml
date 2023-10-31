@@ -13,7 +13,9 @@ sidebar:
   - title: BlueXP Digital-Wallet-Dokumente
     url: "/index.html"
   - title: Versionshinweise
-    url: "/whats-new.html"
+    entries:
+    - title: Was ist neu
+      url: "/whats-new.html"
   - title: Los geht's
     entries:
     - title: Erfahren Sie mehr über das Digital Wallet von BlueXP
@@ -30,7 +32,7 @@ sidebar:
       url: "/task-manage-data-services-licenses.html"
     - title: PAYGO-Abonnements und -Verträge verwalten
       url: "/task-manage-subscriptions.html"
-    - title: Management der Keystone Subscription Services
+    - title: Keystone Abonnements managen und
       url: "/task-manage-keystone.html"
     - title: Management von Lizenzen für On-Premises-ONTAP-Cluster
       url: "/task-manage-on-prem-clusters.html"
