@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-keystone.html 
-keywords: license, licensing, install, keystone, request capacity, link subscription, add keystone subscription, keystone subscription, digital wallet, keystone flex 
+keywords: license, licensing, install, keystone, request capacity, link subscription, add keystone subscription, keystone subscription, digital wallet, keystone flex, digital wallet, bluexp digital wallet 
 summary: Managen Sie Ihre Keystone Abonnements über das Digital Wallet von BlueXP, indem Sie Abonnements für die Nutzung von Cloud Volumes ONTAP aktivieren und Änderungen der gebuchten Kapazität für die Service-Level Ihres Abonnements anfordern. Die Anforderung zusätzlicher Kapazität für ein Service-Level stellt mehr Storage für lokale ONTAP Cluster oder für Cloud Volumes ONTAP Systeme bereit. 
 ---
 = Keystone Abonnements managen und
