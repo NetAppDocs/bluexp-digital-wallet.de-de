@@ -38,8 +38,6 @@
   <block id="f591dbc4232b149ea0792178559405f9" category="list-text">Laden Sie die Lizenzdatei hoch.</block>
   <block id="034f6db5181ab87d962e69b9b7b5a995" category="list-text">Klicken Sie Auf *Lizenz Hochladen*.</block>
   <block id="662442d32a5fd91298fcf8b6391fdf17" category="section-title">Ändern Sie die Lademethoden</block>
-  <block id="a117b4a94f6f90aef089573b1f002d26" category="paragraph">Sie können die Abrechnungsmethode für ein Cloud Volumes ONTAP System ändern, das kapazitätsbasierte Lizenzierung nutzt. Wenn Sie beispielsweise ein Cloud Volumes ONTAP-System mit dem Essentials-Paket bereitgestellt haben, können Sie es in das Professional-Paket ändern, wenn sich Ihre Geschäftsanforderungen ändern.</block>
-  <block id="86f463a1f0f0879749d1274dc94305d9" category="paragraph-title">Wichtiger Hinweis</block>
   <block id="cfdb32f80009b1e5c5c0468dda9f013d" category="paragraph">Wenn Sie über ein privates Angebot oder einen Vertrag von Ihrem Cloud-Provider-Markt verfügen, wird eine Änderung auf eine Abrechnungsmethode, die nicht im Vertrag enthalten ist, zu einer Abrechnung für BYOL (bei dem Kauf einer Lizenz von NetApp) oder PAYGO führen.</block>
   <block id="3397777d22d2d5f746157ca31f0d8460" category="list-text">Klicken Sie auf der Registerkarte *Cloud Volumes ONTAP* auf *Lademethode ändern*.</block>
   <block id="de4b4e176958ea7181911ce715504321" category="list-text">Wählen Sie eine Arbeitsumgebung aus, wählen Sie die neue Lademethode aus, und bestätigen Sie anschließend, dass sich eine Änderung des Paketyps auf Servicegebühren auswirkt.</block>
@@ -628,4 +626,10 @@
   <block id="1804830d648adf9126d51f4a827ca950" category="paragraph">Mit der Digital Wallet von BlueXP können Sie Lizenzen für die Disaster Recovery von BlueXP jetzt managen. Sie können Lizenzen hinzufügen, Lizenzen aktualisieren und Details zur lizenzierten Kapazität anzeigen.</block>
   <block id="85bdddc8ce218c6365f105f9d309d898" category="inline-link">Managen Sie Lizenzen für BlueXP Datenservices</block>
   <block id="ca654cde28a00db1fb587b8b6bb82015" category="paragraph"><block ref="ca654cde28a00db1fb587b8b6bb82015" category="inline-link-rx"></block></block>
+  <block id="970af11c442d109ac4d016f7c57f63fb" category="paragraph">Kapazitätsbasierte Lizenzierung ist in Form eines _package_ erhältlich. Wenn Sie eine Cloud Volumes ONTAP-Arbeitsumgebung erstellen, können Sie je nach Ihren Geschäftsanforderungen aus mehreren Lizenzierungspaketen wählen. Wenn sich Ihre Anforderungen ändern, nachdem Sie die Arbeitsumgebung erstellt haben, können Sie das Paket jederzeit ändern. Sie können z. B. vom Essentials-Paket zum Professional-Paket wechseln.</block>
+  <block id="58dcfad3183b701a8f1b8781a5644d09" category="inline-link">Erfahren Sie mehr über kapazitätsbasierte Lizenzierungspakete</block>
+  <block id="8e8751cb9b796773a6b79b4d5c3dc7b2" category="paragraph"><block ref="0205926668933cbb2cb5f56900594078" category="inline-link-rx"></block>.</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="list-title">Über diese Aufgabe</block>
+  <block id="3e4729f0b91cf008c10b8ab719ea9e99" category="list-text">Eine Änderung der Abrechnungsmethode hat keine Auswirkung darauf, ob die Abrechnung über eine von NetApp (BYOL) erworbene Lizenz oder über den Marketplace des Cloud-Providers (Pay-as-you-go) erfolgt.</block>
+  <block id="07456d1e170e8be27eaff1e39e1ccdf6" category="paragraph">BlueXP versucht immer zuerst, eine Lizenz zu berechnen. Wenn eine Lizenz nicht verfügbar ist, wird sie für ein Marketplace-Abonnement berechnet. Für das BYOL-Abonnement für Marketplace ist keine „Konvertierung“ erforderlich und umgekehrt.</block>
 </blocks>
