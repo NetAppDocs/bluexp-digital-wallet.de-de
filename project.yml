@@ -44,28 +44,6 @@ sidebar:
       url: "/task-get-help.html"
   - title: Rechtliche Hinweise
     url: "/legal-notices.html"
-homepage:
-  tiles:
-  - title: Los geht's
-    links:
-    - title: Erfahren Sie mehr über das Digital Wallet von BlueXP
-      url: concept-digital-wallet.html
-  - title: Verwalten Sie Ihre Lizenzen
-    links:
-    - title: Management kapazitätsbasierter Lizenzen für Cloud Volumes ONTAP
-      url: task-manage-capacity-licenses.html
-    - title: Managen Sie Lizenzen für BlueXP Datenservices
-      url: task-manage-data-services-licenses.html
-    - title: PAYGO-Abonnements und -Verträge verwalten
-      url: task-manage-subscriptions.html
-  - title: Blogs und Community
-    links:
-    - title: NetApp Community
-      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
-    - title: BlueXP-Blog
-      url: https://bluexp.netapp.com/blog
-    - title: Cloud-Webinare
-      url: https://bluexp.netapp.com/events
 product-family:
   name: BlueXP
   repo: bluexp-family

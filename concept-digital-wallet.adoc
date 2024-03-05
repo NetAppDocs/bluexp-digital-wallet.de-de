@@ -23,7 +23,7 @@ Das Digital Wallet von BlueXP ermöglicht das Management und Monitoring der von 
 * Management kapazitätsbasierter und Node-basierter Lizenzen für Cloud Volumes ONTAP
 * Hinzufügen und Managen von Lizenzen für BlueXP Datenservices
 * Abonnements für PAYGO- und Jahresverträge in Verbindung mit Ihrem BlueXP Konto und mit Astra Control managen
-* Managen Sie die Keystone Abonnementservices zur Verwendung mit Cloud Volumes ONTAP und fordern Sie Änderungen der gebuchten Kapazität an
+* Managen Sie die Keystone Abonnementservices zur Verwendung mit Cloud Volumes ONTAP und den On-Premises-ONTAP-Clustern und fordern Sie Änderungen an der gebuchten Kapazität an
 * Statusinformationen zu Hardware- und Softwareverträgen für lokale ONTAP Cluster anzeigen
 
 
@@ -31,11 +31,12 @@ Das Digital Wallet von BlueXP ermöglicht das Management und Monitoring der von 
 
 == Unterstützte Services
 
-Das Digital Wallet von BlueXP ermöglicht Ihnen das Management von Lizenzen für folgende Bereiche:
+Mit dem Digital Wallet von BlueXP können Sie Lizenzen für die folgenden Services managen:
 
-* Backup und Recovery
-* Klassifizierung
-* Cloud Volumes ONTAP
-* ONTAP-Cluster vor Ort
-* Tiering
+* https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["Backup und Recovery"^]
+* https://docs.netapp.com/us-en/bluexp-classification/index.html["Klassifizierung"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
+* https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html["Disaster Recovery"^] (Nur BYOL)
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["ONTAP-Cluster vor Ort"^]
+* https://docs.netapp.com/us-en/bluexp-tiering/index.html["Tiering"^]
 
