@@ -628,8 +628,16 @@
   <block id="ca654cde28a00db1fb587b8b6bb82015" category="paragraph"><block ref="ca654cde28a00db1fb587b8b6bb82015" category="inline-link-rx"></block></block>
   <block id="970af11c442d109ac4d016f7c57f63fb" category="paragraph">Kapazitätsbasierte Lizenzierung ist in Form eines _package_ erhältlich. Wenn Sie eine Cloud Volumes ONTAP-Arbeitsumgebung erstellen, können Sie je nach Ihren Geschäftsanforderungen aus mehreren Lizenzierungspaketen wählen. Wenn sich Ihre Anforderungen ändern, nachdem Sie die Arbeitsumgebung erstellt haben, können Sie das Paket jederzeit ändern. Sie können z. B. vom Essentials-Paket zum Professional-Paket wechseln.</block>
   <block id="58dcfad3183b701a8f1b8781a5644d09" category="inline-link">Erfahren Sie mehr über kapazitätsbasierte Lizenzierungspakete</block>
-  <block id="8e8751cb9b796773a6b79b4d5c3dc7b2" category="paragraph"><block ref="0205926668933cbb2cb5f56900594078" category="inline-link-rx"></block>.</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="list-title">Über diese Aufgabe</block>
   <block id="3e4729f0b91cf008c10b8ab719ea9e99" category="list-text">Eine Änderung der Abrechnungsmethode hat keine Auswirkung darauf, ob die Abrechnung über eine von NetApp (BYOL) erworbene Lizenz oder über den Marketplace des Cloud-Providers (Pay-as-you-go) erfolgt.</block>
   <block id="07456d1e170e8be27eaff1e39e1ccdf6" category="paragraph">BlueXP versucht immer zuerst, eine Lizenz zu berechnen. Wenn eine Lizenz nicht verfügbar ist, wird sie für ein Marketplace-Abonnement berechnet. Für das BYOL-Abonnement für Marketplace ist keine „Konvertierung“ erforderlich und umgekehrt.</block>
+  <block id="d5f06dc5f98a38b5ccff1592c5d20e76" category="admonition">Während die tatsächliche Nutzung und Nutzungsmessung für die in BlueXP gemanagten Produkte und Services immer in gib und tib berechnet werden, werden die Begriffe GB/gib und TB/tib synonym verwendet. Dies spiegelt sich in den Angeboten, Preisangeboten, Listenbeschreibungen und anderen Begleitdokumenten des Cloud Marketplace wider</block>
+  <block id="3e509b6c896c67a8b8ec2afa8f3aa8eb" category="admonition">Weitere Informationen zum Abrufen einer Lizenzdatei finden Sie unter<block ref="c65aa3342130b0295e06cd938a12ad5e" category="inline-link-rx"></block>.</block>
+  <block id="6b5c2460f150173d3723de8a857a4d33" category="paragraph"><block ref="179c8a3ed717f2c4de3149f0e9edf685" category="inline-link-rx"></block>.</block>
+  <block id="25b1fde564bb1fc860069167d8668df6" category="sidebar">Verwalten Sie Ihre Lizenzen</block>
+  <block id="7cbe4872773ca07492a76acf7d557fef" category="sidebar">Management kapazitätsbasierter Lizenzen für Cloud Volumes ONTAP</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs und Community</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp Community</block>
+  <block id="bd5465eb0e8cf8f303aee7ea9420c8b1" category="sidebar">BlueXP-Blog</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">Cloud-Webinare</block>
 </blocks>
