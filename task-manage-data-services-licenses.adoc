@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-manage-data-services-licenses.html 
 keywords: data services, byol, cloud backup, cloud tiering, data sense, cloud data sense, obtain license file, nlf, add license, update license, digital wallet, bluexp digital wallet, classification, bluexp classification, bluexp tiering, tiering, bluexp backup and recovery, backup and recovery, disaster recovery 
-summary: 'Das Digital Wallet von BlueXP ermöglicht das Management von Lizenzen, die Sie direkt über NetApp (BYOL) erworben haben, um sie für Backup und Recovery, Klassifizierung, Disaster Recovery und Tiering von BlueXP zu nutzen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.' 
+summary: 'Mit der Digital Wallet von BlueXP  können Sie Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, für BlueXP  Backup und Recovery, Disaster Recovery und Tiering managen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.' 
 ---
 = Managen Sie Lizenzen für BlueXP Datenservices
 :hardbreaks:
@@ -14,15 +14,18 @@ summary: 'Das Digital Wallet von BlueXP ermöglicht das Management von Lizenzen,
 
 
 [role="lead"]
-Das Digital Wallet von BlueXP ermöglicht das Management von Lizenzen, die Sie direkt über NetApp (BYOL) erworben haben, um sie für Backup und Recovery, Klassifizierung, Disaster Recovery und Tiering von BlueXP zu nutzen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.
+Mit der Digital Wallet von BlueXP  können Sie Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, für BlueXP  Backup und Recovery, Disaster Recovery und Tiering managen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.
 
 Die Anweisungen auf dieser Seite enthalten Informationen, die für jeden Service gelten. Weitere Informationen zur Lizenzierung für diese Services finden Sie auf den folgenden Seiten:
 
 * https://docs.netapp.com/us-en/bluexp-backup-recovery/task-licensing-cloud-backup.html["Lizenzierung für Backup und Recovery von BlueXP einrichten"^]
-* https://docs.netapp.com/us-en/bluexp-classification/task-licensing-datasense.html["Lizenzierung für die BlueXP Klassifizierung einrichten"^]
 * https://docs.netapp.com/us-en/bluexp-disaster-recovery/get-started/dr-licensing.html["Lizenzierung für die Disaster Recovery von BlueXP einrichten"^]
+* https://docs.netapp.com/us-en/bluexp-ransomware-protection/rp-start-licenses.html["Richten Sie eine Lizenzierung für den Ransomware-Schutz von BlueXP ein"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/task-licensing-cloud-tiering.html["Lizenzierung für BlueXP Tiering einrichten"^]
 
+
+
+TIP: Mit dem Digital Wallet von BlueXP  können Sie auch Lizenzen für die BlueXP -Klassifizierung managen. Allerdings ist die BlueXP -Klassifizierung als zentrale Funktion in BlueXP  jetzt ohne Zusatzkosten verfügbar. Eine Lizenz oder ein Abonnement ist nicht mehr erforderlich. https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["Weitere Informationen zur BlueXP Klassifizierung"^]
 
 
 

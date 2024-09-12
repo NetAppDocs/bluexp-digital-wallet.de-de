@@ -34,9 +34,12 @@ Das Digital Wallet von BlueXP ermöglicht das Management und Monitoring der von 
 Mit dem Digital Wallet von BlueXP können Sie Lizenzen für die folgenden Services managen:
 
 * https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["Backup und Recovery"^]
-* https://docs.netapp.com/us-en/bluexp-classification/index.html["Klassifizierung"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
 * https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html["Disaster Recovery"^] (Nur BYOL)
+* https://docs.netapp.com/us-en/bluexp-ransomware-protection/index.html["Schutz durch Ransomware"^]
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["ONTAP-Cluster vor Ort"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/index.html["Tiering"^]
 
+
+
+TIP: Mit dem Digital Wallet von BlueXP  können Sie auch Lizenzen für die BlueXP -Klassifizierung managen. Allerdings ist die BlueXP -Klassifizierung als zentrale Funktion in BlueXP  jetzt ohne Zusatzkosten verfügbar. Eine Lizenz oder ein Abonnement ist nicht mehr erforderlich. https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["Weitere Informationen zur BlueXP Klassifizierung"^]
