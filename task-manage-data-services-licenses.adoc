@@ -10,7 +10,7 @@ summary: 'Mit der Digital Wallet von BlueXP  können Sie Lizenzen, die Sie dire
 :nofooter: 
 :icons: font
 :linkattrs: 
-:imagesdir: https://docs.netapp.com/us-en/bluexp-backup-recovery/media/
+:imagesdir: ./media/
 
 
 [role="lead"]
@@ -34,18 +34,36 @@ TIP: Mit dem Digital Wallet von BlueXP  können Sie auch Lizenzen für die Blue
 Nach dem Kauf einer Lizenz können Sie die Lizenz in BlueXP aktivieren, indem Sie entweder die Seriennummer und das NSS-Konto eingeben oder die NetApp Lizenzdatei (NetApp License File, NLF) hochladen. Die folgenden Schritte zeigen, wie Sie die Lizenzdatei NLF abrufen können, wenn Sie diese Methode verwenden möchten.
 
 .Schritte
+. Finden Sie Ihre BlueXP  Konto-ID:
++
+.. Wählen Sie oben rechts in der BlueXP -Konsole > *Identitäts- und Zugriffsmanagement* ausimage:icon-settings-option.png["Das Einstellungssymbol, das oben rechts in der BlueXP -Webkonsole angezeigt wird."].
+.. Suchen Sie auf der Seite Organisation nach Ihrer Account-ID, und kopieren Sie diese.
++
+Wenn keine Konto-ID aufgeführt ist und Sie nur eine Organisations-ID haben, müssen Sie die ersten acht Zeichen der Organisations-ID kopieren und an _Account-_ anhängen
+
++
+Nehmen wir beispielsweise an, dies ist Ihre Unternehmens-ID:
+
++
+Ea10e1c6-80cc-4219-8e99-3c3e6b161ba5
+
++
+Ihre Konto-ID lautet wie folgt:
+
++
+Account-ea10e1c6
+
+
+
 . Melden Sie sich beim an https://mysupport.netapp.com["NetApp Support Website"^] Und wählen Sie *Systeme > Softwarelizenzen*.
 . Geben Sie die Seriennummer für Ihre Lizenz ein.
 +
 image:screenshot_cloud_backup_license_step1.gif["Ein Screenshot, der eine Tabelle von Lizenzen zeigt, nachdem Sie nach der Seriennummer suchen."]
 
 . Wählen Sie in der Spalte *Lizenzschlüssel* *NetApp-Lizenzdatei abrufen* aus.
-. Geben Sie Ihre BlueXP Konto-ID ein (dies wird auf der Support-Website als Mandanten-ID bezeichnet), und wählen Sie *Absenden*, um die Lizenzdatei herunterzuladen.
+. Geben Sie Ihre BlueXP -Konto-ID ein (dies wird auf der Support-Website als Mandanten-ID bezeichnet), und wählen Sie *Absenden*, um die Lizenzdatei herunterzuladen.
 +
 image:screenshot_cloud_backup_license_step2.gif["Ein Screenshot, der das Dialogfeld Lizenz abrufen zeigt, in dem Sie Ihre Mandanten-ID eingeben und dann auf Senden klicken, um die Lizenzdatei herunterzuladen."]
-
-+
-Sie finden Ihre BlueXP Konto-ID, indem Sie oben in BlueXP das Dropdown-Menü *Account* auswählen und dann neben Ihrem Konto *Konto verwalten* auswählen. Ihre Account-ID wird auf der Registerkarte „Übersicht“ angezeigt.
 
 
 

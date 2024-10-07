@@ -67,7 +67,6 @@
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service für Google Cloud</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Übersicht über die Support-Registrierung</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Es gibt zwei Registrierungsformulare, um die Support-Berechtigung zu aktivieren:</block>
-  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">Registrieren Ihres BlueXP-Konto-ID-Support-Abonnements (Ihre 20-stellige Seriennummer 960xxxxxxxxx auf der Seite Support-Ressourcen in BlueXP).</block>
   <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">Dies dient als Ihre einzige Support-Abonnement-ID für jeden Service in BlueXP. Jedes BlueXP-Abonnement für Support auf Kontoebene muss registriert werden.</block>
   <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">Registrieren der Cloud Volumes ONTAP Seriennummern für ein Abonnement auf dem Markt Ihres Cloud-Providers (dies sind 20-stellige Seriennummern von 909201xxxxxx).</block>
   <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">Diese Seriennummern werden als _PAYGO Seriennummern_ bezeichnet und werden zum Zeitpunkt der Cloud Volumes ONTAP Implementierung von BlueXP generiert.</block>
@@ -102,7 +101,6 @@
   <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">Zur Fertigstellung dieser sicheren Transaktion wird sofort eine E-Mail an die angegebene Mailbox gesendet. Überprüfen Sie Ihre Spam-Ordner, wenn die Validierungs-E-Mail nicht in wenigen Minuten ankommt.</block>
   <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">Bestätigen Sie die Aktion in der E-Mail.</block>
   <block id="201080500e946070a2e4873042507c77" category="paragraph">Indem Sie Ihre Anfrage an NetApp senden, wird Ihnen die Erstellung eines NetApp Support Site Kontos empfohlen.</block>
-  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">Kopieren Sie die oben angegebene Seriennummer (960xxxx) für das Feld „Seriennummer“. Dadurch wird die Kontobearbeitung beschleunigt.</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Nachdem Sie fertig sind</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp sollte sich bei diesem Prozess mit Ihnen in Verbindung setzen. Dies ist eine einmalige Onboarding-Übung für neue Benutzer.</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp bietet Unterstützung für BlueXP auf verschiedene Weise. Umfassende kostenlose Self-Support-Optionen stehen rund um die Uhr zur Verfügung, wie etwa Knowledge Base-Artikel (KB) und ein Community-Forum. Ihre Support-Registrierung umfasst technischen Remote-Support über Web-Ticketing.</block>
@@ -124,7 +122,6 @@
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Wählen Sie auf der Seite *Ressourcen* eine der verfügbaren Optionen unter Technischer Support:</block>
   <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Service*: Wählen Sie den Dienst aus, mit dem das Problem verknüpft ist. Beispiel: BlueXP, wenn es sich um ein Problem des technischen Supports mit Workflows oder Funktionen im Service handelt.</block>
   <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Arbeitsumgebung*: Wählen Sie *Cloud Volumes ONTAP* oder *On-Prem* und anschließend die zugehörige Arbeitsumgebung aus.</block>
-  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">Die Liste der Arbeitsumgebungen liegt im Bereich des BlueXP-Kontos, des Arbeitsbereichs und des Connectors, den Sie im oberen Banner des Dienstes ausgewählt haben.</block>
   <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Case Priority*: Wählen Sie die Priorität für den Fall, der niedrig, Mittel, hoch oder kritisch sein kann.</block>
   <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Wenn Sie weitere Informationen zu diesen Prioritäten wünschen, bewegen Sie den Mauszeiger über das Informationssymbol neben dem Feldnamen.</block>
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Problembeschreibung*: Geben Sie eine detaillierte Beschreibung Ihres Problems an, einschließlich aller anwendbaren Fehlermeldungen oder Fehlerbehebungsschritte, die Sie durchgeführt haben.</block>
@@ -193,7 +190,6 @@
   <block id="fc6ada65ff8f08c80e7d6167f68c89c2" category="list-text">Klicken Sie für das Abonnement, das Sie verknüpfen möchten, auf <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> Und wählen Sie *Link*.</block>
   <block id="a71102951bc0488f4ec3cb5e52602100" category="inline-image-macro">Ein Screenshot, der die Link-Option für ein Abonnement zeigt.</block>
   <block id="53dd6d03631eca7d8e89d0d7d8cdeb77" category="paragraph"><block ref="53dd6d03631eca7d8e89d0d7d8cdeb77" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="c01bba3f5cf220440d62298c4287d655" category="paragraph">Das Abonnement ist nun mit Ihrem BlueXP-Konto verknüpft und kann bei der Erstellung einer Cloud Volumes ONTAP-Arbeitsumgebung ausgewählt werden.</block>
   <block id="1b02ed65c5ea56c85fffa6b88378d762" category="section-title">Fordern Sie mehr oder weniger fest verplante Kapazität an</block>
   <block id="a2748c51966db7db689a8801f6ae4150" category="list-text">Klicken Sie für das Abonnement, das Sie an die Kapazität anpassen möchten, auf <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> Und wählen Sie *Details anzeigen und bearbeiten*.</block>
   <block id="56ecf988dec174f4d23028e78eeed82c" category="list-text">Geben Sie die angeforderte engagierte Kapazität für ein oder mehrere Abonnements ein.</block>
@@ -203,7 +199,6 @@
   <block id="8f140d9c4d508c36e3d4c57102f117eb" category="paragraph">Ihre Anfrage erstellt ein Ticket im NetApp System zur Verarbeitung.</block>
   <block id="0c0401d1e9169d6dd38462b1e0d04126" category="section-title">Aufheben der Verknüpfung eines Abonnements</block>
   <block id="a666a430e484ea214384aefaa30da852" category="list-text">Klicken Sie für das Abonnement, das Sie aufheben möchten, auf <block ref="c9c50c6d591d91ccce1ee232fa490fb4" category="inline-image-macro-rx" type="image"></block> Und wählen Sie *Link aufheben*.</block>
-  <block id="ae187bda8f85dfd75202915fcca6b90d" category="paragraph">Das Abonnement wird von Ihrem BlueXP-Konto getrennt und kann bei der Erstellung einer Cloud Volumes ONTAP-Arbeitsumgebung nicht mehr ausgewählt werden.</block>
   <block id="0ba30235105c7547a3e7658745e09be4" category="summary">Informieren Sie sich über die Neuerungen beim Digital Wallet von BlueXP.</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">Was ist neu</block>
   <block id="102787ed6297b34a7504b527e91d01d3" category="section-title">Bis 3. April 2023</block>
@@ -241,7 +236,6 @@
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">Bevor Sie beginnen</block>
   <block id="2b474be1d4faf7d5e70a3977fa183a0a" category="paragraph">Das Digital Wallet von BlueXP zeigt Details zu den lokalen ONTAP Clustern an, die Sie als Arbeitsumgebung erkannt haben oder die mit einem zu BlueXP hinzugefügten NetApp Support Site Konto verknüpft sind.</block>
   <block id="422bab6ebf30e7a3f981f61427aaba19" category="inline-link">Erfahren Sie, wie Sie einen lokalen ONTAP Cluster erkennen</block>
-  <block id="9f7c8fad2f6cbf64994a97a18db097a3" category="inline-link">Erfahren Sie, wie Sie NSS-Anmeldedaten für Ihr BlueXP Konto verwalten</block>
   <block id="4bbcdd6338e8631576e63f1156b1c51d" category="section-title">Cluster-Informationen und Vertragsdetails</block>
   <block id="dfaa8df1d6444411a1429b0866742025" category="paragraph">Anzeigen des Status der Hardware- und Softwareverträge für Ihre On-Premises ONTAP Cluster, sodass Sie sie vor ihrem Ablauf verlängern können.</block>
   <block id="e65135bd79d15db91bec6c98a9f8dabe" category="list-text">Wählen Sie *On-Premise ONTAP*.</block>
@@ -287,7 +281,6 @@
   <block id="e97d1d1134e32a84fb4d6d796e3e56a9" category="list-text">Wählen Sie in der Zeile das Aktionsmenü aus, das dem Abonnement entspricht, das Sie verwalten möchten.</block>
   <block id="1dea06c0cd8c3b77e4597670a860c155" category="inline-image-macro">Ein Screenshot des Aktionsmenüs für ein Abonnement.</block>
   <block id="23531331db8be0d13d9ce3c0685c0c8e" category="paragraph"><block ref="23531331db8be0d13d9ce3c0685c0c8e" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="1201c1bd99e40a424aee33ac62838b92" category="list-text">Benennen Sie das Abonnement um oder managen Sie die BlueXP Konten, die mit dem Abonnement verbunden sind.</block>
   <block id="7e3a4c0ec1aee45acf094839bb9c449f" category="summary">Verwalten Sie Ihre knotenbasierten Lizenzen in der digitalen Geldbörse, um sicherzustellen, dass jedes Cloud Volumes ONTAP-System über eine gültige Lizenz mit der erforderlichen Kapazität verfügt.</block>
   <block id="de94398a333e3b7bdafad2ddf3232331" category="doc">Management knotenbasierter Lizenzen</block>
   <block id="4627bd080634e9380c75a1cc04a09486" category="paragraph">_Node-basierte Lizenzen_ sind das Lizenzmodell der vorherigen Generation (und für neue Kunden nicht verfügbar):</block>
@@ -386,7 +379,6 @@
   <block id="064ff692e4b4a468969f66368c68e2c8" category="sidebar">Management von Lizenzen für On-Premises-ONTAP-Cluster</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Wissen und Support</block>
   <block id="49f326995814ee311b340478f99f992f" category="doc">BlueXP Digital Wallet – Dokumentation</block>
-  <block id="d73d2254cb7a33ffdc126efbce99e623" category="list-text">Abonnements für PAYGO- und Jahresverträge in Verbindung mit Ihrem BlueXP Konto und mit Astra Control managen</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="list-text">Backup und Recovery</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="list-text">Tiering</block>
   <block id="f4b04af639ebf32754e26b928989f33f" category="inline-link">Lizenzierung für Backup und Recovery von BlueXP einrichten</block>
@@ -403,7 +395,6 @@
   <block id="61589f40a840f6f60d0d36160690dc0e" category="inline-image-macro">Ein Screenshot, in dem die Seite für kapazitätsbasierte Lizenzen angezeigt wird. Die Seite bietet einen Überblick über die verbrauchte Kapazität in Ihrem Account und setzt dann die verbrauchte Kapazität nach Lizenzpaket auf.</block>
   <block id="ccb04438d71ca79f2a97704ba47b5adf" category="paragraph">Wenn Sie die Kapazität oder den Begriff für eine Ihrer Lizenzen ändern, werden die Lizenzbedingungen jetzt automatisch in der aktualisiert. Sie müssen die Lizenz nicht manuell aktualisieren.</block>
   <block id="682e041ff00069faf1e43f1e418221a6" category="summary">Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement kann jedes Abonnement über das Digital Wallet von BlueXP gemanagt werden.</block>
-  <block id="65459c618528464246bc4dd16dea72ba" category="paragraph">Das Digital Wallet von BlueXP enthält Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihr BlueXP Konto und Astra Control (Astra Control nutzt den Cloud-Abrechnungsservice von BlueXP).</block>
   <block id="69cda14c45037fc1c766e6b7626c706b" category="inline-image-macro">Ein Screenshot der Registerkarte Abonnements in der digitalen Brieftasche, in der Sie den Pfeil am Ende einer Zeile auswählen können, um ihn zu erweitern.</block>
   <block id="d6e80e5ccdacdc912b76ab91b58f6023" category="paragraph"><block ref="d6e80e5ccdacdc912b76ab91b58f6023" category="inline-image-macro-rx" type="image"></block></block>
   <block id="41f51117bfa13081af4c8a2db1a7ab58" category="list-text">Wenn Sie die Vertragsdetails erweitern, zeigt das Digital Wallet von BlueXP die verfügbaren Optionen und Einheiten für Ihren aktuellen Plan an: Die Vertragsoptionen und Einheiten (Kapazität oder Anzahl der Nodes).</block>
@@ -433,7 +424,6 @@
   <block id="ef932e9542b570b1aebe25543e12d641" category="inline-image-macro">Ein Screenshot aus dem Cloud Volumes ONTAP-Paket zeigt eine Zusammenfassung der insgesamt genutzten Kapazität, der gesamten vorab gebuchten Kapazität (BYOL- und Marketplace-Verträge) sowie der gesamten PAYGO- oder bereitgestellten Kapazität in der digitalen Brieftasche von BlueXP.</block>
   <block id="7d6ebd560dc2c66d5d0db57db21f3c2e" category="paragraph"><block ref="7d6ebd560dc2c66d5d0db57db21f3c2e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="37532cd27e3c53471b1caed0ba1f90ed" category="section-title">Nutzungsberichte herunterladen</block>
-  <block id="819d4e1e06bcd4bb3249b60d928ccacc" category="paragraph">Account-Administratoren können vier Nutzungsberichte aus dem Digital Wallet von BlueXP herunterladen. Diese Nutzungsberichte enthalten Kapazitätsdetails zu Ihren Abonnements und geben an, wie Sie für die Ressourcen in Ihren Cloud Volumes ONTAP Abonnements in Rechnung gestellt werden. Die herunterladbaren Berichte erfassen Daten zu einem bestimmten Zeitpunkt und können problemlos mit anderen geteilt werden.</block>
   <block id="c2b73e18a5b530a547ba48a8177d13c3" category="inline-image-macro">In dem Screenshot wird die Seite „kapazitätsbasierte Cloud Volumes ONTAP-Lizenzen“ des Digital Wallet angezeigt, und die Schaltfläche „Nutzungsbericht“ wird hervorgehoben.</block>
   <block id="a1a4a48254cf8eb8962fbd995f5e7ea8" category="paragraph"><block ref="a1a4a48254cf8eb8962fbd995f5e7ea8" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d11dcbec58d47bd13de1dcccfbd640ff" category="paragraph">Die folgenden Berichte stehen zum Download zur Verfügung. Die angegebenen Kapazitätswerte werden in tib angezeigt.</block>
@@ -494,7 +484,6 @@
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Wenn Sie jemals Ihre Anmeldeinformationen aktualisieren müssen, gibt es im auch eine *Anmeldeinformationen aktualisieren*-Option <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> Menü.</block>
   <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="b23696557397783ca9c44bd2c80b335d" category="list-text"><block ref="b23696557397783ca9c44bd2c80b335d" category="inline-link-rx"></block></block>
-  <block id="e60eaacf5c9817a22b4cc8e32d3e60ca" category="list-text"><block ref="e60eaacf5c9817a22b4cc8e32d3e60ca" category="inline-link-rx"></block></block>
   <block id="da810fa51a2b9119147838a70412015f" category="paragraph"><block ref="a07feb0a336d59a2369adfa9ca88e728" category="inline-link-rx"></block>.</block>
   <block id="b4fa3d19dea2a10db131d6dd7f714436" category="list-text"><block ref="b4fa3d19dea2a10db131d6dd7f714436" category="inline-link-rx"></block></block>
   <block id="e82c60430ac236acfc954acd22ea737d" category="list-text"><block ref="e82c60430ac236acfc954acd22ea737d" category="inline-link-rx"></block></block>
@@ -512,25 +501,18 @@
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">Wenn Sie einen Fall für ein ONTAP System mit einer Seriennummer eröffnen, muss Ihr NSS-Konto mit der Seriennummer des Systems verknüpft sein.</block>
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Dieser Fehler könnte bedeuten, dass das NSS-Konto und das Unternehmen des Datensatzes, mit dem es verbunden ist, nicht das gleiche Unternehmen des Eintrags für die BlueXP Account Seriennummer (dh 960xxxx) oder Seriennummer der Arbeitsumgebung. Sie können Hilfe mit einer der folgenden Optionen anfordern:</block>
   <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">Durch das Registrieren beider Arten von Seriennummern können Kunden Funktionen wie das Öffnen von Support-Tickets und die automatische Erstellung von Support-Cases nutzen. Die Registrierung ist abgeschlossen, indem wie unten beschrieben Konten der NetApp Support Website (NSS) zu BlueXP hinzugefügt werden.</block>
-  <block id="5a19febf1dcb23c10e8dcfde64ba764c" category="section-title">Registrieren Sie Ihr BlueXP Konto für NetApp Support</block>
-  <block id="6bbc2ba432f59ab65ee3d8ac5a58336e" category="paragraph">Um sich für den Support zu registrieren und die Supportberechtigung zu aktivieren, muss ein Benutzer in Ihrem BlueXP Konto ein NetApp Support Site Konto mit seinen BlueXP Anmeldedaten verknüpfen. Wie Sie sich für den NetApp Support registrieren, hängt davon ab, ob Sie bereits über einen NSS Account (NetApp Support Site) verfügen.</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Wählen Sie *NSS-Anmeldeinformationen hinzufügen* und folgen Sie der Eingabeaufforderung für die NetApp-Support-Website (NSS)-Authentifizierung.</block>
-  <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">Auf der Seite *Ressourcen* sollte angezeigt werden, dass Ihr Konto für Support registriert ist.</block>
   <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">Ein Screenshot mit einer Seriennummer des Kontos und einem grünen Kontrollkästchen sowie dem für den Support registrierten Text.</block>
   <block id="3d183819a15163ef2e2e7d9d764254a9" category="paragraph"><block ref="3d183819a15163ef2e2e7d9d764254a9" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="d9a01bdcfab6f0a10fc126999b4d5988" category="paragraph">Beachten Sie, dass andere BlueXP Benutzer diesen Support-Registrierungsstatus nicht sehen, wenn sie ihrem BlueXP Login kein NetApp Support Site Konto zugeordnet haben. Das bedeutet jedoch nicht, dass Ihr BlueXP Konto nicht für den Support registriert ist. Solange ein Benutzer im Konto diese Schritte befolgt hat, wurde Ihr Konto registriert.</block>
   <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">Wenn Sie bereits NetApp Kunde sind und über vorhandene Lizenzen und Seriennummern sowie _No_ NSS Konto verfügen, müssen Sie ein NSS Konto erstellen und es Ihren BlueXP Anmeldedaten zuordnen.</block>
   <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">Ordnen Sie Ihr neues NSS-Konto Ihrer BlueXP Anmeldung zu, indem Sie die unter aufgeführten Schritte durchführen <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
   <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">Wenn Sie über Ihren NetApp Support Site Account verfügen, ordnen Sie das Konto Ihrer BlueXP Anmeldung zu, indem Sie die Schritte unter ausführen <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
   <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">Verknüpfen von NSS-Anmeldeinformationen für den Cloud Volumes ONTAP-Support</block>
-  <block id="d8f0da67cbab6e43f6d266bdab68cdc8" category="paragraph">Um die folgenden wichtigen Workflows für Cloud Volumes ONTAP zu ermöglichen, müssen die Zugangsdaten für die NetApp Support Website mit Ihrem BlueXP Konto verknüpft werden:</block>
   <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">Registrieren von Pay-as-you-go Cloud Volumes ONTAP Systemen für Support</block>
   <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">Die Bereitstellung Ihres NSS Kontos ist erforderlich, um Support für Ihr System zu aktivieren und Zugang zu den technischen Support-Ressourcen von NetApp zu erhalten.</block>
   <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">Implementierung von Cloud Volumes ONTAP unter Verwendung von BYOL (Bring-Your-Own-License)</block>
   <block id="2ebfeabed40c2270d9fa8325080a4b3e" category="paragraph">Die Bereitstellung Ihres NSS-Kontos ist erforderlich, damit BlueXP Ihren Lizenzschlüssel hochladen und das Abonnement für den von Ihnen erworbenen Zeitraum aktivieren kann. Dies schließt automatische Updates für Vertragsverlängerungen ein.</block>
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Aktualisieren der Cloud Volumes ONTAP Software auf die neueste Version</block>
-  <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">Das Zuordnen der NSS-Anmeldedaten zu Ihrem BlueXP Konto unterscheidet sich von dem NSS-Konto, das mit einer BlueXP Benutzeranmeldung verknüpft ist.</block>
-  <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">Diese NSS-Zugangsdaten sind mit Ihrer spezifischen BlueXP Konto-ID verknüpft. Benutzer, die zum BlueXP Konto gehören, können über *Support &gt; NSS Management* auf diese Anmeldedaten zugreifen.</block>
   <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">Klicken Sie oben rechts auf der BlueXP Konsole auf das Symbol Einstellungen, und wählen Sie *Credentials* aus.</block>
   <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">Wählen Sie *Benutzeranmeldeinformationen*.</block>
   <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">Um zu bestätigen, dass die Registrierung erfolgreich war, wählen Sie das Hilfesymbol und dann *Support*.</block>
@@ -539,10 +521,8 @@
   <block id="85b9386ed443776127e099931d73448a" category="list-text">Wenn Sie dazu aufgefordert werden, wählen Sie *Weiter*, um zu einer Microsoft-Anmeldeseite umgeleitet zu werden.</block>
   <block id="24586b03da03249c22a79822574b4e88" category="list-text">Melden Sie sich beim an<block ref="fcc52edac3ce57829c48ee35d97a295d" category="inline-link-rx"></block> Und wählen Sie *Systeme &gt; Softwarelizenzen*.</block>
   <block id="929a00c33ff1e797afba661a33f187d7" category="list-text">Wählen Sie in der Spalte *Lizenzschlüssel* *NetApp-Lizenzdatei abrufen* aus.</block>
-  <block id="3a9ab049ef9711b68ac94e0bc034cb30" category="list-text">Geben Sie Ihre BlueXP Konto-ID ein (dies wird auf der Support-Website als Mandanten-ID bezeichnet), und wählen Sie *Absenden*, um die Lizenzdatei herunterzuladen.</block>
   <block id="b2ca6ef178712312d4798385b0f225aa" category="inline-image-macro">Ein Screenshot, der das Dialogfeld Lizenz abrufen zeigt, in dem Sie Ihre Mandanten-ID eingeben und dann auf Senden klicken, um die Lizenzdatei herunterzuladen.</block>
   <block id="dd7d821dbf8e495a16f2e05e456de274" category="paragraph"><block ref="dd7d821dbf8e495a16f2e05e456de274" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="19a9d224e357593876fd44c3faede4ab" category="paragraph">Sie finden Ihre BlueXP Konto-ID, indem Sie oben in BlueXP das Dropdown-Menü *Account* auswählen und dann neben Ihrem Konto *Konto verwalten* auswählen. Ihre Account-ID wird auf der Registerkarte „Übersicht“ angezeigt.</block>
   <block id="519fe268f292c638e02a4e5bb7ab4dc1" category="list-text">Wählen Sie im Menü BlueXP die Option *Governance &gt; Digital Wallet* und anschließend die Registerkarte *Data Services Licenses* aus.</block>
   <block id="c8508c0ce4da6dc634b7c66b1df15681" category="list-text">Wählen Sie *Lizenz Hinzufügen*.</block>
   <block id="07a27581558b890ee2ba077c2fa844c8" category="list-text">Geben Sie im Dialogfeld _Add License_ die Lizenzinformationen ein und wählen Sie *Add License*:</block>
@@ -642,4 +622,32 @@
   <block id="a269d93abb509861d65de68891092f13" category="summary">Mit der Digital Wallet von BlueXP  können Sie Lizenzen, die Sie direkt von NetApp (BYOL) erworben haben, für BlueXP  Backup und Recovery, Disaster Recovery und Tiering managen. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.</block>
   <block id="f8caca15ab9e55b2643391493d5c81c7" category="inline-link">Richten Sie eine Lizenzierung für den Ransomware-Schutz von BlueXP ein</block>
   <block id="11fcd042a23eb699950bdd9edd2568bb" category="list-text"><block ref="11fcd042a23eb699950bdd9edd2568bb" category="inline-link-rx"></block></block>
+  <block id="3f4fba3deacd5b0acac06291dbdcdb43" category="list-text">Abonnements für PAYGO und Jahresverträge für Ihre BlueXP -Organisation und mit Astra Control managen</block>
+  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">Die Liste der Arbeitsumgebungen liegt im Bereich der BlueXP -Organisation (oder des Accounts), des Projekts (oder des Arbeitsbereichs) und des Connectors, den Sie im oberen Banner des Service ausgewählt haben.</block>
+  <block id="bcb02fe5bf814bc0d9811e97deeace94" category="paragraph">Sie können vier Nutzungsberichte aus dem BlueXP  Digital Wallet herunterladen. Diese Nutzungsberichte enthalten Kapazitätsdetails zu Ihren Abonnements und geben an, wie Sie für die Ressourcen in Ihren Cloud Volumes ONTAP Abonnements in Rechnung gestellt werden. Die herunterladbaren Berichte erfassen Daten zu einem bestimmten Zeitpunkt und können problemlos mit anderen geteilt werden.</block>
+  <block id="e53331a3231a958d20a4871d8efc35d8" category="list-text">Finden Sie Ihre BlueXP  Konto-ID:</block>
+  <block id="e0e8a7d90375792efecad34c0c923e32" category="inline-image-macro">Das Einstellungssymbol, das oben rechts in der BlueXP -Webkonsole angezeigt wird.</block>
+  <block id="cd42e1c1af0a908f68d68ae6103b5c30" category="list-text">Wählen Sie oben rechts in der BlueXP -Konsole &gt; *Identitäts- und Zugriffsmanagement* aus<block ref="32173ab85f1c68a28384d1a40cf387db" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="3bcef3f6238058ae825d608e1557c538" category="list-text">Suchen Sie auf der Seite Organisation nach Ihrer Account-ID, und kopieren Sie diese.</block>
+  <block id="2bd8c9344d3768dd44b910db169ef1fa" category="paragraph">Wenn keine Konto-ID aufgeführt ist und Sie nur eine Organisations-ID haben, müssen Sie die ersten acht Zeichen der Organisations-ID kopieren und an _Account-_ anhängen</block>
+  <block id="14da2ef10b9e4cc4d0981b05fff98072" category="paragraph">Nehmen wir beispielsweise an, dies ist Ihre Unternehmens-ID:</block>
+  <block id="2740d3013330ec13ae7693ee76bc6509" category="paragraph">Ea10e1c6-80cc-4219-8e99-3c3e6b161ba5</block>
+  <block id="6ffe1a2d88424dc37ba43bdf5999183e" category="paragraph">Ihre Konto-ID lautet wie folgt:</block>
+  <block id="c0b58edc6437b03c81d24f7ded6f3648" category="paragraph">Account-ea10e1c6</block>
+  <block id="33aed260657d37613aeee43d3e2173f8" category="list-text">Geben Sie Ihre BlueXP -Konto-ID ein (dies wird auf der Support-Website als Mandanten-ID bezeichnet), und wählen Sie *Absenden*, um die Lizenzdatei herunterzuladen.</block>
+  <block id="7c27c9e51d561399ee84fb8d2259328c" category="paragraph">Das Abonnement ist nun mit Ihrer BlueXP -Organisation oder Ihrem Konto verknüpft und steht Ihnen bei der Erstellung einer Cloud Volumes ONTAP-Arbeitsumgebung zur Verfügung.</block>
+  <block id="287c693dd0bc6ec48aa0fc3f4b950a9e" category="paragraph">Das Abonnement wird von Ihrer-Organisation oder Ihrem BlueXP -Konto aufgehoben und steht bei der Erstellung einer Cloud Volumes ONTAP-Arbeitsumgebung nicht mehr zur Auswahl.</block>
+  <block id="e1aa28849db2f09269597c9486d71590" category="inline-link">Erfahren Sie, wie Sie die NSS-Anmeldedaten für Ihre-Organisation oder Ihr BlueXP -Konto verwalten</block>
+  <block id="691c5bcb5b91398c6e6a5541f8f58b5b" category="list-text"><block ref="691c5bcb5b91398c6e6a5541f8f58b5b" category="inline-link-rx"></block></block>
+  <block id="343db25ecff212a0d088e939e917acea" category="paragraph">Das BlueXP  Digital Wallet liefert Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihre BlueXP  Organisation oder Ihr Konto sowie mit Astra Control (Astra Control nutzt den Ladeservice von BlueXP ).</block>
+  <block id="1857ec7d8bf266184255083ab9e4370e" category="list-text">Sie können das Abonnement umbenennen oder die mit dem Abonnement verbundenen BlueXP -Organisationen oder -Konten verwalten.</block>
+  <block id="29360bfcdbc91d3f1514c372b4585965" category="list-text">Registrieren der Seriennummer Ihres BlueXP -Kontos (Ihre 20-stellige Seriennummer 960xxxxxxxxx finden Sie auf der Seite „Support-Ressourcen“ in BlueXP ).</block>
+  <block id="444b74bc81e823cc1c4c704219ad8ed3" category="section-title">Registrieren Sie BlueXP , um NetApp Support zu erhalten</block>
+  <block id="b3bf31f8a918c712f26cdf493a908825" category="paragraph">Um sich für den Support zu registrieren und die Supportberechtigung zu aktivieren, muss ein Benutzer in Ihrer BlueXP  Organisation (oder Ihrem Konto) einem NetApp Support Site Konto seine BlueXP  Anmeldedaten zuweisen. Wie Sie sich für den NetApp Support registrieren, hängt davon ab, ob Sie bereits über einen NSS Account (NetApp Support Site) verfügen.</block>
+  <block id="2ba7f9eae7a02f9c3ac0fc07517d1c48" category="paragraph">Auf der Seite *Ressourcen* sollte angezeigt werden, dass Ihre BlueXP -Organisation für Support registriert ist.</block>
+  <block id="c05e530d1466e986d570cfe3f92656c3" category="paragraph">Beachten Sie, dass andere BlueXP Benutzer diesen Support-Registrierungsstatus nicht sehen, wenn sie ihrem BlueXP Login kein NetApp Support Site Konto zugeordnet haben. Das bedeutet jedoch nicht, dass Ihre BlueXP -Organisation nicht für Support registriert ist. Solange ein Benutzer in der Organisation diese Schritte befolgt hat, wurde Ihr Unternehmen registriert.</block>
+  <block id="a2454703f88e5bf5b433ae850a87151b" category="list-text">Kopieren Sie die oben angegebene Seriennummer (960xxxx) für das Feld „Seriennummer“. Dadurch wird die Verarbeitung beschleunigt.</block>
+  <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Um die folgenden wichtigen Workflows für Cloud Volumes ONTAP zu ermöglichen, müssen die Zugangsdaten auf der NetApp Support Website Ihrer BlueXP  Abteilung zugeordnet werden:</block>
+  <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">Das Zuordnen von NSS-Anmeldeinformationen zu Ihrer BlueXP -Organisation unterscheidet sich von dem NSS-Konto, das mit einer BlueXP -Benutzeranmeldung verknüpft ist.</block>
+  <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Diese NSS-Anmeldedaten sind mit Ihrer spezifischen BlueXP -Organisations-ID verknüpft. Benutzer, die zur BlueXP -Organisation gehören, können über *Support &gt; NSS-Verwaltung* auf diese Anmeldeinformationen zugreifen.</block>
 </blocks>

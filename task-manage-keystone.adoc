@@ -55,7 +55,7 @@ image:screenshot-keystone-link.png["Ein Screenshot, der die Link-Option für ein
 
 
 .Ergebnis
-Das Abonnement ist nun mit Ihrem BlueXP-Konto verknüpft und kann bei der Erstellung einer Cloud Volumes ONTAP-Arbeitsumgebung ausgewählt werden.
+Das Abonnement ist nun mit Ihrer BlueXP -Organisation oder Ihrem Konto verknüpft und steht Ihnen bei der Erstellung einer Cloud Volumes ONTAP-Arbeitsumgebung zur Verfügung.
 
 
 
@@ -98,4 +98,4 @@ Wenn Sie kein Keystone Abonnement mehr mit BlueXP nutzen möchten, können Sie d
 
 
 .Ergebnis
-Das Abonnement wird von Ihrem BlueXP-Konto getrennt und kann bei der Erstellung einer Cloud Volumes ONTAP-Arbeitsumgebung nicht mehr ausgewählt werden.
+Das Abonnement wird von Ihrer-Organisation oder Ihrem BlueXP -Konto aufgehoben und steht bei der Erstellung einer Cloud Volumes ONTAP-Arbeitsumgebung nicht mehr zur Auswahl.

@@ -84,7 +84,7 @@ image:screenshot-digital-wallet-packages.png["Ein Screenshot mit der verbrauchte
 
 == Nutzungsberichte herunterladen
 
-Account-Administratoren können vier Nutzungsberichte aus dem Digital Wallet von BlueXP herunterladen. Diese Nutzungsberichte enthalten Kapazitätsdetails zu Ihren Abonnements und geben an, wie Sie für die Ressourcen in Ihren Cloud Volumes ONTAP Abonnements in Rechnung gestellt werden. Die herunterladbaren Berichte erfassen Daten zu einem bestimmten Zeitpunkt und können problemlos mit anderen geteilt werden.
+Sie können vier Nutzungsberichte aus dem BlueXP  Digital Wallet herunterladen. Diese Nutzungsberichte enthalten Kapazitätsdetails zu Ihren Abonnements und geben an, wie Sie für die Ressourcen in Ihren Cloud Volumes ONTAP Abonnements in Rechnung gestellt werden. Die herunterladbaren Berichte erfassen Daten zu einem bestimmten Zeitpunkt und können problemlos mit anderen geteilt werden.
 
 image:screenshot-digital-wallet-usage-report.png["In dem Screenshot wird die Seite „kapazitätsbasierte Cloud Volumes ONTAP-Lizenzen“ des Digital Wallet angezeigt, und die Schaltfläche „Nutzungsbericht“ wird hervorgehoben."]
 

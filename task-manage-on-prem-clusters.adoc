@@ -20,7 +20,7 @@ Das Digital Wallet von BlueXP ermöglicht Ihnen die Anzeige von Vertragsdetails 
 Das Digital Wallet von BlueXP zeigt Details zu den lokalen ONTAP Clustern an, die Sie als Arbeitsumgebung erkannt haben oder die mit einem zu BlueXP hinzugefügten NetApp Support Site Konto verknüpft sind.
 
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Erfahren Sie, wie Sie einen lokalen ONTAP Cluster erkennen"^]
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Erfahren Sie, wie Sie NSS-Anmeldedaten für Ihr BlueXP Konto verwalten"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Erfahren Sie, wie Sie die NSS-Anmeldedaten für Ihre-Organisation oder Ihr BlueXP -Konto verwalten"^]
 
 
 

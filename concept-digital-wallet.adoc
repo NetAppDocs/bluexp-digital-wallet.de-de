@@ -22,7 +22,7 @@ Das Digital Wallet von BlueXP ermöglicht das Management und Monitoring der von 
 
 * Management kapazitätsbasierter und Node-basierter Lizenzen für Cloud Volumes ONTAP
 * Hinzufügen und Managen von Lizenzen für BlueXP Datenservices
-* Abonnements für PAYGO- und Jahresverträge in Verbindung mit Ihrem BlueXP Konto und mit Astra Control managen
+* Abonnements für PAYGO und Jahresverträge für Ihre BlueXP -Organisation und mit Astra Control managen
 * Managen Sie die Keystone Abonnementservices zur Verwendung mit Cloud Volumes ONTAP und den On-Premises-ONTAP-Clustern und fordern Sie Änderungen an der gebuchten Kapazität an
 * Statusinformationen zu Hardware- und Softwareverträgen für lokale ONTAP Cluster anzeigen
 

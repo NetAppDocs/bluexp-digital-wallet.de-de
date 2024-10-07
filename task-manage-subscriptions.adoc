@@ -24,7 +24,7 @@ Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Si
 
 == Ihre Abonnements anzeigen
 
-Das Digital Wallet von BlueXP enthält Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihr BlueXP Konto und Astra Control (Astra Control nutzt den Cloud-Abrechnungsservice von BlueXP).
+Das BlueXP  Digital Wallet liefert Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihre BlueXP  Organisation oder Ihr Konto sowie mit Astra Control (Astra Control nutzt den Ladeservice von BlueXP ).
 
 Bei Google Cloud können Sie auch Marketplace-Abonnements identifizieren, die mit einem privaten Angebot verknüpft sind, sodass Sie überprüfen können, ob Sie das Angebot erfolgreich angenommen haben.
 
@@ -82,5 +82,5 @@ Nehmen wir zum Beispiel an, dass Sie zwei Konten haben und jedes über separate 
 +
 image:screenshot-subscription-menu.png["Ein Screenshot des Aktionsmenüs für ein Abonnement."]
 
-. Benennen Sie das Abonnement um oder managen Sie die BlueXP Konten, die mit dem Abonnement verbunden sind.
+. Sie können das Abonnement umbenennen oder die mit dem Abonnement verbundenen BlueXP -Organisationen oder -Konten verwalten.
 
