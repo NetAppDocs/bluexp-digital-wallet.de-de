@@ -1,0 +1,41 @@
+= 
+:allow-uri-read: 
+
+
+Sie sollten eine NetApp-Lizenzdatei zum Hochladen anfordern, wenn BlueXP  keinen Internetzugang hat (Installationen im privaten Modus).
+
+Nachdem Sie eine Lizenz bei Ihrem NetApp Vertriebsmitarbeiter erworben haben, erhalten Sie von NetApp eine E-Mail mit der Seriennummer und weiteren Lizenzierungsdetails. Wenn Ihre Lizenzen nicht automatisch angezeigt werden, benötigen Sie diese Seriennummer, um die entsprechende Lizenzdatei zu erhalten.
+
+.Schritte
+. Finden Sie Ihre BlueXP  Konto-ID:
++
+.. Wählen Sie oben rechts in der BlueXP -Konsole > *Identitäts- und Zugriffsmanagement* ausimage:icon-settings-option.png["Das Einstellungssymbol, das oben rechts in der BlueXP -Webkonsole angezeigt wird."].
+.. Suchen Sie auf der Seite Organisation nach Ihrer Account-ID, und kopieren Sie diese.
++
+Wenn keine Konto-ID aufgeführt ist und Sie nur eine Organisations-ID haben, müssen Sie die ersten acht Zeichen der Organisations-ID kopieren und an _Account-_ anhängen
+
++
+Nehmen wir beispielsweise an, dies ist Ihre Unternehmens-ID:
+
++
+Ea10e1c6-80cc-4219-8e99-3c3e6b161ba5
+
++
+Ihre Konto-ID lautet wie folgt:
+
++
+Account-ea10e1c6
+
+
+
+. Melden Sie sich beim an https://mysupport.netapp.com["NetApp Support Website"^] Und wählen Sie *Systeme > Softwarelizenzen*.
+. Geben Sie die Seriennummer für Ihre Lizenz ein.
++
+image:../media/screenshot_cloud_backup_license_step1.gif["Ein Screenshot, der eine Tabelle von Lizenzen zeigt, nachdem Sie nach der Seriennummer suchen."]
+
+. Wählen Sie in der Spalte *Lizenzschlüssel* *NetApp-Lizenzdatei abrufen* aus.
+. Geben Sie Ihre BlueXP -Konto-ID ein (dies wird auf der Support-Website als Mandanten-ID bezeichnet), und wählen Sie *Absenden*, um die Lizenzdatei herunterzuladen.
++
+image:../media/screenshot_cloud_backup_license_step2.gif["Ein Screenshot, der das Dialogfeld Lizenz abrufen zeigt, in dem Sie Ihre Mandanten-ID eingeben und dann auf Senden klicken, um die Lizenzdatei herunterzuladen."]
+
+

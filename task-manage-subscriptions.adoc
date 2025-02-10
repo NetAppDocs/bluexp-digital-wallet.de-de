@@ -14,28 +14,32 @@ summary: Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, 
 
 
 [role="lead"]
-Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement kann jedes Abonnement über das Digital Wallet von BlueXP gemanagt werden.
+Wenn Sie BlueXP -Datenservices (einschließlich Cloud Volumes ONTAP) über den Marketplace eines Cloud-Providers abonnieren, werden Sie auf die BlueXP  Website umgeleitet. Dort müssen Sie Ihr Abonnement speichern und es Ihrem BlueXP -Unternehmen zuordnen. Nach dem Abonnement kann jedes Abonnement über das Digital Wallet von BlueXP gemanagt werden.
 
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["Informationen zur Anmeldung bei BlueXP (Standard-Modus)"^]
-* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["Informationen zur Anmeldung bei BlueXP (eingeschränkter Modus)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-standard-mode.html["Informationen zur Anmeldung bei BlueXP  Datenservices (Standard-Modus)"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/task-subscribe-restricted-mode.html["Erfahren Sie, wie Sie BlueXP  Datenservices abonnieren (eingeschränkter Modus)"^]
 
+
+
+NOTE: Auf der Seite *Marketplace Subscriptions* werden alle Lizenzen aufgelistet. Wenn Sie Lizenzdetails für einen bestimmten Datendienst wünschen, verwenden Sie die Datendienst-Kacheln auf dem *Übersicht* Dashboard. link:task-homepage.html#overview-page["Weitere Informationen zum Dashboard mit der Übersicht"].
 
 
 
 == Ihre Abonnements anzeigen
 
-Das BlueXP  Digital Wallet liefert Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihre BlueXP  Organisation oder Ihr Konto sowie mit Astra Control (Astra Control nutzt den Ladeservice von BlueXP ).
+Das BlueXP  Digital Wallet liefert Details zu jedem PAYGO-Abonnement und Jahresvertrag für Ihre BlueXP  Organisation oder Ihr Konto.
 
 Bei Google Cloud können Sie auch Marketplace-Abonnements identifizieren, die mit einem privaten Angebot verknüpft sind, sodass Sie überprüfen können, ob Sie das Angebot erfolgreich angenommen haben.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie *Abonnements*.
+. Wählen Sie *Marketplace Subscriptions*.
 +
-Sie sehen nur die Abonnements, die mit dem Konto verknüpft sind, das Sie derzeit anzeigen.
+Es werden nur die Abonnements angezeigt, die der Organisation zugeordnet sind, die Sie gerade anzeigen.
 
 . Wenn Sie die Informationen zu Ihren Abonnements anzeigen, können Sie wie folgt mit den Details in der Tabelle interagieren:
 +
+** Verwenden Sie die erweiterte Suche und Filterung, um festzulegen, welche Abonnements in der Tabelle angezeigt werden. Sie können nach einem bestimmten Namen eines Abonnements suchen und nach verschiedenen Abonnementparametern wie Typ und Konfiguration filtern.
 ** Erweitern Sie eine Zeile, um weitere Details anzuzeigen.
 +
 image:screenshot-subscriptions-expand.png["Ein Screenshot der Registerkarte Abonnements in der digitalen Brieftasche, in der Sie den Pfeil am Ende einer Zeile auswählen können, um ihn zu erweitern."]
@@ -69,18 +73,112 @@ Verträge::
 
 
 
-== Verwalten Sie Ihre Abonnements
+== Abonnement umbenennen
 
-Sie können Ihre Abonnements über das Digital Wallet von BlueXP managen, indem Sie ein Abonnement umbenennen und die mit dem Abonnement verbundenen Konten auswählen.
-
-Nehmen wir zum Beispiel an, dass Sie zwei Konten haben und jedes über separate Abonnements abgerechnet wird. Sie können ein Abonnement von einem der Konten aufheben, damit die Benutzer in diesem Konto nicht versehentlich das falsche Abonnement wählen, wenn sie eine Cloud Volumes ONTAP-Arbeitsumgebung erstellen.
+Sie können ein Abonnement umbenennen, um besser zu erkennen, wie es in Ihrem Unternehmen verwendet wird.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie *Abonnements*.
-. Wählen Sie in der Zeile das Aktionsmenü aus, das dem Abonnement entspricht, das Sie verwalten möchten.
+. Wählen Sie *Marketplace Subscriptions*.
+. Wählen Sie das Aktionsmenü in der Zeile aus, die dem Abonnement entspricht, das Sie verwalten möchten, und wählen Sie *Umbenennen*.
 +
-image:screenshot-subscription-menu.png["Ein Screenshot des Aktionsmenüs für ein Abonnement."]
+image:screenshot_rename_subscription.png["Ein Screenshot der Option Umbenennen für ein Abonnement."]
 
-. Sie können das Abonnement umbenennen oder die mit dem Abonnement verbundenen BlueXP -Organisationen oder -Konten verwalten.
+
+
+
+
+== Konfigurieren Sie ein Abonnement mit einer Provider-Anmeldeinformation
+
+Abonnements werden in der Regel mit den Anbieteranmeldeinformationen konfiguriert, die Sie beim Abonnement erstellt haben. In einigen Fällen müssen Sie ein Abonnement möglicherweise neu konfigurieren, um andere Anmeldedaten zu verwenden, wenn Sie die Art der Abrechnung ändern möchten. Die Anmeldeinformationen, die Sie einem Abonnement zuordnen, müssen eine Anmeldeinformation sein, die auch einem Konnektor zugeordnet ist.
+
+Das Format der Anmeldeinformationen hängt vom verwendeten Marktplatz ab. Azure Marketplace-Abonnements sind beispielsweise mit dem Namen des Azure-Abonnements verknüpft, während für AWS Marketplace-Abonnements die AWS-Konto-ID verwendet wird. Eine Liste der verfügbaren Anmeldeinformationen wird auf der Seite Anmeldeinformationen angezeigt.
+
+Die Option Konfigurieren ist abgeblendet, wenn Sie ein Abonnement abbestellt haben.
+
+.Schritte
+. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Wählen Sie *Marketplace Subscriptions*.
+. Wählen Sie das Aktionsmenü in der Zeile aus, die dem Abonnement entspricht, das Sie konfigurieren möchten, und wählen Sie *Konfigurieren*.
+. Wählen Sie im Dialogfeld _Configure_ eine Anmeldeinformation aus, für die das Abonnement konfiguriert werden soll. Sie können nur aus den Anmeldeinformationen auswählen, die mit dem aktuell ausgewählten Konnektor verknüpft sind. Wenn die Anmeldeinformationen, die Sie verwenden möchten, nicht angezeigt werden, wechseln Sie zu einer anderen Connector-Ansicht. ## ist das genau beschrieben? ##
+
+
+
+
+== Einem BlueXP -Unternehmen ein Abonnement zuordnen
+
+Durch die Verknüpfung eines Abonnements mit einem Unternehmen wird sichergestellt, dass die Mitglieder dieses Unternehmens dieses Abonnement für die Abrechnung verwenden können.
+
+Sie können die Nutzung eines Abonnements auf eine bestimmte Organisation beschränken oder das Abonnement zwischen mehreren Organisationen freigeben. Sie können auch das Abonnement einer bestehenden Organisation ersetzen, wenn dies erforderlich ist.
+
+Sie müssen über die Administratorrolle des Unternehmens verfügen, um ein Abonnement mit einer Organisation verknüpfen zu können.
+
+
+NOTE: BlueXP  unterstützt das Identitäts- und Zugriffsmanagement (Identity and Access Management, IAM) im Standardmodus, bei dem Unternehmen Benutzer und Ressourcen verwalten. Wenn Sie BlueXP  im privaten oder eingeschränkten Modus verwenden, verwenden Sie ein BlueXP  _Account_, um Benutzer und Ressourcen, einschließlich Abonnements, zu verwalten.
+
+.Schritte
+. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Wählen Sie *Marketplace Subscriptions*.
+. Wählen Sie das Aktionsmenü in der Zeile aus, die dem Abonnement entspricht, das Sie zuordnen möchten, und wählen Sie *Associate*.
+. Wählen Sie im Dialogfeld *Abonnement verknüpfen* eine(n) Organisation(en) aus, der/denen dieses Abonnement zugeordnet werden soll.
+. Verwenden Sie optional den Schieberegler, um anzugeben, dass Sie ein vorhandenes Abonnement für die ausgewählte Organisation ersetzen.
+. Wählen Sie *Mitarbeiter*.
+
+
+
+
+== Anzeigen von Anmeldeinformationen, die mit einem Abonnement verknüpft sind
+
+##die Zugangsdaten für ein bestimmtes Abonnement können Sie auf der Seite *Marketplace Abonnements* in der Digital Wallet einsehen. Auf diese Weise können Sie überprüfen, wie das Abonnement abgerechnet wird. Da die Anmeldeinformationen auch an den verwendeten Connector gebunden sind, müssen Sie den Connector auswählen, der mit dem Abonnement verknüpft ist, das Sie sehen möchten.##
+
+
+NOTE: Verwenden Sie die Dropdown-Liste Connector in der oberen Navigationsleiste, um bei Bedarf zwischen den Anschlüssen zu wechseln.
+
+.Schritte
+. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Wählen Sie *Marketplace Subscriptions*.
+. Wählen Sie in der Zeile, die das Abonnement enthält, dessen Anmeldeinformationen Sie anzeigen möchten, Ansicht aus. Wenn einem Abonnement mehrere Anmeldeinformationen zugeordnet sind, werden möglicherweise keine Anmeldeinformationen angezeigt, und Sie werden aufgefordert, einen anderen Konnektor auszuwählen.
+
+
+
+
+== Fügen Sie ein neues Marketplace-Abonnement hinzu
+
+Sie können ein Marketplace-Abonnement direkt über das Digital Wallet abonnieren.
+
+[role="tabbed-block"]
+====
+.AWS
+--
+Im folgenden Video werden die Schritte zum Abonnieren von BlueXP  über den AWS Marketplace gezeigt:
+
+.Abonnieren Sie BlueXP über den AWS Marketplace
+video::096e1740-d115-44cf-8c27-b051011611eb[panopto]
+--
+.Azure
+--
+Im folgenden Video sehen Sie, wie Sie im Azure Marketplace abonnieren:
+
+.Abonnieren Sie BlueXP über den Azure Marketplace
+video::b7e97509-2ecf-4fa0-b39b-b0510109a318[panopto]
+--
+.Google Cloud
+--
+Im folgenden Video sehen Sie, wie Sie sich für den Google Cloud Marketplace anmelden können:
+
+.Abonnieren Sie BlueXP über den Google Cloud Marketplace
+video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
+--
+====
+.Schritte
+. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Wählen Sie *Marketplace Subscriptions*.
+. Wählen Sie über der Tabelle *Abonnements* *Abonnement hinzufügen*.
+. Wählen Sie im Dialogfeld _Add Subscription_ einen Cloud-Provider aus.
++
+.. Wenn Sie sich für ein AWS Abonnement entscheiden, wählen Sie, ob Sie einen Jahresvertrag oder ein PAYGO-Abonnement wünschen.
+
+
+. Wählen Sie *Abonnement hinzufügen*, um zum Marktplatz des Anbieters zu navigieren und die angegebenen Schritte auszuführen.
+. Wenn Sie fertig sind, kehren Sie zum BlueXP  zurück, um den Prozess abzuschließen.
 

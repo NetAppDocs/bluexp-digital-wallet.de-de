@@ -1,0 +1,29 @@
+= 
+:allow-uri-read: 
+
+
+Lizenzinformationen werden automatisch in der Digital Wallet angezeigt, wenn das mit der Lizenz verknüpfte BlueXP -Konto auch ein NetApp-Support-Website-Konto ist und BlueXP  Zugriff auf das Internet hat. Wenn Sie ein BlueXP -Konto verwendet haben, das nicht mit Ihrem NSS-Konto verknüpft ist, müssen Sie manuell eine Lizenz hinzufügen.
+
+Sie können die Lizenz in BlueXP  hinzufügen, indem Sie entweder die Seriennummer und das zugehörige NSS-Konto eingeben oder die NetApp Lizenzdatei (NLF) hochladen. Sie sollten eine NetApp-Lizenzdatei zum Hochladen anfordern, wenn BlueXP  keinen Internetzugang hat (Installationen im privaten Modus).
+
+Nachdem Sie eine Lizenz bei Ihrem NetApp Vertriebsmitarbeiter erworben haben, erhalten Sie von NetApp eine E-Mail mit der Seriennummer und weiteren Lizenzierungsdetails. Sie benötigen diese Seriennummer, um die entsprechende Lizenz in der Digital Wallet hinzuzufügen oder zu aktualisieren.
+
+
+NOTE: Wenn Sie die Seriennummer eingeben möchten, müssen Sie zunächst eingeben https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Fügen Sie Ihr Konto für die NetApp Support Website zu BlueXP hinzu"^]. Hierbei handelt es sich um das Konto für die NetApp Support Site, das befugt ist, auf die Seriennummer zuzugreifen.
+
+.Schritte
+. Wählen Sie im Menü BlueXP  die Option *Governance > Digital Wallet* und anschließend die Registerkarte *Data Services Licenses*.
+. Wählen Sie *Lizenz hinzufügen*.
+. Geben Sie im Dialogfeld _Add license_ die Lizenzinformationen ein und wählen Sie *Add license*:
++
+** Wenn Sie die Seriennummer haben und Ihr NSS-Konto kennen, wählen Sie *Seriennummer eingeben* und geben Sie diese Informationen ein.
++
+Wenn Sie eine Seriennummer eingegeben haben, müssen Sie auch das NetApp Support Site Konto auswählen, über das Sie Zugriff auf die Seriennummer haben.
+
++
+Wenn Ihr NetApp Support Site Konto nicht in der Dropdown-Liste verfügbar ist, https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Fügen Sie das NSS-Konto zu BlueXP hinzu"^]
+
+** Wenn Sie über die Lizenzdatei verfügen (erforderlich bei Verwendung von BlueXP  im privaten Modus), wählen Sie die Option *Lizenzdatei hochladen* aus und folgen Sie den Anweisungen, um die Datei anzuhängen.
+
+
+

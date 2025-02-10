@@ -14,24 +14,27 @@ summary: 'Das Digital Wallet von BlueXP ermöglicht das Management und Monitorin
 
 
 [role="lead"]
-Das Digital Wallet von BlueXP ermöglicht das Management und Monitoring der von NetApp (BYOL), BlueXP Marketplace-Abonnements und von NetApp Keystone erworbenen BlueXP Lizenzen.
+Das BlueXP  Digital Wallet ermöglicht das Management und Monitoring von BlueXP  Lizenzen, die über NetApp (BYOL), BlueXP  Data Services Marketplace-Abonnements (einschließlich NetApp Cloud Volumes ONTAP) und NetApp Keystone erworben wurden.
 
 
 
-== Funktionen
+== Wie Lizenzen und Abonnements in der Digital Wallet angezeigt werden
 
-* Management kapazitätsbasierter und Node-basierter Lizenzen für Cloud Volumes ONTAP
-* Hinzufügen und Managen von Lizenzen für BlueXP Datenservices
-* Abonnements für PAYGO und Jahresverträge für Ihre BlueXP -Organisation und mit Astra Control managen
-* Managen Sie die Keystone Abonnementservices zur Verwendung mit Cloud Volumes ONTAP und den On-Premises-ONTAP-Clustern und fordern Sie Änderungen an der gebuchten Kapazität an
-* Statusinformationen zu Hardware- und Softwareverträgen für lokale ONTAP Cluster anzeigen
+Sowohl Lizenzen als auch Abonnements werden automatisch im Digital Wallet angezeigt, wenn es sich bei dem für die Anmeldung verwendeten BlueXP -Konto auch um ein NetApp Support-Website-Konto handelt. Wenn Sie ein BlueXP -Konto verwendet haben, das nicht mit Ihrem NSS-Konto (NetApp Support Site) verknüpft ist, müssen Sie Lizenzen manuell hinzufügen und aktualisieren, und die Nutzung, Kapazität und andere Details ändern sich nicht.
 
+In der Zwischenzeit fragt BlueXP automatisch den NetApp Lizenzservice ab, um Informationen zu den Lizenzen zu erhalten, die mit Ihrem NetApp Support Site Konto verknüpft sind. Sollte es keine Fehler geben, fügt BlueXP die Lizenzen automatisch zum Digital Wallet hinzu.
+
+Wenn BlueXP  die Lizenz nicht hinzufügen kann, müssen Sie sie manuell selbst in das Digital Wallet einfügen. Wenn Ihr BlueXP -Benutzerkonto beispielsweise nicht mit Ihrem NetApp Support-Website-Konto verknüpft ist, müssen Sie die Lizenzen selbst hinzufügen.
+
+Nachdem Sie eine Lizenz bei Ihrem NetApp Vertriebsmitarbeiter erworben haben, erhalten Sie von NetApp eine E-Mail mit der Seriennummer und weiteren Lizenzierungsdetails. Sie benötigen diese Seriennummer, um die entsprechende Lizenz in der Digital Wallet hinzuzufügen oder zu aktualisieren.
+
+https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Erfahren Sie, wie Sie BlueXP  Benutzerkennungen mit Ihrem Konto auf der NetApp Support Website ergänzen"^].
 
 
 
 == Unterstützte Services
 
-Mit dem Digital Wallet von BlueXP können Sie Lizenzen für die folgenden Services managen:
+Mit dem BlueXP  Digital Wallet können Sie Lizenzen und Abonnements für die folgenden Services managen:
 
 * https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html["Backup und Recovery"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html["Cloud Volumes ONTAP"^]
@@ -40,6 +43,3 @@ Mit dem Digital Wallet von BlueXP können Sie Lizenzen für die folgenden Servic
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html["ONTAP-Cluster vor Ort"^]
 * https://docs.netapp.com/us-en/bluexp-tiering/index.html["Tiering"^]
 
-
-
-TIP: Mit dem Digital Wallet von BlueXP  können Sie auch Lizenzen für die BlueXP -Klassifizierung managen. Allerdings ist die BlueXP -Klassifizierung als zentrale Funktion in BlueXP  jetzt ohne Zusatzkosten verfügbar. Eine Lizenz oder ein Abonnement ist nicht mehr erforderlich. https://docs.netapp.com/us-en/bluexp-classification/concept-cloud-compliance.html["Weitere Informationen zur BlueXP Klassifizierung"^]

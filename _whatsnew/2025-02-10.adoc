@@ -1,0 +1,29 @@
+= Neues Dashboard mit Übersicht
+:allow-uri-read: 
+
+
+Die BlueXP  Digital Wallet wurde aus Anwenderfreundlichkeit neu gestaltet und bietet jetzt zusätzliches Abonnement- und Lizenzmanagement.
+
+
+
+=== Neues Dashboard mit Übersicht
+
+Auf der Digital Wallet-Homepage befindet sich ein aktualisiertes Dashboard Ihrer NetApp Lizenzen und Marketplace Abonnements, in dem Sie nach bestimmten Services, Lizenztypen und erforderlichen Aktionen suchen können.
+
+
+
+=== Konfigurieren von Abonnements für Anmeldeinformationen
+
+Mit dem BlueXP  Digital Wallet können Sie jetzt Ihre Abonnements für Provider-Anmeldedaten konfigurieren. Normalerweise tun Sie dies, wenn Sie zum ersten Mal ein Marketplace-Abonnement oder einen Jahresvertrag abonnieren. Zuvor konnten die Anmeldeinformationen des Abonnements nur auf der Seite Anmeldedaten geändert werden.
+
+
+
+=== Abonnements mit Organisationen verknüpfen
+
+Sie können jetzt das Unternehmen, dem ein Abonnement zugeordnet ist, direkt aus dem Digital Wallet aktualisieren.
+
+
+
+=== Management von Cloud Volume ONTAP Lizenzen
+
+Sie verwalten Cloud Volumes ONTAP-Lizenzen jetzt über die Startseite oder den Reiter *Datendienst-Lizenzen*. Verwenden Sie die Registerkarte *Marketplace-Abonnements*, um Ihre Abonnementinformationen anzuzeigen.

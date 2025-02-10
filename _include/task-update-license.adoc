@@ -1,0 +1,26 @@
+= 
+:allow-uri-read: 
+
+
+Wenn die Lizenzlaufzeit kurz vor dem Ablaufdatum steht oder die lizenzierte Kapazität das Limit erreicht, werden Sie in der BlueXP  Digital Wallet benachrichtigt. Sie können Ihre Lizenz aktualisieren, bevor sie abläuft, damit Ihre Möglichkeit zur Nutzung eines BlueXP -Datenservice oder Cloud Volumes ONTAP nicht unterbrochen wird.
+
+Nachdem Sie zusätzliche Kapazität bei NetApp erworben oder die Laufzeit Ihrer Lizenz verlängert haben, aktualisiert BlueXP  automatisch die Lizenz im Digital Wallet, wenn das mit der Lizenz verknüpfte BlueXP  Konto auch ein NetApp Support Site Konto ist und BlueXP  Zugriff auf das Internet hat.
+
+Wenn Ihr BlueXP -Konto nicht mit Ihrem NSS-Konto verknüpft ist, müssen Sie eine Lizenz manuell aktualisieren.
+
+Sie können Ihre Lizenz in BlueXP  manuell aktualisieren, indem Sie entweder die Seriennummer und das zugehörige NSS-Konto eingeben oder die NetApp-Lizenzdatei (oder _files_, wenn Sie ein Cloud Volumes ONTAP HA-Paar haben) hochladen. Sie sollten eine NetApp-Lizenzdatei zum Hochladen anfordern, wenn BlueXP  keinen Internetzugang hat (Installationen im privaten Modus).
+
+Nachdem Sie eine Lizenz bei Ihrem NetApp Vertriebsmitarbeiter erworben haben, erhalten Sie von NetApp eine E-Mail mit der Seriennummer und weiteren Lizenzierungsdetails. Sie benötigen diese Seriennummer, um die entsprechende Lizenz in der Digital Wallet hinzuzufügen oder zu aktualisieren.
+
+
+NOTE: Wenn Sie die Seriennummer eingeben möchten, müssen Sie zunächst eingeben https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Fügen Sie Ihr Konto für die NetApp Support Website zu BlueXP hinzu"^]. Hierbei handelt es sich um das Konto für die NetApp Support Site, das befugt ist, auf die Seriennummer zuzugreifen.
+
+.Schritte
+. Wenden Sie sich an Ihren Ansprechpartner bei NetApp, um eine neue Lizenz zu erwerben.
++
+Nachdem Sie für die Lizenz bezahlt haben und sie auf der NetApp Support-Website registriert ist, aktualisiert BlueXP  automatisch die Lizenz in der BlueXP  Digital Wallet. Auf der Seite für die Datendienst-Lizenzen wird die Änderung in 5 bis 10 Minuten angezeigt.
+
+. Wenn BlueXP  die Lizenz nicht automatisch aktualisieren kann (z. B. bei Verwendung von BlueXP  im privaten Modus), müssen Sie eine NetApp-Lizenzdatei vom Support beziehen und die Lizenzdatei manuell hochladen. <<obtain-license,Erfahren Sie, wie Sie eine Lizenzdatei erhalten.>>
+. Wählen Sie auf der Registerkarte _Data Service Licenses_ die Seriennummer ausimage:icon-action.png["Weitere Symbole"], die Sie aktualisieren möchten, und wählen Sie *Update license* aus.
+. Laden Sie auf der Seite _Update license_ die Lizenzdatei hoch und wählen Sie *Update license*.
+

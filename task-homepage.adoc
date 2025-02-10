@@ -1,0 +1,81 @@
+---
+sidebar: sidebar 
+permalink: task-homepage.html 
+keywords: license, licensing, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
+summary: Verschaffen Sie sich einen Überblick über alle Abonnements und Lizenzen für Ihr Unternehmen auf der digitalen Homepage. 
+---
+= Verwenden Sie die Dashboard-Übersicht
+:allow-uri-read: 
+
+
+
+
+== Verwenden Sie die Dashboard-Übersicht
+
+[role="lead"]
+Über das Dashboard *Übersicht* in der Digital Wallet können Sie den Zustand Ihrer Lizenzen und Abonnements überwachen, um sicherzustellen, dass Sie die Kosten verwalten und den Service aufrechterhalten können, wenn Abonnements Ablaufdaten oder Kapazitätsgrenzen erreichen.
+
+Sie können spezifische Lizenz- und Abonnementinformationen zu jedem Ihrer Datenservices (einschließlich Cloud Volumes ONTAP) anzeigen sowie detaillierte Informationen zu diesen Datenservices abrufen.
+
+Zudem erhalten Sie eine Benachrichtigung über bevorstehende Kapazitätsgrenzen oder deren Ablauf und werden aufgefordert, Maßnahmen zu ergreifen.
+
+
+
+=== Zeigen Sie Details zu einem bestimmten Datenservice an
+
+Das Digital Wallet *Overview* Dashboard bietet die Möglichkeit, Details zu den folgenden Datendiensten anzuzeigen:
+
+* Cloud Volumes ONTAP
+* Disaster Recovery
+* Schutz durch Ransomware
+* Backup und Recovery
+* Tiering
+
+
+Administratoren, die mit der Verwaltung von Cloud Volumes ONTAP-Ressourcen betraut sind, können beispielsweise die aktuelle Kapazität der einzelnen Lizenzen oder Abonnements anzeigen, sodass sie in ihrer Übersicht Ressourcen mit einem fokussierten Überblick erhalten.
+
+Hinweis: Obwohl Sie Lizenzen im Dashboard aktualisieren und entfernen können, können Sie keine neue Lizenz oder ein neues Abonnement hinzufügen.
+
+link:task-manage-data-services-licenses.html["Erfahren Sie mehr über die Verwaltung von Lizenzen"^]. link:task-manage-subscriptions.html["Hier erfahren Sie mehr über die Verwaltung von Abonnements"^].
+
+.Schritte
+. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Wählen Sie *Übersicht*.
+. Wählen Sie *Ansicht* für den jeweiligen Datendienst (einschließlich Cloud Volumes ONTAP), um Details anzuzeigen und Lizenzen und Abonnements zu verwalten.
++
+Jede Kachel bietet eine grafische Übersicht über den Kapazitätsstatus. Auf der Detailseite können Sie die Zahlungsmethoden für diese Kapazität einsehen und managen.
+
+. Wählen Sie entweder die Registerkarte *Lizenzen* oder *Abonnements* aus.
+. Filtern Sie die Tabelle, indem Sie einen Spaltenfilter und einen Wert auswählen, nach dem gefiltert werden soll. Auf der Registerkarte *Abonnements* können Sie beispielsweise die Spalte Typ nach Jahresvertrag oder Abonnement filtern.
++
+image:screenshot_digital_wallet_filter.png["Filteraktion in Abonnementtabelle"]
+
+. Passen Sie die in der Tabelle angezeigten Spalten an. Sie können Spalten in der Tabelle hinzufügen oder entfernen, indem Sie das Symbol Spalte auswählen, das angibt, welche Spalten Sie ein- oder ausblenden möchten. Der folgende Screenshot zeigt an, dass nur die Spalten Typ, Enddatum, Status und Konfiguration angezeigt werden.
++
+image:screenshot_digital_wallet_show_hide_columns.png["Screenshot zeigt ein Beispiel zum ein- oder Ausblenden von Spalten"]
+
+. Erweitern Sie eine Zeile, um Details zu Abonnement oder Lizenz, erworbener Kapazität und Bedingungen anzuzeigen.
+. Über das Menü Aktionen können Sie eine bestimmte Lizenz oder ein bestimmtes Abonnement verwalten, z. B. eine Lizenz aktualisieren oder ein Abonnement mit einer anderen Organisation verknüpfen.
++
+Sie können keine neuen Lizenzen oder Abonnements über die Seite *Übersicht* für einen bestimmten Dienst hinzufügen, Sie können nur Lizenzen oder Abonnements über die Registerkarte *Data Service Lizenzen* bzw. die Registerkarte *Marketplace Abonnements* hinzufügen.
+
++
+link:task-data-services-licenses.html["Erfahren Sie mehr über die Verwaltung von Lizenzen."] link:task-manage-subscriptions.html["Hier erfahren Sie mehr über die Verwaltung von Abonnements."]
+
+
+
+
+
+=== Beheben von Lizenz- oder Abonnementproblemen
+
+Sie können Lizenz- und Abonnementprobleme anzeigen, die behoben werden müssen. Zu den Problemen gehören Lizenzen und Abonnements, die ablaufen oder die Kapazität erreichen.
+
+. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Wählen Sie *Übersicht*.
+. Wählen Sie *Resolve* für die Kachel *requires Action* aus, um Probleme anzuzeigen, die angepasst werden müssen. Wenn *Resolve* nicht angezeigt wird, gibt es derzeit keine Probleme, die eine Aktion erfordern.
+. Wählen Sie auf der Seite *Aktion erforderlich* entweder die Registerkarte *Lizenzen* oder die Registerkarte *Abonnements* aus.
+. Verwenden Sie das Aktionsmenü, um das Problem zu beheben.
++
+link:task-manage-data-services-licenses.html["Erfahren Sie mehr über die Verwaltung von Lizenzen"^]. link:task-manage-subscriptions.html["Hier erfahren Sie mehr über die Verwaltung von Abonnements"^].
+
+

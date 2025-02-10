@@ -28,12 +28,12 @@ Bevor Sie Keystone Abonnements in BlueXP nutzen und managen können, müssen Sie
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie *Keystone*.
+. Wählen Sie *Keystone Abonnements*.
 . Wenn Sie die Seite *Willkommen bei NetApp Keystone* sehen, senden Sie eine E-Mail an die auf der Seite angegebene Adresse.
 +
 Ein Vertreter von NetApp verarbeitet Ihre Anfrage, indem er Ihr Benutzerkonto für den Zugriff auf die Abonnements autorisiert.
 
-. Kehren Sie zum *Keystone Abonnement* zurück, um sich Ihre Abonnements anzusehen.
+. Kehren Sie zur Registerkarte *Keystone Subscriptions* zurück, um sich Ihre Abonnements anzusehen.
 +
 image:screenshot-keystone-overview.png["Ein Screenshot mit einer Liste der Keystone Abonnements."]
 
@@ -47,7 +47,7 @@ Nachdem NetApp Ihr Konto autorisiert hat, können Sie Keystone Abonnements zur V
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie *Keystone*.
+. Wählen Sie *Keystone Abonnements*.
 . Klicken Sie für das Abonnement, das Sie verknüpfen möchten, auf image:icon-action.png["Ein Symbol, das drei seitliche Punkte ist"] Und wählen Sie *Link*.
 +
 image:screenshot-keystone-link.png["Ein Screenshot, der die Link-Option für ein Abonnement zeigt."]
@@ -65,7 +65,7 @@ Wenn Sie die gebuchte Kapazität für die Service-Level Ihres Abonnements änder
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie *Keystone*.
+. Wählen Sie *Keystone Abonnements*.
 . Klicken Sie für das Abonnement, das Sie an die Kapazität anpassen möchten, auf image:icon-action.png["Ein Symbol, das drei seitliche Punkte ist"] Und wählen Sie *Details anzeigen und bearbeiten*.
 . Geben Sie die angeforderte engagierte Kapazität für ein oder mehrere Abonnements ein.
 +
@@ -89,7 +89,7 @@ https://docs.netapp.com/us-en/keystone-staas/integrations/aiq-keystone-details.h
 
 == Aufheben der Verknüpfung eines Abonnements
 
-Wenn Sie kein Keystone Abonnement mehr mit BlueXP nutzen möchten, können Sie die Verknüpfung zum Abonnement aufheben. Beachten Sie, dass Sie die Verknüpfung eines Abonnements, das nicht mit einem vorhandenen Cloud Volumes ONTAP-Abonnement verbunden ist, nur aufheben können.
+Wenn Sie kein Keystone Abonnement mehr mit BlueXP  nutzen möchten, können Sie die Verknüpfung zum Abonnement aufheben. Beachten Sie, dass Sie die Verknüpfung eines Abonnements, das nicht mit einem vorhandenen Cloud Volumes ONTAP-Abonnement verbunden ist, nur aufheben können.
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.

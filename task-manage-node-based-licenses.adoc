@@ -18,7 +18,7 @@ Managen Sie Node-basierte Lizenzen in der BlueXP Digital Wallet, um sicherzustel
 
 _Node-basierte Lizenzen_ sind das Lizenzmodell der vorherigen Generation (und für neue Kunden nicht verfügbar):
 
-* Byol-Lizenzen, die von NetApp erworben wurden
+* Bring-Your-Own-License-Lizenzen (BYOL), die bei NetApp erworben wurden
 * PAYGO-Abonnements (Pay-as-you-go) vom Markt Ihres Cloud-Providers
 
 
@@ -34,7 +34,9 @@ Auf der BlueXP Digital Wallet-Seite können Sie Details zu jedem PAYGO Cloud Vol
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie im Dropdown-Menü auf der Registerkarte *Cloud Volumes ONTAP* die Option *Node-basierte Lizenzen* aus.
+. Wählen Sie die Registerkarte *Übersicht*.
+. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
+. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
 . Klicken Sie auf *PAYGO*.
 . Zeigen Sie Details zu den einzelnen PAYGO-Lizenzen in der Tabelle an.
 +
@@ -57,7 +59,9 @@ Erweitern Sie das Digital Wallet von BlueXP um eine Node-basierte Lizenz, sodass
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie im Dropdown-Menü auf der Registerkarte *Cloud Volumes ONTAP* die Option *Node-basierte Lizenzen* aus.
+. Wählen Sie die Registerkarte *Übersicht*.
+. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
+. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
 . Klicken Sie Auf *Nicht Zugewiesen*.
 . Klicken Sie Auf *Nicht Zugewiesene Lizenzen Hinzufügen*.
 . Geben Sie die Seriennummer der Lizenz ein oder laden Sie die Lizenzdatei hoch.
@@ -82,11 +86,15 @@ Beim Austausch der Lizenz wird die Cloud Volumes ONTAP-Lizenz zurückgerufen und
 * Die Lizenzierung für einen Cloud Volumes ONTAP-Single-Node wird in eine 32 tib Datenservice-Lizenz umgewandelt
 
 
-Die konvertierte Lizenz hat das gleiche Ablaufdatum wie die Cloud Volumes ONTAP-Lizenz.
+Die konvertierte Lizenz hat dasselbe Ablaufdatum wie die Cloud Volumes ONTAP-Lizenz.
+
+link:https://mydemo.netapp.com/player/?demoId=c96ef113-c338-4e44-9bda-81a8d252de63&showGuide=true&showGuidesToolbar=true&showHotspots=true&source=app["Hier erfahren Sie, wie Sie Node-basierte Lizenzen austauschen."^]
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie im Dropdown-Menü auf der Registerkarte *Cloud Volumes ONTAP* die Option *Node-basierte Lizenzen* aus.
+. Wählen Sie die Registerkarte *Übersicht*.
+. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
+. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
 . Klicken Sie Auf *Nicht Zugewiesen*.
 . Klicken Sie Auf *Exchange-Lizenz*.
 +
@@ -128,7 +136,9 @@ Wenn BlueXP nicht über die sichere Internetverbindung auf die Lizenzdatei zugre
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie im Dropdown-Menü auf der Registerkarte *Cloud Volumes ONTAP* die Option *Node-basierte Lizenzen* aus.
+. Wählen Sie die Registerkarte *Übersicht*.
+. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
+. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
 . Erweitern Sie auf der Registerkarte *BYOL* die Details für ein Cloud Volumes ONTAP-System.
 . Klicken Sie auf das Aktionsmenü neben der Systemlizenz und wählen Sie *Lizenz aktualisieren*.
 . Laden Sie die Lizenzdatei (oder Dateien, wenn Sie ein HA-Paar haben) hoch.
@@ -154,7 +164,9 @@ Erwerben Sie eine Lizenz für zusätzliche Kapazität, indem Sie uns über das C
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie im Dropdown-Menü auf der Registerkarte *Cloud Volumes ONTAP* die Option *Node-basierte Lizenzen* aus.
+. Wählen Sie die Registerkarte *Übersicht*.
+. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
+. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
 . Erweitern Sie auf der Registerkarte *BYOL* die Details für ein Cloud Volumes ONTAP-System.
 . Klicken Sie Auf *Kapazitätslizenz Hinzufügen*.
 . Geben Sie die Seriennummer ein, oder laden Sie die Lizenzdatei (oder Dateien, wenn Sie ein HA-Paar haben) hoch.
@@ -169,7 +181,9 @@ Wenn Sie die Laufzeit einer zusätzlichen Kapazitätslizenz verlängern, müssen
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie im Dropdown-Menü auf der Registerkarte *Cloud Volumes ONTAP* die Option *Node-basierte Lizenzen* aus.
+. Wählen Sie die Registerkarte *Übersicht*.
+. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
+. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
 . Erweitern Sie auf der Registerkarte *BYOL* die Details für ein Cloud Volumes ONTAP-System.
 . Klicken Sie auf das Aktionsmenü neben der Kapazitätslizenz und wählen Sie *Lizenz aktualisieren*.
 . Laden Sie die Lizenzdatei (oder Dateien, wenn Sie ein HA-Paar haben) hoch.
@@ -184,7 +198,9 @@ Wenn eine Lizenz für zusätzliche Kapazität abgelaufen ist und nicht mehr verw
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie im Dropdown-Menü auf der Registerkarte *Cloud Volumes ONTAP* die Option *Node-basierte Lizenzen* aus.
+. Wählen Sie die Registerkarte *Übersicht*.
+. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
+. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
 . Erweitern Sie auf der Registerkarte *BYOL* die Details für ein Cloud Volumes ONTAP-System.
 . Klicken Sie auf das Aktionsmenü neben der Kapazitätslizenz und wählen Sie *Lizenz entfernen*.
 . Klicken Sie Auf *Entfernen*.
@@ -204,7 +220,9 @@ Wenn Sie eine Eval-Lizenz in einen Byol konvertieren, startet BlueXP das Cloud V
 
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie im Dropdown-Menü auf der Registerkarte *Cloud Volumes ONTAP* die Option *Node-basierte Lizenzen* aus.
+. Wählen Sie die Registerkarte *Übersicht*.
+. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
+. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
 . Klicken Sie Auf *Eval*.
 . Klicken Sie in der Tabelle auf *in Byol-Lizenz konvertieren* für ein Cloud Volumes ONTAP-System.
 . Geben Sie die Seriennummer ein, oder laden Sie die Lizenzdatei hoch.
@@ -231,3 +249,6 @@ https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["Erf
 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deleting-working-env.html["Erfahren Sie, wie Sie eine Cloud Volumes ONTAP-Arbeitsumgebung löschen"].
 
 
+
+.Weiterführende Links
+Link: link:concept-licensing.html#end-of-availability-of-node-based-licenses["Ende der Verfügbarkeit von Node-basierten Lizenzen"] link:task-convert-node-capacity.html["Konvertieren Sie Node-basierte Lizenzen in kapazitätsbasierte Lizenzen"]
