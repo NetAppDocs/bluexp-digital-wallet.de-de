@@ -601,12 +601,10 @@
   <block id="483b8e46eb21b512550083b13a6ba1de" category="paragraph"><block ref="f5d9875e96b8ed7153bab8f22c840330" category="inline-link-macro-rx"></block>. <block ref="f050330f0428b7d1c9a33b47b1e41be1" category="inline-link-macro-rx"></block>.</block>
   <block id="32790cf377a1a575eece70f624d64118" category="list-text">Wählen Sie *Übersicht*.</block>
   <block id="de9c819c70af50797f21116704502cee" category="list-text">Wählen Sie *Ansicht* für den jeweiligen Datendienst (einschließlich Cloud Volumes ONTAP), um Details anzuzeigen und Lizenzen und Abonnements zu verwalten.</block>
-  <block id="f2900320586b6454b48843852d2c9cd6" category="paragraph">Jede Kachel bietet eine grafische Übersicht über den Kapazitätsstatus. Auf der Detailseite können Sie die Zahlungsmethoden für diese Kapazität einsehen und managen.</block>
   <block id="d3a8f85cb0b390c3875d9014a9f0e6a1" category="list-text">Wählen Sie entweder die Registerkarte *Lizenzen* oder *Abonnements* aus.</block>
   <block id="661d4023a402ca9354d866c7cb4a3bf7" category="list-text">Filtern Sie die Tabelle, indem Sie einen Spaltenfilter und einen Wert auswählen, nach dem gefiltert werden soll. Auf der Registerkarte *Abonnements* können Sie beispielsweise die Spalte Typ nach Jahresvertrag oder Abonnement filtern.</block>
   <block id="e079053622b71496829bde7eae702aa6" category="inline-image-macro">Filteraktion in Abonnementtabelle</block>
   <block id="327b1c0b128564e29e2060bd2c4ca978" category="paragraph"><block ref="327b1c0b128564e29e2060bd2c4ca978" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="169b50970986d18dea7b02feeadb180d" category="list-text">Passen Sie die in der Tabelle angezeigten Spalten an. Sie können Spalten in der Tabelle hinzufügen oder entfernen, indem Sie das Symbol Spalte auswählen, das angibt, welche Spalten Sie ein- oder ausblenden möchten. Der folgende Screenshot zeigt an, dass nur die Spalten Typ, Enddatum, Status und Konfiguration angezeigt werden.</block>
   <block id="cf44bd43ea5e0e4180c911de11e7fc50" category="inline-image-macro">Screenshot zeigt ein Beispiel zum ein- oder Ausblenden von Spalten</block>
   <block id="b04f4a30838d70bc9423c5bcc2a9d78b" category="paragraph"><block ref="b04f4a30838d70bc9423c5bcc2a9d78b" category="inline-image-macro-rx" type="image"></block></block>
   <block id="57cba9caf80ab7bb6590dd12a1c40e9a" category="list-text">Erweitern Sie eine Zeile, um Details zu Abonnement oder Lizenz, erworbener Kapazität und Bedingungen anzuzeigen.</block>
@@ -723,4 +721,6 @@
   <block id="c7031958abe0c6bca3058548b703b37f" category="sidebar">Kapazitätsbasierte Lizenzen für Cloud Volumes ONTAP</block>
   <block id="f34953a70b4a66823b7c335bccdd1df4" category="sidebar">Node-basierte Lizenzen für Cloud Volumes ONTAP</block>
   <block id="b7dddfb63fd700204e12dba0c2972cb4" category="sidebar">Marketplace-Abonnements verwalten</block>
+  <block id="77f5141787aa2cd1e98caca9f5ff20ed" category="paragraph">Jede Kachel bietet einen grafischen Überblick über die Kapazität. Auf der Detailseite können Sie die Zahlungsmethoden für diese Kapazität anzeigen und verwalten.</block>
+  <block id="8716d9652e3590060e2dac142eea7751" category="list-text">Passen Sie die in der Tabelle angezeigten Spalten an. Sie können Spalten aus der Tabelle hinzufügen und entfernen, indem Sie das Symbol *Spalte* auswählen, das angibt, welche Spalten Sie ein- oder ausblenden möchten. Der folgende Screenshot zeigt an, dass nur die Spalten Typ, Enddatum, Status und Konfiguration angezeigt werden.</block>
 </blocks>

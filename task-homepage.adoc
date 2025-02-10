@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-homepage.html 
-keywords: license, licensing, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
+keywords: license, licensing, dashboard, capacity license, capacity based license, add license, install license, digital wallet, bluexp digital wallet, cloud volumes ontap license, cloud volumes ontap 
 summary: Verschaffen Sie sich einen Überblick über alle Abonnements und Lizenzen für Ihr Unternehmen auf der digitalen Homepage. 
 ---
 = Verwenden Sie die Dashboard-Übersicht
@@ -43,14 +43,14 @@ link:task-manage-data-services-licenses.html["Erfahren Sie mehr über die Verwal
 . Wählen Sie *Übersicht*.
 . Wählen Sie *Ansicht* für den jeweiligen Datendienst (einschließlich Cloud Volumes ONTAP), um Details anzuzeigen und Lizenzen und Abonnements zu verwalten.
 +
-Jede Kachel bietet eine grafische Übersicht über den Kapazitätsstatus. Auf der Detailseite können Sie die Zahlungsmethoden für diese Kapazität einsehen und managen.
+Jede Kachel bietet einen grafischen Überblick über die Kapazität. Auf der Detailseite können Sie die Zahlungsmethoden für diese Kapazität anzeigen und verwalten.
 
 . Wählen Sie entweder die Registerkarte *Lizenzen* oder *Abonnements* aus.
 . Filtern Sie die Tabelle, indem Sie einen Spaltenfilter und einen Wert auswählen, nach dem gefiltert werden soll. Auf der Registerkarte *Abonnements* können Sie beispielsweise die Spalte Typ nach Jahresvertrag oder Abonnement filtern.
 +
 image:screenshot_digital_wallet_filter.png["Filteraktion in Abonnementtabelle"]
 
-. Passen Sie die in der Tabelle angezeigten Spalten an. Sie können Spalten in der Tabelle hinzufügen oder entfernen, indem Sie das Symbol Spalte auswählen, das angibt, welche Spalten Sie ein- oder ausblenden möchten. Der folgende Screenshot zeigt an, dass nur die Spalten Typ, Enddatum, Status und Konfiguration angezeigt werden.
+. Passen Sie die in der Tabelle angezeigten Spalten an. Sie können Spalten aus der Tabelle hinzufügen und entfernen, indem Sie das Symbol *Spalte* auswählen, das angibt, welche Spalten Sie ein- oder ausblenden möchten. Der folgende Screenshot zeigt an, dass nur die Spalten Typ, Enddatum, Status und Konfiguration angezeigt werden.
 +
 image:screenshot_digital_wallet_show_hide_columns.png["Screenshot zeigt ein Beispiel zum ein- oder Ausblenden von Spalten"]
 
