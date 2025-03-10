@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task-manage-subscriptions.html 
-keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts 
+keywords: digital wallet, subscriptions, paygo subscriptions, contracts, annual contracts, capacity 
 summary: Wenn Sie BlueXP über den Marktplatz eines Cloud-Providers abonnieren, werden Sie auf die BlueXP-Website weitergeleitet, auf der Sie Ihr Abonnement speichern und mit bestimmten Konten verknüpfen müssen. Nach dem Abonnement kann jedes Abonnement über das Digital Wallet von BlueXP gemanagt werden. 
 ---
 = PAYGO-Abonnements und -Verträge verwalten
@@ -100,7 +100,7 @@ Die Option Konfigurieren ist abgeblendet, wenn Sie ein Abonnement abbestellt hab
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
 . Wählen Sie *Marketplace Subscriptions*.
 . Wählen Sie das Aktionsmenü in der Zeile aus, die dem Abonnement entspricht, das Sie konfigurieren möchten, und wählen Sie *Konfigurieren*.
-. Wählen Sie im Dialogfeld _Configure_ eine Anmeldeinformation aus, für die das Abonnement konfiguriert werden soll. Sie können nur aus den Anmeldeinformationen auswählen, die mit dem aktuell ausgewählten Konnektor verknüpft sind. Wenn die Anmeldeinformationen, die Sie verwenden möchten, nicht angezeigt werden, wechseln Sie zu einer anderen Connector-Ansicht. ## ist das genau beschrieben? ##
+. Wählen Sie im Dialogfeld _Configure_ eine Anmeldeinformation aus, für die das Abonnement konfiguriert werden soll. Sie können nur aus den Anmeldeinformationen auswählen, die mit dem aktuell ausgewählten Konnektor verknüpft sind. Wenn die Anmeldeinformationen, die Sie verwenden möchten, nicht angezeigt werden, wechseln Sie zu einer anderen Connector-Ansicht.
 
 
 
@@ -129,7 +129,7 @@ NOTE: BlueXP  unterstützt das Identitäts- und Zugriffsmanagement (Identity an
 
 == Anzeigen von Anmeldeinformationen, die mit einem Abonnement verknüpft sind
 
-##die Zugangsdaten für ein bestimmtes Abonnement können Sie auf der Seite *Marketplace Abonnements* in der Digital Wallet einsehen. Auf diese Weise können Sie überprüfen, wie das Abonnement abgerechnet wird. Da die Anmeldeinformationen auch an den verwendeten Connector gebunden sind, müssen Sie den Connector auswählen, der mit dem Abonnement verknüpft ist, das Sie sehen möchten.##
+Die Zugangsdaten für ein bestimmtes Abonnement können Sie auf der Seite *Marketplace Subscriptions* in der Digital Wallet einsehen. Auf diese Weise können Sie überprüfen, wie das Abonnement abgerechnet wird. Da die Anmeldeinformationen auch an den verwendeten Connector gebunden sind, müssen Sie den Connector auswählen, der dem Abonnement zugeordnet ist, das Sie sehen möchten.
 
 
 NOTE: Verwenden Sie die Dropdown-Liste Connector in der oberen Navigationsleiste, um bei Bedarf zwischen den Anschlüssen zu wechseln.
@@ -181,4 +181,22 @@ video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
 
 . Wählen Sie *Abonnement hinzufügen*, um zum Marktplatz des Anbieters zu navigieren und die angegebenen Schritte auszuführen.
 . Wenn Sie fertig sind, kehren Sie zum BlueXP  zurück, um den Prozess abzuschließen.
+
+
+
+
+=== Entfernen eines Abonnements
+
+Wenn Sie ein BlueXP -Abonnement im Hyperscaler (AWS Google Cloud, oder Azure) abbestellen, zeigt die Digital Wallet den Abonnementstatus als *abgemeldet* an.
+
+Sie können ababonnierte Abonnements aus dem Digital Wallet entfernen, sodass sie nicht mehr angezeigt werden.
+
+.Schritte
+. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Wählen Sie *Marketplace Subscriptions*.
+. Wählen Sie das Aktionsmenü in der Zeile, die dem Abonnement entspricht, das Sie entfernen möchten, wählen Sie *Entfernen*.
++
+Sie können nur Abonnements entfernen, die den Status *abgemeldet* haben.
+
+. Bestätigen Sie im Dialogfeld *Abonnement entfernen*, dass Sie das Abonnement entfernen möchten.
 
