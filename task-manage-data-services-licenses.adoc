@@ -17,7 +17,7 @@ summary: 'Mit der Digital Wallet von BlueXP  können Sie Lizenzen, die Sie dire
 In der Digital Wallet von BlueXP  können Sie Lizenzen managen, die Sie direkt von NetApp (BYOL) erworben haben, um sie mit BlueXP  Datenservices einschließlich Cloud Volumes für ONTAP zu verwenden. Sie können die genutzte Lizenzkapazität einsehen, wie viel freie Kapazität Sie noch haben, und Sie werden benachrichtigt, wenn Sie das Kapazitätslimit oder das Ablaufdatum erreicht haben.
 
 
-NOTE: Auf der Seite *Data Service Licenses* sind alle Lizenzen aufgelistet. Wenn Sie Lizenzdetails für einen bestimmten Datendienst wünschen, verwenden Sie die Datendienst-Kacheln auf dem *Übersicht* Dashboard. link:task-homepage.html#overview-page["Weitere Informationen zum Dashboard mit der Übersicht"].
+NOTE: Auf der Seite *Direct Licenses* sind alle Lizenzen aufgelistet. Wenn Sie Lizenzdetails für einen bestimmten Datendienst wünschen, verwenden Sie die Datendienst-Kacheln auf dem *Übersicht* Dashboard. link:task-homepage.html#overview-page["Weitere Informationen zum Dashboard mit der Übersicht"].
 
 Die Anweisungen auf dieser Seite enthalten Informationen, die für jeden Service gelten. Weitere Informationen zur Lizenzierung für diese Services finden Sie auf den folgenden Seiten:
 
@@ -84,7 +84,7 @@ Nachdem Sie eine Lizenz bei Ihrem NetApp Vertriebsmitarbeiter erworben haben, er
 NOTE: Wenn Sie die Seriennummer eingeben möchten, müssen Sie zunächst eingeben https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Fügen Sie Ihr Konto für die NetApp Support Website zu BlueXP hinzu"^]. Hierbei handelt es sich um das Konto für die NetApp Support Site, das befugt ist, auf die Seriennummer zuzugreifen.
 
 .Schritte
-. Wählen Sie im Menü BlueXP  die Option *Governance > Digital Wallet* und anschließend die Registerkarte *Data Services Licenses*.
+. Wählen Sie im Menü BlueXP  die Option *Steuerung > Digitales Guthaben* und anschließend die Registerkarte *Direktlizenzen*.
 . Wählen Sie *Lizenz hinzufügen*.
 . Geben Sie im Dialogfeld _Add license_ die Lizenzinformationen ein und wählen Sie *Add license*:
 +
@@ -120,9 +120,20 @@ NOTE: Wenn Sie die Seriennummer eingeben möchten, müssen Sie zunächst eingebe
 .Schritte
 . Wenden Sie sich an Ihren Ansprechpartner bei NetApp, um eine neue Lizenz zu erwerben.
 +
-Nachdem Sie für die Lizenz bezahlt haben und sie auf der NetApp Support-Website registriert ist, aktualisiert BlueXP  automatisch die Lizenz in der BlueXP  Digital Wallet. Auf der Seite für die Datendienst-Lizenzen wird die Änderung in 5 bis 10 Minuten angezeigt.
+Nachdem Sie die Lizenz bezahlt haben und sie auf der NetApp Support-Website registriert ist, aktualisiert BlueXP  automatisch die Lizenz in der BlueXP  Digital Wallet und auf der Seite *Direktlizenzen* wird die Änderung in 5 bis 10 Minuten angezeigt.
 
 . Wenn BlueXP  die Lizenz nicht automatisch aktualisieren kann (z. B. bei Verwendung von BlueXP  im privaten Modus), müssen Sie eine NetApp-Lizenzdatei vom Support beziehen und die Lizenzdatei manuell hochladen. <<obtain-license,Erfahren Sie, wie Sie eine Lizenzdatei erhalten.>>
-. Wählen Sie auf der Registerkarte _Data Service Licenses_ die Seriennummer ausimage:icon-action.png["Weitere Symbole"], die Sie aktualisieren möchten, und wählen Sie *Update license* aus.
-. Laden Sie auf der Seite _Update license_ die Lizenzdatei hoch und wählen Sie *Update license*.
+. Wählen Sie auf der Registerkarte *Direct Licenses* die Seriennummer ausimage:icon-action.png["Weitere Symbole"], die Sie aktualisieren möchten, und wählen Sie *Update license* aus.
+. Laden Sie auf der Seite *Update license* die Lizenzdatei hoch und wählen Sie *Update license*.
+
+
+
+
+== Zeigen Sie den Lizenzstatus an
+
+Um Lizenzen zu verwalten, können Sie Lizenzen basierend auf dem Dienstnamen gruppieren. Dadurch können Sie alle Lizenzen anzeigen, die sich auf einen bestimmten Dienst beziehen. Sie können eine Zeile erweitern, um detaillierte Informationen zu jeder Lizenz im Zusammenhang mit dem Service anzuzeigen. In der Stammzeile für jeden Dienst werden der Dienstname und die für diesen Dienst verwendete Kapazität angezeigt. Die Lizenzen werden automatisch nach Dienstnamen gruppiert. In der Stammzeile für jeden Dienst werden der Dienstname und die für diesen Dienst verwendete Kapazität angezeigt.
+
+.Schritte
+. Wählen Sie im Menü BlueXP  die Option *Governance* > *Digital Wallet* und anschließend die Registerkarte *Direct Licenses* aus.
+. Klicken Sie auf eine Zeile mit dem Dienstnamen, um sie zu erweitern. Hier werden alle Lizenzen angezeigt, die sich auf diesen Dienst beziehen. In jeder erweiterten Zeile werden detaillierte Informationen zu den Lizenzen angezeigt, einschließlich Lizenz-ID, Seriennummer, Kapazität und Ablaufdatum.
 

@@ -109,7 +109,7 @@ Die Option Konfigurieren ist abgeblendet, wenn Sie ein Abonnement abbestellt hab
 
 Durch die Verknüpfung eines Abonnements mit einem Unternehmen wird sichergestellt, dass die Mitglieder dieses Unternehmens dieses Abonnement für die Abrechnung verwenden können.
 
-Sie können die Nutzung eines Abonnements auf eine bestimmte Organisation beschränken oder das Abonnement zwischen mehreren Organisationen freigeben. Sie können auch das Abonnement einer bestehenden Organisation ersetzen, wenn dies erforderlich ist.
+Sie können die Nutzung eines Abonnements auf eine bestimmte Organisation beschränken oder das Abonnement zwischen mehreren Organisationen freigeben.
 
 Sie müssen über die Administratorrolle des Unternehmens verfügen, um ein Abonnement mit einer Organisation verknüpfen zu können.
 
@@ -119,9 +119,8 @@ NOTE: BlueXP  unterstützt das Identitäts- und Zugriffsmanagement (Identity an
 .Schritte
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
 . Wählen Sie *Marketplace Subscriptions*.
-. Wählen Sie das Aktionsmenü in der Zeile aus, die dem Abonnement entspricht, das Sie zuordnen möchten, und wählen Sie *Associate*.
-. Wählen Sie im Dialogfeld *Abonnement verknüpfen* eine(n) Organisation(en) aus, der/denen dieses Abonnement zugeordnet werden soll.
-. Verwenden Sie optional den Schieberegler, um anzugeben, dass Sie ein vorhandenes Abonnement für die ausgewählte Organisation ersetzen.
+. Öffnen Sie in der Zeile für das Abonnement, das Sie verknüpfen möchten, das Aktionsmenü und wählen Sie *Associate* aus.
+. Wählen Sie im Dialogfeld *Abonnement verknüpfen* eine oder mehrere Organisationen aus, die mit dem Abonnement verknüpft werden sollen.
 . Wählen Sie *Mitarbeiter*.
 
 
@@ -185,18 +184,39 @@ video::373b96de-3691-4d84-b3f3-b05101161638[panopto]
 
 
 
-=== Entfernen eines Abonnements
+=== Konfiguration eines Abonnements aufheben
 
-Wenn Sie ein BlueXP -Abonnement im Hyperscaler (AWS Google Cloud, oder Azure) abbestellen, zeigt die Digital Wallet den Abonnementstatus als *abgemeldet* an.
-
-Sie können ababonnierte Abonnements aus dem Digital Wallet entfernen, sodass sie nicht mehr angezeigt werden.
+Bevor Sie ein Abonnement entfernen können, müssen Sie die Konfiguration aufheben. Dadurch werden alle zugehörigen Daten und Einstellungen gelöscht.
 
 .Schritte
-. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
+. Wählen Sie im BlueXP -Navigationsmenü *Steuerung > Digitales Guthaben*.
 . Wählen Sie *Marketplace Subscriptions*.
-. Wählen Sie das Aktionsmenü in der Zeile, die dem Abonnement entspricht, das Sie entfernen möchten, wählen Sie *Entfernen*.
+. Klicken Sie in der Zeile für das Abonnement, das Sie abkonfigurieren möchten, auf das Aktionsmenü und wählen Sie *Unconfigure*.
+. Befolgen Sie die Anweisungen, um die zugehörigen Einstellungen oder Daten zu entfernen oder zurückzusetzen.
+. Warten Sie, bis der Status auf *Unconfigured* aktualisiert wird.
+
+
+
+
+=== Entfernen eines Abonnements
+
+Wenn Sie ein BlueXP -Abonnement bei Ihrem Cloud-Provider (AWS, Google Cloud oder Azure) abbestellen, zeigt die Digital Wallet den Abonnementstatus als *abgemeldet* an.
+
+Sie können *ababonnierte* Abonnements aus dem Digital Wallet entfernen, damit sie nicht mehr angezeigt werden.
+
+[NOTE]
+====
+Sie können ein Abonnement nur entfernen, wenn es sowohl *abgemeldet* als auch *nicht konfiguriert* ist. Dies bedeutet, dass alle zugehörigen Einstellungen, Daten und Konfigurationen vor dem Entfernen gelöscht oder zurückgesetzt werden müssen.
+
+Wenn das Abonnement noch konfiguriert ist, wird die Option *Entfernen* nicht angezeigt. Um die Option verfügbar zu machen, heben Sie die Konfiguration des Abonnements auf, indem Sie alle zugehörigen Einstellungen, Dienste oder Daten löschen.
+
+====
+.Schritte
+. Wählen Sie im BlueXP -Navigationsmenü *Steuerung > Digitales Guthaben*.
+. Wählen Sie *Marketplace Subscriptions*.
+. Öffnen Sie in der Zeile für das Abonnement, das Sie entfernen möchten, das Aktionsmenü und wählen Sie *Entfernen*.
 +
-Sie können nur Abonnements entfernen, die den Status *abgemeldet* haben.
+Sie können nur Abonnements mit dem Status *unsubscribed* und *Unconfigured* entfernen.
 
 . Bestätigen Sie im Dialogfeld *Abonnement entfernen*, dass Sie das Abonnement entfernen möchten.
 

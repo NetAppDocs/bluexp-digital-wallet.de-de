@@ -57,7 +57,7 @@ image:screenshot_digital_wallet_show_hide_columns.png["Screenshot zeigt ein Beis
 . Erweitern Sie eine Zeile, um Details zu Abonnement oder Lizenz, erworbener Kapazität und Bedingungen anzuzeigen.
 . Über das Menü Aktionen können Sie eine bestimmte Lizenz oder ein bestimmtes Abonnement verwalten, z. B. eine Lizenz aktualisieren oder ein Abonnement mit einer anderen Organisation verknüpfen.
 +
-Sie können keine neuen Lizenzen oder Abonnements über die Seite *Übersicht* für einen bestimmten Dienst hinzufügen, Sie können nur Lizenzen oder Abonnements über die Registerkarte *Data Service Lizenzen* bzw. die Registerkarte *Marketplace Abonnements* hinzufügen.
+Sie können keine neuen Lizenzen oder Abonnements über die Seite *Übersicht* für einen bestimmten Dienst hinzufügen, Sie können nur Lizenzen oder Abonnements über die Registerkarte *Direct Licenses* bzw. die Registerkarte *Marketplace Subscriptions* hinzufügen.
 
 +
 link:task-data-services-licenses.html["Erfahren Sie mehr über die Verwaltung von Lizenzen."] link:task-manage-subscriptions.html["Hier erfahren Sie mehr über die Verwaltung von Abonnements."]

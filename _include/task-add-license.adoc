@@ -12,7 +12,7 @@ Nachdem Sie eine Lizenz bei Ihrem NetApp Vertriebsmitarbeiter erworben haben, er
 NOTE: Wenn Sie die Seriennummer eingeben möchten, müssen Sie zunächst eingeben https://docs.netapp.com/us-en/bluexp-setup-admin/task-adding-nss-accounts.html["Fügen Sie Ihr Konto für die NetApp Support Website zu BlueXP hinzu"^]. Hierbei handelt es sich um das Konto für die NetApp Support Site, das befugt ist, auf die Seriennummer zuzugreifen.
 
 .Schritte
-. Wählen Sie im Menü BlueXP  die Option *Governance > Digital Wallet* und anschließend die Registerkarte *Data Services Licenses*.
+. Wählen Sie im Menü BlueXP  die Option *Steuerung > Digitales Guthaben* und anschließend die Registerkarte *Direktlizenzen*.
 . Wählen Sie *Lizenz hinzufügen*.
 . Geben Sie im Dialogfeld _Add license_ die Lizenzinformationen ein und wählen Sie *Add license*:
 +

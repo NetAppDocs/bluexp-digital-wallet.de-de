@@ -33,7 +33,7 @@ Nach dem Kauf einer Lizenz bei Ihrem NetApp Vertriebsmitarbeiter sendet NetApp I
 
 In der Zwischenzeit fragt BlueXP automatisch den NetApp Lizenzservice ab, um Informationen zu den Lizenzen zu erhalten, die mit Ihrem NetApp Support Site Konto verknüpft sind. Sollte es keine Fehler geben, fügt BlueXP die Lizenzen automatisch zum Digital Wallet hinzu.
 
-Wenn BlueXP die Lizenz nicht hinzufügen kann, müssen Sie sie manuell zum Digital Wallet hinzufügen. Wenn der Connector z. B. an einem Standort installiert ist, der keinen Internetzugang hat, müssen Sie die Lizenzen selbst hinzufügen. <<Add purchased licenses to your account,Erfahren Sie, wie Sie Ihrem Konto erworbene Lizenzen hinzufügen>>.
+Wenn BlueXP die Lizenz nicht hinzufügen kann, müssen Sie sie manuell zum Digital Wallet hinzufügen. Wenn der Connector beispielsweise an einem Ort installiert ist, der keinen Internetzugang hat, müssen Sie die Lizenzen selbst hinzufügen. https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-data-services-licenses.html#add-a-license["Erfahren Sie, wie Sie Ihrem Konto erworbene Lizenzen hinzufügen"^].
 
 
 
@@ -48,7 +48,7 @@ Das Digital Wallet von BlueXP zeigt Ihnen die verbrauchte Gesamtkapazität in Ih
 image:screenshot_cvo_overview_digital_wallet.png["Ein Screenshot mit der Kapazitätsübersicht für Ihre Cloud Volumes ONTAP Lizenzen und Abonnements."]
 
 +
-** _Data Service License_ ist die insgesamt bereitgestellte Kapazität aller Cloud Volumes ONTAP Systeme in Ihrem NetApp Konto. Die Abrechnung basiert auf der bereitgestellten Größe eines jeden Volumes, unabhängig vom lokalen, genutzten, gespeicherten oder effektiven Speicherplatz innerhalb des Volumes.
+** _Direkte Lizenz_ ist die insgesamt bereitgestellte Kapazität aller Cloud Volumes ONTAP-Systeme in Ihrem NetApp-Konto. Die Abrechnung basiert auf der bereitgestellten Größe eines jeden Volumes, unabhängig vom lokalen, genutzten, gespeicherten oder effektiven Speicherplatz innerhalb des Volumes.
 ** _Jahresvertrag_ ist die gesamte lizenzierte Kapazität (Bring-Your-Own-License (BYOL) oder Marketplace-Vertrag), die Sie von NetApp erworben haben.
 ** _PAYGO_ ist die insgesamt bereitgestellte Kapazität über Cloud Marketplace-Abonnements. Die Abrechnung über PAYGO wird nur dann genutzt, wenn die verbrauchte Kapazität über der lizenzierten Kapazität liegt oder wenn im Digital Wallet von BlueXP keine BYOL-Lizenz verfügbar ist.
 
@@ -114,13 +114,10 @@ image:screenshot_digital_wallet_legacy_view.png["Ein Screenshot der Schaltfläch
 
 . Scrollen Sie nach unten zur Tabelle *capacity-based license* und wählen Sie *Change Charging Method*.
 +
-image:screenshot-digital-wallet-charging-method-button.png["Ein Screenshot der Cloud Volumes ONTAP-Seite im Digital Wallet von BlueXP, auf der sich die Schaltfläche „Ladestart ändern“ direkt über der Tabelle befindet."]
+image:screenshot-digital-wallet-charging-method-button.png["Ein Screenshot der Cloud Volumes ONTAP-Seite in der BlueXP  Digital Wallet, in der sich die Schaltfläche zum Ändern der Lademethode direkt über der Tabelle befindet."]
 
-. Wählen Sie eine Arbeitsumgebung aus, wählen Sie die neue Lademethode aus, und bestätigen Sie anschließend, dass sich eine Änderung des Paketyps auf Servicegebühren auswirkt.
-+
-image:screenshot-digital-wallet-charging-method.png["Ein Screenshot des Dialogfelds „Lademethode ändern“, in dem Sie eine neue Lademethode für eine Cloud Volumes ONTAP-Arbeitsumgebung auswählen."]
-
-. Wählen Sie *Lademethode Ändern*.
+. Wählen Sie im Popup-Fenster *Lademethode ändern* eine Arbeitsumgebung aus, wählen Sie die neue Lademethode aus und bestätigen Sie anschließend, dass sich eine Änderung des Paketyps auf die Servicegebühren auswirkt.
+. Wählen Sie *Lademethode ändern*.
 
 
 

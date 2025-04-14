@@ -82,8 +82,8 @@ Wenn Sie eine nicht zugewiesene Node-basierte Lizenz für Cloud Volumes ONTAP ve
 
 Beim Austausch der Lizenz wird die Cloud Volumes ONTAP-Lizenz zurückgerufen und eine Dollaräquivalente Lizenz für den Service erstellt:
 
-* Die Lizenzierung für ein Cloud Volumes ONTAP HA-Paar wird in eine 51 tib Datenservice-Lizenz umgewandelt
-* Die Lizenzierung für einen Cloud Volumes ONTAP-Single-Node wird in eine 32 tib Datenservice-Lizenz umgewandelt
+* Die Lizenzierung für ein Cloud Volumes ONTAP HA-Paar wird in eine direkte 51 TiB-Lizenz umgewandelt
+* Die Lizenzierung für einen einzelnen Cloud Volumes ONTAP Node wird in eine direkte 32 TiB-Lizenz umgewandelt
 
 
 Die konvertierte Lizenz hat dasselbe Ablaufdatum wie die Cloud Volumes ONTAP-Lizenz.
