@@ -208,32 +208,6 @@ Wenn eine Lizenz für zusätzliche Kapazität abgelaufen ist und nicht mehr verw
 
 
 
-=== Konvertieren einer Eval-Lizenz in einen BYOL-Modell
-
-Eine Evaluierungslizenz ist 30 Tage lang gut. Für ein in-Place-Upgrade kann eine neue BYOL-Lizenz auf die Evaluierungslizenz angewendet werden.
-
-Wenn Sie eine Eval-Lizenz in einen Byol konvertieren, startet BlueXP das Cloud Volumes ONTAP-System neu.
-
-* Bei einem Single-Node-System führt der Neustart zu I/O-Unterbrechungen während des Neubootens.
-* Bei einem HA-Paar initiiert der Neustart Takeover und Giveback, um den I/O-Vorgängen weiterhin an die Clients bereitzustellen.
-
-
-.Schritte
-. Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
-. Wählen Sie die Registerkarte *Übersicht*.
-. Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
-. Wählen Sie *Node Based Licenses* aus der Dropdown-Liste aus.
-. Klicken Sie Auf *Eval*.
-. Klicken Sie in der Tabelle auf *in Byol-Lizenz konvertieren* für ein Cloud Volumes ONTAP-System.
-. Geben Sie die Seriennummer ein, oder laden Sie die Lizenzdatei hoch.
-. Klicken Sie Auf *Lizenz Konvertieren*.
-
-
-.Ergebnis
-BlueXP startet den Konvertierungsprozess. Cloud Volumes ONTAP wird im Rahmen dieses Prozesses automatisch neu gestartet. Wenn es gesichert ist, werden die Lizenzinformationen die neue Lizenz enthalten.
-
-
-
 == Wechseln Sie zwischen PAYGO und BYOL
 
 Das Konvertieren eines Systems von der PAYGO-Lizenzierung pro Node in BYOL-by-Node-Lizenzierung (und umgekehrt) wird nicht unterstützt. Um zwischen einem nutzungsbasierten Abonnement und einem BYOL-Abonnement zu wechseln, müssen Sie ein neues System implementieren und Daten vom vorhandenen System auf das neue System replizieren.

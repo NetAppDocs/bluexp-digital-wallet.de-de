@@ -82,9 +82,13 @@ Sie können Details zur pro Paket genutzten Kapazität anzeigen, indem Sie auf d
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
 . Auf der Registerkarte *Übersicht* zeigt die Kachel Cloud Volumes ONTAP die aktuelle Kapazität an, die für Ihr Konto bereitgestellt wird.
 . Wählen Sie *Ansicht*, um die bereitgestellte Kapazität für jedes Ihrer Lizenzpakete anzuzeigen.
-. Wählen Sie *zur alten Ansicht wechseln*.
+. Wählen Sie *zur erweiterten Ansicht wechseln*.
 +
-image:screenshot_digital_wallet_legacy_view.png["Ein Screenshot der Schaltfläche zur alten Ansicht wechseln"]
+image:screenshot_digital_wallet_legacy_view.png["Ein Screenshot der Schaltfläche zur erweiterten Ansicht wechseln"]
+
+. Zeigen Sie die Details des Pakets an, das Sie sehen möchten.
++
+image:screenshot_digital_wallet_standard_view.png["Ein Screenshot der Schaltfläche zur Standardansicht"]
 
 
 
@@ -108,7 +112,7 @@ BlueXP versucht immer zuerst, eine Lizenz zu berechnen. Wenn eine Lizenz nicht v
 . Wählen Sie im Navigationsmenü BlueXP die Option *Governance > Digital Wallet* aus.
 . Wählen Sie die Registerkarte *Übersicht*.
 . Wählen Sie auf der Kachel Cloud Volumes ONTAP *Ansicht*.
-. Wählen Sie *zur alten Ansicht wechseln*.
+. Wählen Sie *zur erweiterten Ansicht wechseln*.
 +
 image:screenshot_digital_wallet_legacy_view.png["Ein Screenshot der Schaltfläche zur alten Ansicht wechseln"]
 
