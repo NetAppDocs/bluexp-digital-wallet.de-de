@@ -143,7 +143,7 @@ Die folgenden Berichte stehen zum Download zur Verfügung. Die angegebenen Kapaz
 ** Gesamte PAYGO-Kapazität
 
 
-* *Cloud Volumes ONTAP-Paketverwendung*: Dieser Bericht enthält die folgenden Informationen für jedes Paket außer dem optimierten I/O-Paket:
+* * Cloud Volumes ONTAP -Paketnutzung*: Dieser Bericht enthält die folgenden Informationen für jedes Paket:
 +
 ** Insgesamt verbrauchte Kapazität
 ** Gesamte vorab gebuchte Kapazität
